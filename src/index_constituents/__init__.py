@@ -57,7 +57,11 @@ from datetime import date, datetime, timedelta
 from functools import cache
 from pathlib import Path
 
-DATA = Path(__file__).resolve().parent.parent.parent / "data"
+# In a wheel the artifacts sit inside the package; in a checkout (or editable
+# install) they stay at the repo root next to the raw sources they were built from.
+DATA = Path(__file__).resolve().parent / "data"
+if not (DATA / "sp500").is_dir():
+    DATA = Path(__file__).resolve().parent.parent.parent / "data"
 
 __all__ = [
     "Discrepancy",

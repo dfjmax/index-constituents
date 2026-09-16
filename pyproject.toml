@@ -25,6 +25,14 @@ build-backend = "hatchling.build"
 [tool.hatch.build.targets.wheel]
 packages = ["src/index_constituents"]
 
+# The artifacts are the product: a wheel without them cannot answer any query.
+# raw/ and manifest.json stay repo-only (rebuild inputs, not read-time data).
+[tool.hatch.build.targets.wheel.force-include]
+"data/sp500/membership.csv" = "index_constituents/data/sp500/membership.csv"
+"data/sp500/renames.csv" = "index_constituents/data/sp500/renames.csv"
+"data/sp500/discrepancies.csv" = "index_constituents/data/sp500/discrepancies.csv"
+"data/sp500/summary.json" = "index_constituents/data/sp500/summary.json"
+
 [tool.ruff]
 line-length = 120
 target-version = "py311"
