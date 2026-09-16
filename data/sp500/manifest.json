@@ -1,0 +1,342 @@
+{
+  "directory": "www2.standardandpoors.com/spf/xls/index/",
+  "retrieved_via": "web.archive.org",
+  "files": [
+    {
+      "file": "sp500_gics_20030308023927.xls",
+      "kind": "workbook",
+      "source_url": "http://www2.standardandpoors.com:80/spf/xls/index/sp500.xls",
+      "wayback_timestamp": "20030308023927",
+      "bytes": 112128,
+      "sha256": "75fb87f0f3f0dbc7c7ac37a8abd449566d30f312e05480426070181b86b956c0"
+    },
+    {
+      "file": "500_20030606_C.tsv",
+      "kind": "tsv",
+      "source_url": "http://www2.standardandpoors.com:80/spf/xls/index/500_20030606_C.xls",
+      "wayback_timestamp": "20030612111320",
+      "bytes": 45486,
+      "sha256": "8f3dda3dbfdf19d9d8b476f6cd0222bd6c5ac9e671eddae7e9044ddd40fa4671"
+    },
+    {
+      "file": "sp500_gics_20030805131151.xls",
+      "kind": "workbook",
+      "source_url": "http://www2.standardandpoors.com:80/spf/xls/index/sp500.xls",
+      "wayback_timestamp": "20030805131151",
+      "bytes": 113664,
+      "sha256": "238ed0f8ffce05859b957922af6e883013b9abfbfb415c207ecf634e8414b51f"
+    },
+    {
+      "file": "500_20040209_C.tsv",
+      "kind": "tsv",
+      "source_url": "http://www2.standardandpoors.com:80/spf/xls/index/500_20040209_C.xls",
+      "wayback_timestamp": "20040212070411",
+      "bytes": 45483,
+      "sha256": "6dc42f6072e93adef955d5494af0cb20ddb50b78e1e9a8522b3440ae0e90e48b"
+    },
+    {
+      "file": "500_20031205_C.tsv",
+      "kind": "tsv",
+      "source_url": "http://www2.standardandpoors.com:80/spf/xls/index/500_20031205_C.xls",
+      "wayback_timestamp": "20040213071120",
+      "bytes": 45470,
+      "sha256": "7c0342a29471f842c6f5fc37c970f8d454a0f18c125435540382e9407cfd039d"
+    },
+    {
+      "file": "sp500_gics_20040214052110.xls",
+      "kind": "workbook",
+      "source_url": "http://www2.standardandpoors.com:80/spf/xls/index/sp500.xls?GXHC_gx_session_id_=30f23725c0737e59&amp",
+      "wayback_timestamp": "20040214052110",
+      "bytes": 113664,
+      "sha256": "801b145a56b229757fe8acb991bb7b755988ec7edcdaaf9236335f4f1d8de725"
+    },
+    {
+      "file": "500_20040426_C.tsv",
+      "kind": "tsv",
+      "source_url": "http://www2.standardandpoors.com:80/spf/xls/index/500_20040426_C.xls",
+      "wayback_timestamp": "20040429112407",
+      "bytes": 45440,
+      "sha256": "0aa6c133b4156f0112977874ab4a3b7eea7f99771412d838d917e711dcff739b"
+    },
+    {
+      "file": "sp500_gics_20040611104413.xls",
+      "kind": "workbook",
+      "source_url": "http://www2.standardandpoors.com:80/spf/xls/index/sp500.xls?GXHC_gx_session_id_=217270a6dae501cc&amp",
+      "wayback_timestamp": "20040611104413",
+      "bytes": 112640,
+      "sha256": "697e9d4c637dd2d714390f526ac6ca2b521c85fd1f257d82b4d55a8e3e849412"
+    },
+    {
+      "file": "sp500_gics_20040810112112.xls",
+      "kind": "workbook",
+      "source_url": "http://www2.standardandpoors.com:80/spf/xls/index/sp500.xls?GXHC_gx_session_id_=706cf46bd18a2894&amp",
+      "wayback_timestamp": "20040810112112",
+      "bytes": 112640,
+      "sha256": "f6f7185706e61c4cba2c35526a613cc1ea273249102e3f7fbf89bb30e83e2151"
+    },
+    {
+      "file": "sp500_gics_20050201001903.xls",
+      "kind": "workbook",
+      "source_url": "http://www2.standardandpoors.com:80/spf/xls/index/sp500.xls",
+      "wayback_timestamp": "20050201001903",
+      "bytes": 112128,
+      "sha256": "f1fe4814f7db6878ceefeb35cfe96827e546fdbc04481873ff82248ae0364f16"
+    },
+    {
+      "file": "sp500_gics_20050514122713.xls",
+      "kind": "workbook",
+      "source_url": "http://www2.standardandpoors.com:80/spf/xls/index/sp500.xls",
+      "wayback_timestamp": "20050514122713",
+      "bytes": 112128,
+      "sha256": "8b3526e47574be28c6efc8451c82e443aa1f16aaa5bfe5d504f87a4160466330"
+    },
+    {
+      "file": "sp500_gics_20050924175433.xls",
+      "kind": "workbook",
+      "source_url": "http://www2.standardandpoors.com:80/spf/xls/index/sp500.xls",
+      "wayback_timestamp": "20050924175433",
+      "bytes": 112128,
+      "sha256": "a147078f20a96063f573294faadf648ff734ce034f89f38351ce52bf74e9f689"
+    },
+    {
+      "file": "500_20051020_C.tsv",
+      "kind": "tsv",
+      "source_url": "http://www2.standardandpoors.com:80/spf/xls/index/500_20051020_C.xls",
+      "wayback_timestamp": "20051023002240",
+      "bytes": 45400,
+      "sha256": "7bbf11be9440a5aaa478a6ae5df8a38985bd9f709af6b506c0cd1cbb2684db0c"
+    },
+    {
+      "file": "sp500_gics_20051025133648.xls",
+      "kind": "workbook",
+      "source_url": "http://www2.standardandpoors.com:80/spf/xls/index/sp500.xls",
+      "wayback_timestamp": "20051025133648",
+      "bytes": 112128,
+      "sha256": "6373f3e025809d4d23bf592a835c64e99cac160b3af40767c6a946ae1825b8e1"
+    },
+    {
+      "file": "500_20051110_C.tsv",
+      "kind": "tsv",
+      "source_url": "http://www2.standardandpoors.com:80/spf/xls/index/500_20051110_C.xls",
+      "wayback_timestamp": "20051124005438",
+      "bytes": 45400,
+      "sha256": "89f25a9ac61590bb65379b9082db0272d2e07ede0ebf0c9d92ce6a17c9e21869"
+    },
+    {
+      "file": "500_20051125_C.tsv",
+      "kind": "tsv",
+      "source_url": "http://www2.standardandpoors.com:80/spf/xls/index/500_20051125_C.xls",
+      "wayback_timestamp": "20051201032725",
+      "bytes": 45377,
+      "sha256": "8df18b29e3f0c50aca74fa847341517f9bc1d9b618c4e779d83e364a26bd24ef"
+    },
+    {
+      "file": "sp500_gics_20051208004315.xls",
+      "kind": "workbook",
+      "source_url": "http://www2.standardandpoors.com:80/spf/xls/index/sp500.xls",
+      "wayback_timestamp": "20051208004315",
+      "bytes": 112128,
+      "sha256": "a0798b12dccec048bb426586ba51910f861db734c80c3f099ded1048b14c0ea1"
+    },
+    {
+      "file": "500_20051219_C.tsv",
+      "kind": "tsv",
+      "source_url": "http://www2.standardandpoors.com:80/spf/xls/index/500_20051219_C.xls",
+      "wayback_timestamp": "20051223142548",
+      "bytes": 45399,
+      "sha256": "f3ce7d4434889107850790c9ca85e3a8ea96fd1ab255568635022d03c8cbbe54"
+    },
+    {
+      "file": "500_20051223_C.tsv",
+      "kind": "tsv",
+      "source_url": "http://www2.standardandpoors.com:80/spf/xls/index/500_20051223_C.xls",
+      "wayback_timestamp": "20051230065539",
+      "bytes": 45399,
+      "sha256": "404e84ab4e405faac33b82a2dc1821f798b26b561419b2aeb085d6db7e56132c"
+    },
+    {
+      "file": "sp500_gics_20060110100903.xls",
+      "kind": "workbook",
+      "source_url": "http://www2.standardandpoors.com:80/spf/xls/index/sp500.xls",
+      "wayback_timestamp": "20060110100903",
+      "bytes": 112128,
+      "sha256": "d0a573b6e245415eee23bbd8135332a3132d057680c37045abc51411906e3600"
+    },
+    {
+      "file": "sp500_gics_20060223134759.xls",
+      "kind": "workbook",
+      "source_url": "http://www2.standardandpoors.com:80/spf/xls/index/sp500.xls",
+      "wayback_timestamp": "20060223134759",
+      "bytes": 112640,
+      "sha256": "3395661b798d6a5bfc98faa98f5f2673625fc5b5eded4371d5f2209bd24cb003"
+    },
+    {
+      "file": "sp500_gics_20060325180238.xls",
+      "kind": "workbook",
+      "source_url": "http://www2.standardandpoors.com/spf/xls/index/sp500.xls",
+      "wayback_timestamp": "20060325180238",
+      "bytes": 112640,
+      "sha256": "995225a7cb979b9933401351e330319615bd0c303b268e9919c365c26dfe6389"
+    },
+    {
+      "file": "500_20060126_C.tsv",
+      "kind": "tsv",
+      "source_url": "http://www2.standardandpoors.com:80/spf/xls/index/500_20060126_C.xls",
+      "wayback_timestamp": "20060515023918",
+      "bytes": 45407,
+      "sha256": "c7ad865cbacdf80e8a82b22044b9ef5dad3325b5ae422a6376c29b93eb825be3"
+    },
+    {
+      "file": "sp500_gics_20060718183804.xls",
+      "kind": "workbook",
+      "source_url": "http://www2.standardandpoors.com:80/spf/xls/index/sp500.xls",
+      "wayback_timestamp": "20060718183804",
+      "bytes": 129024,
+      "sha256": "b8a7440692a5ceb824da49edd2027f57b858b44fff28fc88518d2d85d4490192"
+    },
+    {
+      "file": "sp500_gics_20060721141846.xls",
+      "kind": "workbook",
+      "source_url": "http://www2.standardandpoors.com:80/spf/xls/index/sp500.xls",
+      "wayback_timestamp": "20060721141846",
+      "bytes": 113664,
+      "sha256": "3b87a49e871ffc5efa4f32afdec554490b1f75b673b820a446588f58a90653bd"
+    },
+    {
+      "file": "500_20041231_C.tsv",
+      "kind": "tsv",
+      "source_url": "http://www2.standardandpoors.com:80/spf/xls/index/500_20041231_C.xls",
+      "wayback_timestamp": "20060901014157",
+      "bytes": 45385,
+      "sha256": "9e0d167a2871727db267d4c6e7bc5d5235c4e48614096eb19d3437c668288072"
+    },
+    {
+      "file": "500_20060828_C.tsv",
+      "kind": "tsv",
+      "source_url": "http://www2.standardandpoors.com:80/spf/xls/index/500_20060828_C.xls",
+      "wayback_timestamp": "20060901014351",
+      "bytes": 45413,
+      "sha256": "dc74026814b3c514bf913a579ee3b51d79a87c8384481309a0e7f674b87d9406"
+    },
+    {
+      "file": "500_20011231_C.tsv",
+      "kind": "tsv",
+      "source_url": "http://www2.standardandpoors.com:80/spf/xls/index/500_20011231_C.xls",
+      "wayback_timestamp": "20060901014608",
+      "bytes": 45376,
+      "sha256": "acf333c3fc4271d94ddea5ea4f28e2cac92ba5da2b8c1980712aa7813d9984d1"
+    },
+    {
+      "file": "500_20021231_C.tsv",
+      "kind": "tsv",
+      "source_url": "http://www2.standardandpoors.com:80/spf/xls/index/500_20021231_C.xls",
+      "wayback_timestamp": "20060901014745",
+      "bytes": 45380,
+      "sha256": "0f239d0805d7279b7c3d4ef6f79b843f7b31d5ede30589414be635dda688f109"
+    },
+    {
+      "file": "500_20001229_C.tsv",
+      "kind": "tsv",
+      "source_url": "http://www2.standardandpoors.com:80/spf/xls/index/500_20001229_C.xls",
+      "wayback_timestamp": "20060901014836",
+      "bytes": 45198,
+      "sha256": "77ce7247582cff144574db1922140062d316dc301957f3f8d6365a550eacdd7f"
+    },
+    {
+      "file": "500_20051230_C.tsv",
+      "kind": "tsv",
+      "source_url": "http://www2.standardandpoors.com:80/spf/xls/index/500_20051230_C.xls",
+      "wayback_timestamp": "20060901014855",
+      "bytes": 45415,
+      "sha256": "dfd693137a3a55b0aa1a1a2625c6b5fc46dc3d97e7e692447e6d73ef72f5406c"
+    },
+    {
+      "file": "500_20031231_C.tsv",
+      "kind": "tsv",
+      "source_url": "http://www2.standardandpoors.com:80/spf/xls/index/500_20031231_C.xls",
+      "wayback_timestamp": "20060901015007",
+      "bytes": 45483,
+      "sha256": "4f04b91682148c609a10181844800451cd8c18c66aae857977a012385daa9981"
+    },
+    {
+      "file": "500_20060829_C.tsv",
+      "kind": "tsv",
+      "source_url": "http://www2.standardandpoors.com:80/spf/xls/index/500_20060829_C.xls",
+      "wayback_timestamp": "20060901083137",
+      "bytes": 45413,
+      "sha256": "e6f5baae65d3c0f827adff4cf1bd61aa561cb4d8698ae5ec7cb331a417e7e6de"
+    },
+    {
+      "file": "500_20040204_C.tsv",
+      "kind": "tsv",
+      "source_url": "http://www2.standardandpoors.com:80/spf/xls/index/500_20040204_C.xls",
+      "wayback_timestamp": "20060927061955",
+      "bytes": 45483,
+      "sha256": "12346193b7d676d87c78a9596c4cffbe6305b4584b9ca14c67a124504bba1033"
+    },
+    {
+      "file": "500_20031023_C.tsv",
+      "kind": "tsv",
+      "source_url": "http://www2.standardandpoors.com:80/spf/xls/index/500_20031023_C.xls",
+      "wayback_timestamp": "20061107174436",
+      "bytes": 45465,
+      "sha256": "246f3bcc04106636bc364cbb8a87e346d4d99acfebaf2ed083071b8ec2584cc2"
+    },
+    {
+      "file": "sp500_gics_20061207040806.xls",
+      "kind": "workbook",
+      "source_url": "http://www2.standardandpoors.com:80/spf/xls/index/sp500.xls",
+      "wayback_timestamp": "20061207040806",
+      "bytes": 113152,
+      "sha256": "3cadd41debeea8b31b16692cec12deb4d56c0017e85a863291c3e632f92985b1"
+    },
+    {
+      "file": "sp500_gics_20061221231218.xls",
+      "kind": "workbook",
+      "source_url": "http://www2.standardandpoors.com:80/spf/xls/index/sp500.xls",
+      "wayback_timestamp": "20061221231218",
+      "bytes": 113664,
+      "sha256": "f0dfbff9d909e3773bfa4ac5f339052d213ccef97e2ae36b42d27275dc07cfb8"
+    },
+    {
+      "file": "sp500_gics_20070104215752.xls",
+      "kind": "workbook",
+      "source_url": "http://www2.standardandpoors.com:80/spf/xls/index/sp500.xls",
+      "wayback_timestamp": "20070104215752",
+      "bytes": 113664,
+      "sha256": "c9d590f1371132a891f85557bad64fe77f3c44e56f45e1f256dbd98d619d9d51"
+    },
+    {
+      "file": "sp500_gics_20070109150731.xls",
+      "kind": "workbook",
+      "source_url": "http://www2.standardandpoors.com:80/spf/xls/index/sp500.xls",
+      "wayback_timestamp": "20070109150731",
+      "bytes": 112640,
+      "sha256": "d693aa5f57d77076719aee9e9a4a019c80ae8e9a5722d4e87f72af629692f624"
+    },
+    {
+      "file": "sp500_gics_20070114065520.xls",
+      "kind": "workbook",
+      "source_url": "http://www2.standardandpoors.com:80/spf/xls/index/sp500.xls",
+      "wayback_timestamp": "20070114065520",
+      "bytes": 112640,
+      "sha256": "d781f06c046f54ebcb7d6932501d1af38ed2cce4ca60cd8147d9514690bf0304"
+    },
+    {
+      "file": "sp500_gics_20070208124345.xls",
+      "kind": "workbook",
+      "source_url": "http://www2.standardandpoors.com:80/spf/xls/index/sp500.xls",
+      "wayback_timestamp": "20070208124345",
+      "bytes": 112640,
+      "sha256": "91b4c56c93d33107ae6a1e4ab16b5b24c134f17cb041fdf1b45f6a93ac45f02a"
+    },
+    {
+      "file": "sp500_gics_20090903013308.xls",
+      "kind": "workbook",
+      "source_url": "http://www2.standardandpoors.com:80/spf/xls/index/sp500.xls",
+      "wayback_timestamp": "20090903013308",
+      "bytes": 116736,
+      "sha256": "0bef356f7275050aaab2adf70d674076d9b71d4f1bd22fde9212fa281bf4513d"
+    }
+  ]
+}

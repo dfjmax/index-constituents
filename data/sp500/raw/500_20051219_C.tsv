@@ -1,0 +1,501 @@
+Symbol	Company	Country	GICS	Sector	Price
+MMM            	3M Company	US                	20        	Industrials	      77.57
+ABT            	Abbott Labs	US                	35        	Health Care	      40.43
+ACE            	ACE Limited	US                	40        	Financials	      53.42
+ADCT           	ADC Telecommunications	US                	45        	Information Technology	      23.45
+ADBE           	Adobe Systems	US                	45        	Information Technology	      38.45
+AMD            	Advanced Micro Devices	US                	45        	Information Technology	      28.12
+AES            	AES Corp.	US                	55        	Utilities	      15.91
+AET            	Aetna Inc. (New)	US                	35        	Health Care	      94.23
+ACS            	Affiliated Computer	US                	45        	Information Technology	      56.17
+AFL            	AFLAC Inc.	US                	40        	Financials	      46.99
+A              	Agilent Technologies	US                	45        	Information Technology	      35.05
+APD            	Air Products & Chemicals	US                	15        	Materials	      59.30
+ACV            	Alberto-Culver	US                	30        	Consumer Staples	      45.34
+ABS            	Albertson's	US                	30        	Consumer Staples	      23.86
+AA             	Alcoa Inc	US                	15        	Materials	      28.55
+AYE            	Allegheny Energy	US                	55        	Utilities	      31.86
+ATI            	Allegheny Technologies Inc	US                	15        	Materials	      33.01
+AGN            	Allergan, Inc.	US                	35        	Health Care	     107.51
+AW             	Allied Waste Industries	US                	20        	Industrials	       8.95
+ALL            	Allstate Corp.	US                	40        	Financials	      54.16
+AT             	ALLTEL Corp.	US                	50        	Telecommunications Services	      64.01
+ALTR           	Altera Corp.	US                	45        	Information Technology	      18.82
+MO             	Altria Group, Inc.	US                	30        	Consumer Staples	      76.58
+AMZN           	Amazon Corp.	US                	25        	Consumer Discretionary	      48.37
+ABK            	Ambac Financial Group	US                	40        	Financials	      77.41
+AHC            	Amerada Hess	US                	10        	Energy	     125.53
+AEE            	Ameren Corporation	US                	55        	Utilities	      51.72
+AEP            	American Electric Power	US                	55        	Utilities	      37.00
+AXP            	American Express	US                	40        	Financials	      51.27
+AIG            	American Int'l. Group	US                	40        	Financials	      65.82
+APCC           	American Power Conversion	US                	20        	Industrials	      22.04
+ASD            	American Standard	US                	20        	Industrials	      39.97
+AMP            	Ameriprise Financial, Inc.	US                	40        	Financials	      41.31
+ABC            	AmerisourceBergen Corp.	US                	35        	Health Care	      80.90
+AMGN           	Amgen	US                	35        	Health Care	      77.63
+ASO            	AmSouth Bancorporation	US                	40        	Financials	      26.55
+APC            	Anadarko Petroleum	US                	10        	Energy	      95.97
+ADI            	Analog Devices	US                	45        	Information Technology	      36.78
+ANDW           	Andrew Corp.	US                	45        	Information Technology	      10.94
+BUD            	Anheuser-Busch	US                	30        	Consumer Staples	      44.27
+AOC            	Aon Corp.	US                	40        	Financials	      35.83
+APA            	Apache Corp.	US                	10        	Energy	      69.17
+AIV            	Apartment Investment & Mgmt'A'	US                	40        	Financials	      37.71
+APOL           	Apollo Group	US                	25        	Consumer Discretionary	      62.50
+AAPL           	Apple Computer	US                	45        	Information Technology	      71.38
+ABI            	Applera Corp-Applied Biosystems Group	US                	35        	Health Care	      26.26
+AMAT           	Applied Materials	US                	45        	Information Technology	      18.43
+AMCC           	Applied Micro Circuits	US                	45        	Information Technology	       2.63
+ADM            	Archer-Daniels-Midland	US                	30        	Consumer Staples	      24.56
+ASN            	Archstone-Smith Trust	US                	40        	Financials	      42.37
+ASH            	Ashland Inc.	US                	15        	Materials	      55.86
+T              	AT&T Inc.	US                	50        	Telecommunications Services	      24.83
+ADSK           	Autodesk, Inc.	US                	45        	Information Technology	      45.25
+ADP            	Automatic Data Processing Inc.	US                	45        	Information Technology	      46.37
+AN             	AutoNation, Inc.	US                	25        	Consumer Discretionary	      22.08
+AZO            	AutoZone Inc.	US                	25        	Consumer Discretionary	      91.98
+AV             	Avaya Inc.	US                	45        	Information Technology	      10.49
+AVY            	Avery Dennison Corp.	US                	20        	Industrials	      55.51
+AVP            	Avon Products	US                	30        	Consumer Staples	      29.19
+BHI            	Baker Hughes	US                	10        	Energy	      60.12
+BLL            	Ball Corp.	US                	15        	Materials	      39.86
+BAC            	Bank of America Corp.	US                	40        	Financials	      46.53
+BK             	Bank of New York	US                	40        	Financials	      31.77
+BCR            	Bard (C.R.) Inc.	US                	35        	Health Care	      67.18
+BOL            	Bausch & Lomb	US                	35        	Health Care	      79.56
+BAX            	Baxter International Inc.	US                	35        	Health Care	      37.90
+BBT            	BB&T Corporation	US                	40        	Financials	      42.83
+BSC            	Bear Stearns Cos.	US                	40        	Financials	     115.20
+BDX            	Becton, Dickinson	US                	35        	Health Care	      59.29
+BBBY           	Bed Bath & Beyond	US                	25        	Consumer Discretionary	      41.17
+BLS            	BellSouth	US                	50        	Telecommunications Services	      27.85
+BMS            	Bemis Company	US                	15        	Materials	      26.60
+BBY            	Best Buy Co., Inc.	US                	25        	Consumer Discretionary	      43.71
+BLI            	Big Lots, Inc.	US                	25        	Consumer Discretionary	      11.75
+BIIB           	BIOGEN IDEC Inc.	US                	35        	Health Care	      44.09
+BMET           	Biomet, Inc.	US                	35        	Health Care	      36.74
+BJS            	BJ Services	US                	10        	Energy	      37.39
+BDK            	Black & Decker Corp.	US                	25        	Consumer Discretionary	      85.06
+HRB            	Block H&R	US                	25        	Consumer Discretionary	      24.22
+BMC            	BMC Software	US                	45        	Information Technology	      20.28
+BA             	Boeing Company	US                	20        	Industrials	      69.97
+BSX            	Boston Scientific	US                	35        	Health Care	      25.61
+BMY            	Bristol-Myers Squibb	US                	35        	Health Care	      22.49
+BRCM           	Broadcom Corporation	US                	45        	Information Technology	      47.01
+BF.B           	Brown-Forman Corp.	US                	30        	Consumer Staples	      71.37
+BC             	Brunswick Corp.	US                	25        	Consumer Discretionary	      39.94
+BNI            	Burlington Northern Santa Fe C	US                	20        	Industrials	      66.61
+BR             	Burlington Resources	US                	10        	Energy	      86.34
+CPB            	Campbell Soup	US                	30        	Consumer Staples	      30.33
+COF            	Capital One Financial	US                	40        	Financials	      86.00
+CAH            	Cardinal Health, Inc.	US                	35        	Health Care	      68.00
+CMX            	Caremark Rx	US                	35        	Health Care	      51.75
+CCL            	Carnival Corp.	US                	25        	Consumer Discretionary	      53.04
+CAT            	Caterpillar Inc.	US                	20        	Industrials	      56.83
+CD             	Cendant Corporation	US                	20        	Industrials	      16.50
+CNP            	CenterPoint Energy	US                	55        	Utilities	      13.01
+CTX            	Centex Corp.	US                	25        	Consumer Discretionary	      70.09
+CTL            	Century Telephone	US                	50        	Telecommunications Services	      33.56
+SCHW           	Charles Schwab	US                	40        	Financials	      14.68
+CVX            	Chevron Corp.	US                	10        	Energy	      56.75
+CHIR           	Chiron Corp.	US                	35        	Health Care	      44.76
+CB             	Chubb Corp.	US                	40        	Financials	      95.48
+CIEN           	Ciena Corp.	US                	45        	Information Technology	       2.82
+CI             	CIGNA Corp.	US                	35        	Health Care	     109.57
+CINF           	Cincinnati Financial	US                	40        	Financials	      44.95
+CIN            	CINergy Corp.	US                	55        	Utilities	      41.68
+CTAS           	Cintas Corporation	US                	20        	Industrials	      42.19
+CC             	Circuit City Group	US                	25        	Consumer Discretionary	      22.70
+CSCO           	Cisco Systems	US                	45        	Information Technology	      17.46
+CIT            	CIT Group	US                	40        	Financials	      51.64
+C              	Citigroup Inc.	US                	40        	Financials	      49.17
+CZN            	Citizens Communications	US                	50        	Telecommunications Services	      12.75
+CTXS           	Citrix Systems	US                	45        	Information Technology	      27.46
+CCU            	Clear Channel Communications	US                	25        	Consumer Discretionary	      32.68
+CLX            	Clorox Co.	US                	30        	Consumer Staples	      57.75
+CMS            	CMS Energy	US                	55        	Utilities	      14.56
+COH            	Coach, Inc.	US                	25        	Consumer Discretionary	      33.12
+KO             	Coca Cola Co.	US                	30        	Consumer Staples	      41.42
+CCE            	Coca-Cola Enterprises	US                	30        	Consumer Staples	      19.80
+CL             	Colgate-Palmolive	US                	30        	Consumer Staples	      55.88
+CMCSA          	Comcast Corp.	US                	25        	Consumer Discretionary	      26.63
+CMA            	Comerica Inc.	US                	40        	Financials	      57.49
+CBSS           	Compass Bancshares	US                	40        	Financials	      49.17
+CA             	Computer Associates Intl.	US                	45        	Information Technology	      28.30
+CSC            	Computer Sciences Corp.	US                	45        	Information Technology	      49.10
+CPWR           	Compuware Corp.	US                	45        	Information Technology	       9.26
+CMVT           	Comverse Technology	US                	45        	Information Technology	      27.00
+CAG            	ConAgra Foods, Inc.	US                	30        	Consumer Staples	      20.60
+COP            	ConocoPhillips	US                	10        	Energy	      58.60
+ED             	Consolidated Edison	US                	55        	Utilities	      46.53
+STZ            	Constellation Brands	US                	30        	Consumer Staples	      25.45
+CEG            	Constellation Energy Group	US                	55        	Utilities	      59.10
+CVG            	Convergys Corp.	US                	45        	Information Technology	      16.97
+CBE            	Cooper Industries, Ltd.	US                	20        	Industrials	      73.81
+CTB            	Cooper Tire & Rubber	US                	25        	Consumer Discretionary	      14.51
+GLW            	Corning Inc.	US                	45        	Information Technology	      20.05
+COST           	Costco Co.	US                	30        	Consumer Staples	      48.66
+CFC            	Countrywide Financial Corp.	US                	40        	Financials	      35.25
+CVH            	Coventry Health Care Inc.	US                	35        	Health Care	      55.90
+CSX            	CSX Corp.	US                	20        	Industrials	      48.74
+CMI            	Cummins  Inc.	US                	20        	Industrials	      87.85
+CVS            	CVS Corp.	US                	30        	Consumer Staples	      27.64
+DHI            	D.R. Horton	US                	25        	Consumer Discretionary	      36.57
+DCN            	Dana Corp.	US                	25        	Consumer Discretionary	       6.85
+DHR            	Danaher Corp.	US                	20        	Industrials	      55.72
+DRI            	Darden Restaurants	US                	25        	Consumer Discretionary	      38.21
+DE             	Deere & Co.	US                	20        	Industrials	      69.42
+DELL           	Dell Inc.	US                	45        	Information Technology	      31.90
+DVN            	Devon Energy Corp.	US                	10        	Energy	      63.68
+DDS            	Dillard Inc.	US                	25        	Consumer Discretionary	      24.05
+DG             	Dollar General	US                	25        	Consumer Discretionary	      19.11
+D              	Dominion Resources	US                	55        	Utilities	      80.50
+RRD            	Donnelley (R.R.) & Sons	US                	20        	Industrials	      34.37
+DOV            	Dover Corp.	US                	20        	Industrials	      40.90
+DOW            	Dow Chemical	US                	15        	Materials	      43.63
+DJ             	Dow Jones & Co.	US                	25        	Consumer Discretionary	      36.35
+DTE            	DTE Energy Co.	US                	55        	Utilities	      43.67
+DD             	Du Pont (E.I.)	US                	15        	Materials	      42.15
+DUK            	Duke Energy	US                	55        	Utilities	      27.04
+DYN            	Dynegy Inc. (New) Class A	US                	55        	Utilities	       4.67
+ET             	E*Trade Financial Corp.	US                	40        	Financials	      21.05
+EMN            	Eastman Chemical	US                	15        	Materials	      51.02
+EK             	Eastman Kodak	US                	25        	Consumer Discretionary	      23.59
+ETN            	Eaton Corp.	US                	20        	Industrials	      66.89
+EBAY           	eBay Inc.	US                	25        	Consumer Discretionary	      44.62
+ECL            	Ecolab Inc.	US                	15        	Materials	      35.47
+EIX            	Edison Int'l	US                	55        	Utilities	      45.90
+EP             	El Paso Corp.	US                	10        	Energy	      12.31
+ERTS           	Electronic Arts	US                	45        	Information Technology	      52.25
+EDS            	Electronic Data Systems	US                	45        	Information Technology	      23.40
+EMC            	EMC Corp.	US                	45        	Information Technology	      13.48
+EMR            	Emerson Electric	US                	20        	Industrials	      75.46
+EC             	Engelhard Corp.	US                	15        	Materials	      29.98
+ETR            	Entergy Corp.	US                	55        	Utilities	      69.80
+EOG            	EOG Resources	US                	10        	Energy	      77.01
+EFX            	Equifax Inc.	US                	20        	Industrials	      37.82
+EOP            	Equity Office Properties	US                	40        	Financials	      29.05
+EQR            	Equity Residential	US                	40        	Financials	      39.30
+EXC            	Exelon Corp.	US                	55        	Utilities	      53.55
+ESRX           	Express Scripts	US                	35        	Health Care	      87.96
+XOM            	Exxon Mobil Corp.	US                	10        	Energy	      57.70
+FDO            	Family Dollar Stores	US                	25        	Consumer Discretionary	      22.87
+FNM            	Fannie Mae	US                	40        	Financials	      47.24
+FRE            	Federal Home Loan Mtg.	US                	40        	Financials	      65.91
+FD             	Federated Dept. Stores	US                	25        	Consumer Discretionary	      64.78
+FII            	Federated Investors Inc.	US                	40        	Financials	      37.01
+FDX            	FedEx Corporation	US                	20        	Industrials	      99.23
+FITB           	Fifth Third Bancorp	US                	40        	Financials	      38.89
+FDC            	First Data	US                	45        	Information Technology	      42.66
+FHN            	First Horizon National	US                	40        	Financials	      39.40
+FE             	FirstEnergy Corp.	US                	55        	Utilities	      49.12
+FISV           	FIserv Inc.	US                	45        	Information Technology	      42.88
+FSH            	Fisher Scientific	US                	35        	Health Care	      62.61
+FLR            	Fluor Corp. (New)	US                	20        	Industrials	      75.38
+F              	Ford Motor	US                	25        	Consumer Discretionary	       8.23
+FRX            	Forest Laboratories	US                	35        	Health Care	      41.70
+FO             	Fortune Brands, Inc.	US                	25        	Consumer Discretionary	      78.01
+FPL            	FPL Group	US                	55        	Utilities	      42.76
+BEN            	Franklin Resources	US                	40        	Financials	      95.47
+FCX            	Freeport-McMoran Cp & Gld	US                	15        	Materials	      53.00
+FSL.B          	Freescale Semiconductor Inc.	US                	45        	Information Technology	      25.93
+GCI            	Gannett Co.	US                	25        	Consumer Discretionary	      61.68
+GPS            	Gap (The)	US                	25        	Consumer Discretionary	      18.00
+GTW            	Gateway Inc.	US                	45        	Information Technology	       2.63
+GD             	General Dynamics	US                	20        	Industrials	     113.63
+GE             	General Electric	US                	20        	Industrials	      35.82
+GIS            	General Mills	US                	30        	Consumer Staples	      49.50
+GM             	General Motors	US                	25        	Consumer Discretionary	      21.05
+GPC            	Genuine Parts	US                	25        	Consumer Discretionary	      43.68
+GNW            	Genworth Financial Inc.	US                	40        	Financials	      33.80
+GENZ           	Genzyme Corp.	US                	35        	Health Care	      70.38
+GILD           	Gilead Sciences	US                	35        	Health Care	      50.58
+GDW            	Golden West Financial	US                	40        	Financials	      66.66
+GS             	Goldman Sachs Group	US                	40        	Financials	     125.13
+GR             	Goodrich Corporation	US                	20        	Industrials	      38.98
+GT             	Goodyear Tire & Rubber	US                	25        	Consumer Discretionary	      17.15
+GWW            	Grainger (W.W.) Inc.	US                	20        	Industrials	      70.05
+GDT            	Guidant Corp.	US                	35        	Health Care	      67.10
+HAL            	Halliburton Co.	US                	10        	Energy	      62.61
+HDI            	Harley-Davidson	US                	25        	Consumer Discretionary	      52.30
+HET            	Harrah's Entertainment	US                	25        	Consumer Discretionary	      67.60
+HIG            	Hartford Financial Svc.Gp.	US                	40        	Financials	      85.57
+HAS            	Hasbro Inc.	US                	25        	Consumer Discretionary	      20.36
+HCA            	HCA Inc.	US                	35        	Health Care	      51.48
+HMA            	Health Management Assoc.	US                	35        	Health Care	      22.37
+HNZ            	Heinz (H.J.)	US                	30        	Consumer Staples	      34.42
+HPC            	Hercules, Inc.	US                	15        	Materials	      11.54
+HPQ            	Hewlett-Packard	US                	45        	Information Technology	      28.87
+HLT            	Hilton Hotels	US                	25        	Consumer Discretionary	      22.42
+HD             	Home Depot	US                	25        	Consumer Discretionary	      41.82
+HON            	Honeywell Int'l Inc.	US                	20        	Industrials	      37.86
+HSP            	Hospira Inc.	US                	35        	Health Care	      43.85
+HUM            	Humana Inc.	US                	35        	Health Care	      46.66
+HBAN           	Huntington Bancshares	US                	40        	Financials	      24.08
+ITW            	Illinois Tool Works	US                	20        	Industrials	      89.33
+RX             	IMS Health Inc.	US                	35        	Health Care	      24.63
+IR             	Ingersoll-Rand Co. Ltd.	US                	20        	Industrials	      40.14
+INTC           	Intel Corp.	US                	45        	Information Technology	      25.78
+IBM            	International Bus. Machines	US                	45        	Information Technology	      82.76
+IFF            	International Flav/Frag	US                	15        	Materials	      32.92
+IGT            	International Game Technology	US                	25        	Consumer Discretionary	      29.49
+IP             	International Paper	US                	15        	Materials	      33.51
+IPG            	Interpublic Group	US                	25        	Consumer Discretionary	       9.77
+INTU           	Intuit, Inc.	US                	45        	Information Technology	      52.52
+ITT            	ITT Industries, Inc.	US                	20        	Industrials	     102.91
+JBL            	Jabil Circuit	US                	45        	Information Technology	      34.82
+JNS            	Janus Capital Group	US                	40        	Financials	      18.83
+JDSU           	JDS Uniphase Corp	US                	45        	Information Technology	       2.51
+JP             	Jefferson-Pilot	US                	40        	Financials	      55.70
+JNJ            	Johnson & Johnson	US                	35        	Health Care	      61.19
+JCI            	Johnson Controls	US                	25        	Consumer Discretionary	      72.95
+JNY            	Jones Apparel Group	US                	25        	Consumer Discretionary	      30.00
+JPM            	JPMorgan Chase & Co.	US                	40        	Financials	      39.60
+KBH            	KB Home	US                	25        	Consumer Discretionary	      73.24
+K              	Kellogg Co.	US                	30        	Consumer Staples	      44.36
+KMG            	Kerr-McGee	US                	10        	Energy	      91.62
+KEY            	KeyCorp	US                	40        	Financials	      33.71
+KSE            	Keyspan Energy	US                	55        	Utilities	      35.77
+KMB            	Kimberly-Clark	US                	30        	Consumer Staples	      58.85
+KMI            	Kinder Morgan	US                	10        	Energy	      92.44
+KG             	King Pharmaceuticals	US                	35        	Health Care	      16.86
+KLAC           	KLA-Tencor Corp.	US                	45        	Information Technology	      49.72
+KRI            	Knight-Ridder Inc.	US                	25        	Consumer Discretionary	      63.88
+KSS            	Kohl's Corp.	US                	25        	Consumer Discretionary	      46.28
+KR             	Kroger Co.	US                	30        	Consumer Staples	      19.10
+LLL            	L-3 Communications Holdings	US                	20        	Industrials	      70.74
+LH             	Laboratory Corp. of America Holding	US                	35        	Health Care	      54.03
+LEG            	Leggett & Platt	US                	25        	Consumer Discretionary	      23.84
+LEH            	Lehman Bros.	US                	40        	Financials	     127.06
+LEN            	Lennar Corp.	US                	25        	Consumer Discretionary	      61.73
+LXK            	Lexmark Int'l Inc	US                	45        	Information Technology	      46.86
+LLY            	Lilly (Eli) & Co.	US                	35        	Health Care	      57.59
+LTD            	Limited Brands, Inc.	US                	25        	Consumer Discretionary	      22.90
+LNC            	Lincoln National	US                	40        	Financials	      51.69
+LLTC           	Linear Technology Corp.	US                	45        	Information Technology	      36.61
+LIZ            	Liz Claiborne, Inc.	US                	25        	Consumer Discretionary	      34.90
+LMT            	Lockheed Martin Corp.	US                	20        	Industrials	      62.63
+LTR            	Loews Corp.	US                	40        	Financials	      95.59
+LPX            	Louisiana Pacific	US                	15        	Materials	      26.77
+LOW            	Lowe's Cos.	US                	25        	Consumer Discretionary	      68.54
+LSI            	LSI Logic	US                	45        	Information Technology	       7.98
+LU             	Lucent Technologies	US                	45        	Information Technology	       2.90
+MTB            	M&T Bank Corp.	US                	40        	Financials	     109.62
+HCR            	Manor Care Inc.	US                	35        	Health Care	      39.47
+MRO            	Marathon Oil Corp.	US                	10        	Energy	      61.43
+MAR            	Marriott Int'l.	US                	25        	Consumer Discretionary	      66.96
+MMC            	Marsh & McLennan	US                	40        	Financials	      32.21
+MI             	Marshall & Ilsley Corp.	US                	40        	Financials	      43.75
+MAS            	Masco Corp.	US                	20        	Industrials	      30.36
+MAT            	Mattel, Inc.	US                	25        	Consumer Discretionary	      16.31
+MXIM           	Maxim Integrated Prod	US                	45        	Information Technology	      36.63
+MYG            	Maytag Corp.	US                	25        	Consumer Discretionary	      18.97
+MBI            	MBIA Inc.	US                	40        	Financials	      60.38
+KRB            	MBNA Corp.	US                	40        	Financials	      27.28
+MKC            	McCormick & Co.	US                	30        	Consumer Staples	      30.21
+MCD            	McDonald's Corp.	US                	25        	Consumer Discretionary	      34.10
+MHP            	McGraw-Hill	US                	25        	Consumer Discretionary	      52.18
+MCK            	McKesson Corp. (New)	US                	35        	Health Care	      51.25
+MWV            	MeadWestvaco Corporation	US                	15        	Materials	      28.17
+MHS            	Medco Health Solutions Inc.	US                	35        	Health Care	      56.98
+MEDI           	MedImmune Inc.	US                	35        	Health Care	      35.08
+MDT            	Medtronic Inc.	US                	35        	Health Care	      58.34
+MEL            	Mellon Bank Corp.	US                	40        	Financials	      33.65
+MRK            	Merck & Co.	US                	35        	Health Care	      32.25
+MERQE          	Mercury Interactive	US                	45        	Information Technology	      31.43
+MDP            	Meredith Corp.	US                	25        	Consumer Discretionary	      51.83
+MER            	Merrill Lynch	US                	40        	Financials	      68.26
+MET            	MetLife Inc.	US                	40        	Financials	      49.48
+MTG            	MGIC Investment	US                	40        	Financials	      64.26
+MU             	Micron Technology	US                	45        	Information Technology	      13.65
+MSFT           	Microsoft Corp.	US                	45        	Information Technology	      26.83
+MIL            	Millipore Corp.	US                	35        	Health Care	      65.64
+MOLX           	Molex Inc.	US                	45        	Information Technology	      26.54
+TAP            	Molson Coors Brewing Company	US                	30        	Consumer Staples	      65.49
+MON            	Monsanto Co.	US                	15        	Materials	      75.57
+MNST           	Monster Worldwide	US                	20        	Industrials	      39.60
+MCO            	Moody's Corp	US                	40        	Financials	      61.42
+MWD            	Morgan Stanley	US                	40        	Financials	      56.67
+MOT            	Motorola Inc.	US                	45        	Information Technology	      22.33
+MUR            	Murphy Oil	US                	10        	Energy	      53.23
+MYL            	Mylan Laboratories	US                	35        	Health Care	      20.62
+NBR            	Nabors Industries Ltd.	US                	10        	Energy	      76.78
+NCC            	National City Corp.	US                	40        	Financials	      34.30
+NOV            	National Oilwell Varco, Inc.	US                	10        	Energy	      62.17
+NSM            	National Semiconductor	US                	45        	Information Technology	      26.51
+NAV            	Navistar International Corp.	US                	20        	Industrials	      27.33
+NCR            	NCR Corp.	US                	45        	Information Technology	      34.13
+NTAP           	Network Appliance	US                	45        	Information Technology	      28.94
+NYT            	New York Times Cl. A	US                	25        	Consumer Discretionary	      27.54
+NWL            	Newell Rubbermaid Co.	US                	25        	Consumer Discretionary	      24.05
+NEM            	Newmont Mining Corp. (Hldg. Co.)	US                	15        	Materials	      50.15
+NWS.A          	News Corporation	US                	25        	Consumer Discretionary	      15.87
+GAS            	NICOR Inc.	US                	55        	Utilities	      40.96
+NKE            	NIKE Inc.	US                	25        	Consumer Discretionary	      87.26
+NI             	NiSource Inc.	US                	55        	Utilities	      21.67
+NE             	Noble Corporation	US                	10        	Energy	      70.90
+JWN            	Nordstrom	US                	25        	Consumer Discretionary	      37.03
+NSC            	Norfolk Southern Corp.	US                	20        	Industrials	      42.62
+NFB            	North Fork Bancorporation	US                	40        	Financials	      27.48
+NTRS           	Northern Trust Corp.	US                	40        	Financials	      53.71
+NOC            	Northrop Grumman Corp.	US                	20        	Industrials	      58.38
+NOVL           	Novell Inc.	US                	45        	Information Technology	       8.62
+NVLS           	Novellus Systems	US                	45        	Information Technology	      24.14
+NUE            	Nucor Corp.	US                	15        	Materials	      65.55
+NVDA           	NVIDIA Corp.	US                	45        	Information Technology	      36.24
+OXY            	Occidental Petroleum	US                	10        	Energy	      81.60
+ODP            	Office Depot	US                	25        	Consumer Discretionary	      29.36
+OMX            	OfficeMax Inc.	US                	25        	Consumer Discretionary	      28.06
+OMC            	Omnicom Group	US                	25        	Consumer Discretionary	      87.00
+ORCL           	Oracle Corp.	US                	45        	Information Technology	      12.32
+PCAR           	PACCAR Inc.	US                	20        	Industrials	      69.91
+PTV            	Pactiv Corp.	US                	15        	Materials	      21.05
+PLL            	Pall Corp.	US                	20        	Industrials	      26.90
+PMTC           	Parametric Technology	US                	45        	Information Technology	       5.91
+PH             	Parker-Hannifin	US                	20        	Industrials	      67.14
+PDCO           	Patterson Cos. Inc.	US                	35        	Health Care	      34.01
+PAYX           	Paychex Inc.	US                	45        	Information Technology	      40.96
+JCP            	Penney (J.C.)	US                	25        	Consumer Discretionary	      52.86
+PGL            	Peoples Energy	US                	55        	Utilities	      37.16
+PBG            	Pepsi Bottling Group	US                	30        	Consumer Staples	      29.48
+PEP            	PepsiCo Inc.	US                	30        	Consumer Staples	      59.54
+PKI            	PerkinElmer	US                	35        	Health Care	      23.27
+PFE            	Pfizer, Inc.	US                	35        	Health Care	      24.32
+PCG            	PG&E Corp.	US                	55        	Utilities	      37.32
+PD             	Phelps Dodge	US                	15        	Materials	     140.36
+PNW            	Pinnacle West Capital	US                	55        	Utilities	      42.65
+PBI            	Pitney-Bowes	US                	20        	Industrials	      41.52
+PCL            	Plum Creek Timber Co.	US                	40        	Financials	      36.78
+PMCS           	PMC-Sierra Inc.	US                	45        	Information Technology	       7.58
+PNC            	PNC Bank Corp.	US                	40        	Financials	      63.47
+PPG            	PPG Industries	US                	15        	Materials	      57.15
+PPL            	PPL Corp.	US                	55        	Utilities	      29.45
+PX             	Praxair, Inc.	US                	15        	Materials	      51.74
+PFG            	Principal Financial Group	US                	40        	Financials	      48.88
+PG             	Procter & Gamble	US                	30        	Consumer Staples	      58.55
+PGN            	Progress Energy, Inc.	US                	55        	Utilities	      44.46
+PGR            	Progressive Corp.	US                	40        	Financials	     118.69
+PLD            	ProLogis	US                	40        	Financials	      45.72
+PRU            	Prudential Financial	US                	40        	Financials	      74.77
+PEG            	Public Serv. Enterprise Inc.	US                	55        	Utilities	      65.14
+PSA            	Public Storage	US                	40        	Financials	      69.67
+PHM            	Pulte Homes, Inc.	US                	25        	Consumer Discretionary	      41.56
+QLGC           	QLogic Corp.	US                	45        	Information Technology	      31.97
+QCOM           	QUALCOMM Inc.	US                	45        	Information Technology	      43.69
+DGX            	Quest Diagnostics	US                	35        	Health Care	      51.69
+Q              	Qwest Communications Int	US                	50        	Telecommunications Services	       5.77
+RSH            	RadioShack Corp	US                	25        	Consumer Discretionary	      21.18
+RTN            	Raytheon Co. (New)	US                	20        	Industrials	      39.18
+RBK            	Reebok International	US                	25        	Consumer Discretionary	      57.95
+RF             	Regions Financial Corp. (New)	US                	40        	Financials	      34.58
+RAI            	Reynolds American Inc.	US                	30        	Consumer Staples	      96.95
+RHI            	Robert Half International	US                	20        	Industrials	      38.61
+ROK            	Rockwell Automation, Inc.	US                	20        	Industrials	      59.40
+COL            	Rockwell Collins	US                	20        	Industrials	      46.63
+ROH            	Rohm & Haas	US                	15        	Materials	      47.62
+RDC            	Rowan Cos.	US                	10        	Energy	      36.04
+R              	Ryder System	US                	20        	Industrials	      41.07
+TSG            	Sabre Holding Corp.	US                	45        	Information Technology	      23.55
+SAFC           	SAFECO Corp.	US                	40        	Financials	      56.73
+SWY            	Safeway Inc.	US                	30        	Consumer Staples	      24.97
+SANM           	Sanmina-SCI Corp.	US                	45        	Information Technology	       4.25
+SLE            	Sara Lee Corp.	US                	30        	Consumer Staples	      18.75
+SGP            	Schering-Plough	US                	35        	Health Care	      20.74
+SLB            	Schlumberger Ltd.	US                	10        	Energy	      97.95
+SFA            	Scientific-Atlanta	US                	45        	Information Technology	      43.14
+SSP            	Scripps (E. W.) 'A'	US                	25        	Consumer Discretionary	      47.45
+SEE            	Sealed Air Corp.(New)	US                	15        	Materials	      53.79
+SHLD           	Sears Holdings Corporation	US                	25        	Consumer Discretionary	     118.71
+SRE            	Sempra Energy	US                	55        	Utilities	      45.83
+SHW            	Sherwin-Williams	US                	25        	Consumer Discretionary	      43.80
+SEBL           	Siebel  Systems Inc	US                	45        	Information Technology	      10.53
+SIAL           	Sigma-Aldrich	US                	15        	Materials	      63.27
+SPG            	Simon Property Group, Inc	US                	40        	Financials	      77.37
+SLM            	SLM Corporation	US                	40        	Financials	      54.74
+SNA            	Snap-On Inc.	US                	25        	Consumer Discretionary	      37.98
+SLR            	Solectron	US                	45        	Information Technology	       3.80
+SO             	Southern Co.	US                	55        	Utilities	      35.15
+LUV            	Southwest Airlines	US                	20        	Industrials	      16.56
+SOV            	Sovereign Bancorp	US                	40        	Financials	      21.44
+S              	Sprint Nextel Corp.	US                	50        	Telecommunications Services	      24.64
+STJ            	St Jude Medical	US                	35        	Health Care	      51.28
+STA            	St. Paul Travelers Cos.	US                	40        	Financials	      44.37
+SWK            	Stanley Works	US                	25        	Consumer Discretionary	      47.65
+SPLS           	Staples Inc.	US                	25        	Consumer Discretionary	      22.39
+SBUX           	Starbucks Corp.	US                	25        	Consumer Discretionary	      30.65
+HOT            	Starwood Hotels & Resorts	US                	25        	Consumer Discretionary	      63.11
+STT            	State Street Corp.	US                	40        	Financials	      57.37
+SYK            	Stryker Corp.	US                	35        	Health Care	      46.73
+SUNW           	Sun Microsystems	US                	45        	Information Technology	       4.31
+SUN            	Sunoco, Inc.	US                	10        	Energy	      78.37
+STI            	SunTrust Banks	US                	40        	Financials	      73.38
+SVU            	Supervalu Inc.	US                	30        	Consumer Staples	      31.87
+SYMC           	Symantec Corp.	US                	45        	Information Technology	      16.61
+SBL            	Symbol Technologies	US                	45        	Information Technology	      12.21
+SNV            	Synovus Financial	US                	40        	Financials	      28.27
+SYY            	Sysco Corp.	US                	30        	Consumer Staples	      32.47
+TROW           	T. Rowe Price Group	US                	40        	Financials	      73.48
+TGT            	Target Corp.	US                	25        	Consumer Discretionary	      52.80
+TE             	TECO Energy	US                	55        	Utilities	      17.58
+TEK            	Tektronix Inc.	US                	45        	Information Technology	      29.25
+TLAB           	Tellabs, Inc.	US                	45        	Information Technology	      10.67
+TIN            	Temple-Inland	US                	15        	Materials	      43.60
+THC            	Tenet Healthcare Corp.	US                	35        	Health Care	       8.19
+TER            	Teradyne Inc.	US                	45        	Information Technology	      14.16
+TXN            	Texas Instruments	US                	45        	Information Technology	      32.03
+TXT            	Textron Inc.	US                	20        	Industrials	      76.03
+HSY            	The Hershey Company	US                	30        	Consumer Staples	      57.70
+TMO            	Thermo Electron	US                	35        	Health Care	      31.68
+TIF            	Tiffany & Co.	US                	25        	Consumer Discretionary	      38.88
+TWX            	Time Warner Inc.	US                	25        	Consumer Discretionary	      17.95
+TJX            	TJX Companies Inc.	US                	25        	Consumer Discretionary	      22.85
+TMK            	Torchmark Corp.	US                	40        	Financials	      54.93
+RIG            	Transocean Inc.	US                	10        	Energy	      66.45
+TRB            	Tribune Co.	US                	25        	Consumer Discretionary	      31.03
+TXU            	TXU Corp.	US                	55        	Utilities	      52.09
+TYC            	Tyco International	US                	20        	Industrials	      28.46
+TSN            	Tyson Foods	US                	30        	Consumer Staples	      16.80
+USB            	U.S. Bancorp	US                	40        	Financials	      30.38
+UNP            	Union Pacific	US                	20        	Industrials	      77.04
+UIS            	Unisys Corp.	US                	45        	Information Technology	       6.01
+UNH            	United Health Group Inc.	US                	35        	Health Care	      61.85
+UPS            	United Parcel Service	US                	20        	Industrials	      75.07
+X              	United States Steel Corp.	US                	15        	Materials	      45.81
+UTX            	United Technologies	US                	20        	Industrials	      57.14
+UVN            	Univision Communications	US                	25        	Consumer Discretionary	      30.00
+UNM            	UnumProvident Corp.	US                	40        	Financials	      21.59
+UST            	UST Inc.	US                	30        	Consumer Staples	      41.76
+VFC            	V.F. Corp.	US                	25        	Consumer Discretionary	      55.83
+VLO            	Valero Energy	US                	10        	Energy	      51.79
+VZ             	Verizon Communications	US                	50        	Telecommunications Services	      30.52
+VIA.B          	Viacom Inc.	US                	25        	Consumer Discretionary	      33.76
+VC             	Visteon Corp.	US                	25        	Consumer Discretionary	       6.55
+VNO            	Vornado Realty Trust	US                	40        	Financials	      83.67
+VMC            	Vulcan Materials	US                	15        	Materials	      68.88
+WB             	Wachovia Corp. (New)	US                	40        	Financials	      53.43
+WMT            	Wal-Mart Stores	US                	30        	Consumer Staples	      48.96
+WAG            	Walgreen Co.	US                	30        	Consumer Staples	      45.57
+DIS            	Walt Disney Co.	US                	25        	Consumer Discretionary	      24.54
+WM             	Washington Mutual	US                	40        	Financials	      43.25
+WMI            	Waste Management Inc.	US                	20        	Industrials	      30.77
+WAT            	Waters Corporation	US                	35        	Health Care	      37.87
+WPI            	Watson Pharmaceuticals	US                	35        	Health Care	      32.44
+WFT            	Weatherford International Ltd.	US                	10        	Energy	      36.37
+WLP            	WellPoint Inc.	US                	35        	Health Care	      76.64
+WFC            	Wells Fargo	US                	40        	Financials	      63.65
+WEN            	Wendy's International	US                	25        	Consumer Discretionary	      54.84
+WY             	Weyerhaeuser Corp.	US                	15        	Materials	      66.66
+WHR            	Whirlpool Corp.	US                	25        	Consumer Discretionary	      82.91
+WMB            	Williams Cos.	US                	10        	Energy	      23.69
+WWY            	Wrigley (Wm) Jr.	US                	30        	Consumer Staples	      68.44
+WYE            	Wyeth	US                	35        	Health Care	      46.31
+XEL            	Xcel Energy Inc	US                	55        	Utilities	      18.61
+XRX            	Xerox Corp.	US                	45        	Information Technology	      14.50
+XLNX           	Xilinx, Inc	US                	45        	Information Technology	      26.23
+XL             	XL Capital	US                	40        	Financials	      65.27
+XTO            	XTO Energy Inc.	US                	10        	Energy	      45.58
+YHOO           	Yahoo Inc.	US                	45        	Information Technology	      41.05
+YUM            	Yum! Brands, Inc	US                	25        	Consumer Discretionary	      47.23
+ZMH            	Zimmer Holdings	US                	35        	Health Care	      70.16
+ZION           	Zions Bancorp	US                	40        	Financials	      75.74

@@ -1,0 +1,1181 @@
+ticker,company,start,end,start_confidence,end_confidence,cik,venue,gics_sector,gics_sub_industry,sp_date_added
+A,Agilent Technologies,2000-12-29,,left_censored,,0001090872,NYSE,Information Technology,Health Care Equipment & Services,2000-06-05
+AA,Alcoa Inc,2000-12-29,2016-11-01,left_censored,exact,0000004281,NYSE,Materials,Aluminum,1964-03-31
+AAL,American Airlines Group,2015-03-23,2024-09-23,exact,exact,0000006201,NASDAQ,Industrials,Airlines,2015-03-23
+AAP,Advance Auto Parts,2015-07-08,2023-08-25,exact,exact,0001158449,NYSE,Consumer Discretionary,Automotive Retail,2015-07-09
+AAPL,Apple Computer,2000-12-29,,left_censored,,0000320193,NASDAQ,Information Technology,Computer Hardware,1982-11-30
+ABBV,AbbVie,2013-01-02,,exact,,0001551152,NYSE,Health Care,Pharmaceuticals,2012-12-31
+ABC,AmerisourceBergen Corp.,2001-12-31,2023-09-08,snapshot,unreconciled,0001140859,NYSE,Health Care,Health Care Distribution & Services,2001-08-30
+ABI,Applera Corp-Applied Biosystems Group,2000-12-29,2009-03-18,left_censored,snapshot,,NYSE,Health Care,,
+ABK,Ambac Financial Group,2000-12-29,2008-06-10,left_censored,exact,,,Financials,,
+ABMD,ABIOMED Inc,2018-05-31,2022-12-22,exact,exact,0000815094,NASDAQ,Health Care,Health Care Equipment,2018-05-31
+ABNB,Airbnb,2023-09-18,,exact,,0001559720,NASDAQ,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",2023-09-18
+ABS,Albertson's,2000-12-29,2006-06-01,left_censored,snapshot,,,Consumer Staples,,
+ABT,Abbott Labs,2000-12-29,,left_censored,,0000001800,NYSE,Health Care,Health Care Equipment & Services,1964-03-31
+ABX,Barrick Gold Corp.,2000-12-29,2002-12-31,left_censored,snapshot,,,Materials,,
+ACAS,American Capital Strategies Ltd,2008-02-10,2009-03-03,snapshot,exact,,NASDAQ,,,
+ACE,ACE Limited,2002-12-31,2008-08-08,snapshot,snapshot,,,Financials,,
+ACE,ACE Limited,2010-07-28,2016-01-19,snapshot,exact,0000896159,NYSE,Financials,Property & Casualty Insurance,2010-07-15
+ACGL,Arch Capital Group,2022-11-01,,exact,,0000947484,NASDAQ,Financials,Reinsurance,2022-11-01
+ACN,Accenture PLC,2011-07-05,,exact,,0001467373,NYSE,Information Technology,IT Consulting & Services,2011-07-06
+ACS,Affiliated Computer,2004-04-26,2010-05-06,snapshot,snapshot,,NYSE,Information Technology,,
+ACT,Actavis Inc,2013-01-25,2015-06-29,unreconciled,unreconciled,0000884629,NYSE,Health Care,Pharmaceuticals,2013-01-24
+ACV,Alberto-Culver,2000-12-29,2006-11-30,left_censored,snapshot,,,Consumer Staples,,
+ADBE,Adobe Systems,2000-12-29,,left_censored,,0000796343,NASDAQ,Information Technology,Application Software,1997-05-05
+ADCT,ADC Telecommunications,2000-12-29,2007-07-02,left_censored,exact,,,Information Technology,,
+ADI,Analog Devices,2000-12-29,,left_censored,,0000006281,NASDAQ,Information Technology,Semiconductors,1999-10-12
+ADM,Archer-Daniels-Midland,2000-12-29,,left_censored,,0000007084,NYSE,Consumer Staples,Agricultural Products,1981-07-29
+ADP,Automatic Data Processing Inc.,2000-12-29,,left_censored,,0000008670,NASDAQ,Industrials,Internet Software & Services,1981-03-31
+ADPT,"Adaptec, Inc.(old)",2000-12-29,2001-12-31,left_censored,snapshot,,,Information Technology,,
+ADS,Alliance Data Systems,2013-12-23,2020-06-22,exact,exact,0001101215,NYSE,Information Technology,Data Processing & Outsourced Services,2013-12-23
+ADSK,"Autodesk, Inc.",2000-12-29,,left_censored,,0000769397,NASDAQ,Information Technology,Application Software,1989-12-01
+ADT,ADT Corp,2012-10-01,2016-05-03,exact,exact,0001546640,NYSE,Industrials,Diversified Commercial Services,2012-10-01
+AEE,Ameren Corporation,2000-12-29,,left_censored,,0001002910,NYSE,Utilities,Multi-Utilities & Unregulated Power,1991-09-19
+AEP,American Electric Power,2000-12-29,,left_censored,,0000004904,NYSE,Utilities,Electric Utilities,1957-03-04
+AES,AES Corp.,2000-12-29,,left_censored,,0000874761,NYSE,Utilities,Electric Utilities,1998-10-02
+AET,Aetna Inc. (New),2000-12-29,2018-12-03,left_censored,exact,0001122304,NYSE,Health Care,Managed Health Care,1976-06-30
+AFL,AFLAC Corporation,2000-12-29,,left_censored,,0000004977,NYSE,Financials,Life & Health Insurance,1999-05-28
+AGC,American General,2000-12-29,2001-12-31,left_censored,snapshot,,,Financials,,
+AGN,"Allergan, Inc.",2000-12-29,2015-03-23,left_censored,exact,0000850693,NYSE,Health Care,Pharmaceuticals,1992-02-07
+AGN,Allergan plc,2015-06-29,2020-05-12,unreconciled,exact,0000884629,NYSE,Health Care,Pharmaceuticals,1999-04-12
+AHC,Amerada Hess,2000-12-29,2006-06-01,left_censored,snapshot,,,Energy,,
+AHP,American Home Products,2000-12-29,2002-12-31,left_censored,snapshot,,,Health Care,,
+AIG,American Int'l. Group,2000-12-29,,left_censored,,0000005272,NYSE,Financials,Property & Casualty Insurance,1980-03-31
+AIV,Apartment Investment & Mgmt'A',2003-06-06,2020-12-21,snapshot,exact,0000922864,NYSE,Financials,REITs,2003-03-14
+AIZ,Assurant Inc,2007-04-16,,snapshot,,0001267238,NYSE,Financials,Multi-line Insurance,2007-04-10
+AJG,Arthur J. Gallagher & Co.,2016-05-31,,exact,,0000354190,NYSE,Financials,Insurance Brokers,2016-05-31
+AKAM,Akamai Technologies Inc,2008-02-10,,snapshot,,0001086222,NASDAQ,Information Technology,Internet Software & Services,2007-07-12
+AKS,AK Steel Holding Corp.,2008-07-01,2011-12-16,exact,exact,,NYSE,,,
+AL,Alcan Inc.,2000-12-29,2002-12-31,left_censored,snapshot,,,Materials,,
+ALB,Albemarle Corp,2016-07-01,,exact,,0000915913,NYSE,Materials,Specialty Chemicals,2016-07-01
+ALGN,Align Technology,2017-06-19,,exact,,0001097149,NASDAQ,Health Care,Health Care Supplies,2017-06-19
+ALK,Alaska Air Group Inc,2016-05-13,2023-12-18,exact,exact,0000766421,NYSE,Industrials,Airlines,2016-05-13
+ALL,Allstate Corp.,2000-12-29,,left_censored,,0000899051,NYSE,Financials,Property & Casualty Insurance,1995-07-13
+ALLE,Allegion,2013-12-01,,unreconciled,,0001579241,NYSE,Consumer Discretionary,Specialty Stores,2013-12-02
+ALTR,Altera Corp.,2000-12-29,2015-12-29,left_censored,exact,0000768251,NASDAQ,Information Technology,Semiconductors,
+ALXN,Alexion Pharmaceuticals,2012-05-21,2021-07-21,exact,exact,0000899866,NASDAQ,Health Care,Biotechnology,2012-05-25
+AM,American Greetings Class A,2000-12-29,2004-05-28,left_censored,snapshot,,,Consumer Discretionary,,
+AMAT,Applied Materials,2000-12-29,,left_censored,,0000006951,NASDAQ,Information Technology,Semiconductor Equipment,1995-03-16
+AMCC,Applied Micro Circuits,2000-12-29,2006-06-01,left_censored,snapshot,,,Information Technology,,
+AMCR,Amcor plc,2019-06-11,,exact,,0001748790,NYSE,Materials,Paper Packaging,2019-06-07
+AMD,Advanced Micro Devices,2000-12-29,2013-09-20,left_censored,exact,,NYSE,Information Technology,Semiconductors,
+AMD,Advanced Micro Devices Inc,2017-03-20,,exact,,0000002488,NASDAQ,Information Technology,Semiconductors,2017-03-20
+AME,Ametek,2013-09-20,,exact,,0001037868,NYSE,Industrials,Electrical Components and Equipment,2013-09-23
+AMG,Affiliated Managers Group Inc,2014-07-01,2019-12-23,exact,exact,0001004434,NYSE,Financials,Asset Management & Custody Banks,2014-07-01
+AMGN,Amgen,2000-12-29,,left_censored,,0000318154,NASDAQ,Health Care,Biotechnology,1992-01-02
+AMP,"Ameriprise Financial, Inc.",2005-10-03,,snapshot,,0000820027,NYSE,Financials,Diversified Financial Services,2005-10-03
+AMR,AMR Corp.,2000-12-29,2003-06-06,left_censored,snapshot,,,Industrials,,
+AMT,American Tower Corp.,2008-01-09,,snapshot,,0001053507,NYSE,Financials,REITs,2007-11-19
+AMTM,Amentum,2024-09-30,2024-12-23,exact,exact,0002011286,NYSE,Industrials,Diversified Support Services,2024-09-30
+AMZN,Amazon Corp.,2005-11-18,,exact,,0001018724,NASDAQ,Consumer Discretionary,Internet Retail,2005-11-18
+AN,AutoNation Inc.,2003-02-21,2017-08-08,snapshot,exact,0000350698,NYSE,Consumer Discretionary,Specialty Stores,
+ANDV,Andeavor,2017-08-06,2018-10-01,unreconciled,exact,0000050104,NYSE,Energy,Oil & Gas Refining & Marketing,2007-09-27
+ANDW,Andrew Corp.,2000-12-29,2006-11-30,left_censored,snapshot,,,Information Technology,,
+ANET,Arista Networks,2018-08-28,,exact,,0001596532,NYSE,Information Technology,Communications Equipment,2018-08-28
+ANF,Abercrombie & Fitch Co.,2007-04-16,2013-12-23,snapshot,exact,,NYSE,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",
+ANR,Alpha Natural Resources,2011-06-01,2012-10-02,exact,exact,,NYSE,Energy,,
+ANSS,ANSYS Inc,2017-06-19,2025-07-18,exact,exact,0001013462,NASDAQ,Information Technology,Application Software,2017-06-19
+ANTM,Anthem Inc.,2014-12-24,2022-07-09,unreconciled,unreconciled,0001156039,NYSE,Health Care,Managed Health Care,2002-07-25
+AOC,Aon Corp.,2000-12-29,2009-12-31,left_censored,snapshot,,NYSE,Financials,,
+AOL,AOL Time Warner Inc.,2000-12-29,2003-10-23,left_censored,snapshot,,,Information Technology,,
+AON,Aon Corporation,2009-12-31,,snapshot,,0000315293,NYSE,Financials,Insurance Brokers,1996-04-23
+AOS,A.O. Smith Corp,2017-07-26,,exact,,0000091142,NYSE,Industrials,Building Products,2017-07-26
+APA,Apache Corp.,2000-12-29,,left_censored,,0000006769,NYSE,Energy,Oil & Gas Exploration & Production,1997-07-28
+APC,Anadarko Petroleum,2000-12-29,2019-08-09,left_censored,exact,0000773910,NYSE,Energy,Oil & Gas Exploration & Production,1997-07-28
+APCC,American Power Conversion,2000-12-29,2007-04-16,left_censored,snapshot,,,Industrials,,
+APD,Air Products & Chemicals,2000-12-29,,left_censored,,0000002969,NYSE,Materials,Industrial Gases,1985-04-30
+APH,Amphenol Corp A,2010-07-28,,snapshot,,0000820313,NYSE,Industrials,Electrical Components & Equipment,2008-09-30
+APO,Apollo Global Management,2024-12-23,,exact,,0001858681,NYSE,Financials,Asset Management & Custody Banks,2024-12-23
+APOL,Apollo Group,2002-12-31,2013-07-01,snapshot,exact,,NASDAQ,Industrials,Education,
+APP,AppLovin,2025-09-22,,exact,,0001751008,NASDAQ,Information Technology,Application Software,2025-09-22
+APTV,Aptiv Plc,2017-12-15,,unreconciled,,0001521332,NYSE,Consumer Discretionary,Auto Parts & Equipment,2012-12-24
+ARE,Alexandria Real Estate Equities Inc,2017-03-20,,exact,,0001035443,NYSE,Real Estate,Office REITs,2017-03-20
+ARES,Ares Management,2025-12-11,,exact,,0001176948,NYSE,Financials,Asset Management & Custody Banks,2025-12-11
+ARG,Airgas Inc,2009-09-28,2016-05-23,exact,exact,0000804212,NYSE,Materials,Industrial Gases,2009-09-09
+ARNC,Arconic Inc,2016-11-01,2020-04-01,exact,exact,0000004281,NYSE,Industrials,Aerospace & Defense,1964-03-31
+ASD,American Standard,2002-12-31,2008-01-09,snapshot,snapshot,,,Industrials,,
+ASH,Ashland Inc.,2000-12-29,2010-07-28,left_censored,snapshot,,NYSE,Energy,,
+ASN,Archstone-Smith Trust,2004-12-31,2008-02-10,snapshot,snapshot,,,Financials,,
+ASO,AmSouth Bancorporation,2000-12-29,2006-11-30,left_censored,snapshot,,,Financials,,
+AT,ALLTEL Corp.,2000-12-29,2008-01-09,left_censored,snapshot,,,Telecommunications Services,,
+ATH,"Anthem, Inc.",2002-12-31,2004-12-31,snapshot,snapshot,,,Health Care,,
+ATI,Allegheny Technologies Inc,2000-12-29,2015-07-02,left_censored,exact,0001018963,NYSE,Materials,Diversified Metals & Mining,1978-12-31
+ATO,Atmos Energy Corp,2019-02-15,,exact,,0000731802,NYSE,Utilities,Gas Utilities,2019-02-15
+ATVI,Activision Blizzard,2015-08-28,2023-10-18,exact,exact,0000718877,NASDAQ,Information Technology,Home Entertainment Software,2015-08-31
+AV,Avaya Inc.,2000-12-29,2007-10-26,left_censored,exact,,,Information Technology,,
+AVB,AvalonBay Communities,2007-01-09,2026-08-18,snapshot,exact,0000915912,NYSE,Financials,REITs,2007-01-10
+AVGO,Avago Technologies,2014-05-08,,exact,,0001730168,NASDAQ,Information Technology,Semiconductors,2014-05-08
+AVP,Avon Products,2000-12-29,2015-03-23,left_censored,exact,0000008868,NYSE,Consumer Staples,Personal Products,1967-06-30
+AVY,Avery Dennison Corp.,2000-12-29,,left_censored,,0000008818,NYSE,Industrials,Office Services & Supplies,1987-12-31
+AW,Allied Waste Industries,2000-12-29,2009-03-18,left_censored,snapshot,,NYSE,Industrials,,
+AWE,AT&T Wireless Services,2001-12-31,2004-12-31,snapshot,snapshot,,,Telecommunications Services,,
+AWK,American Water Works Company Inc,2016-03-04,,exact,,0001410636,NYSE,Utilities,Water Utilities,2016-03-04
+AXON,Axon Enterprise,2023-05-04,,exact,,0001069183,NASDAQ,Industrials,Aerospace & Defense,2023-05-04
+AXP,American Express,2000-12-29,,left_censored,,0000004962,NYSE,Financials,Consumer Finance,1976-06-30
+AYE,Allegheny Energy,2000-12-29,2011-02-25,left_censored,exact,,NYSE,Utilities,,
+AYI,Acuity Brands Inc,2016-05-03,2018-06-18,exact,exact,0001144215,NYSE,Industrials,Electrical Components & Equipment,2016-05-03
+AZA,ALZA Corp. Cl. A,2000-12-29,2001-12-31,left_censored,snapshot,,,Health Care,,
+AZO,AutoZone Inc.,2000-12-29,,left_censored,,0000866787,NYSE,Consumer Discretionary,Specialty Stores,1997-01-02
+BA,Boeing Company,2000-12-29,,left_censored,,0000012927,NYSE,Industrials,Aerospace & Defense,1957-03-04
+BAC,Bank of America Corp.,2000-12-29,,left_censored,,0000070858,NYSE,Financials,Banks,1976-06-30
+BALL,Ball Corporation,2022-06-08,,unreconciled,,0000009389,NYSE,Materials,Metal & Glass Containers,1984-10-31
+BAX,Baxter International Inc.,2000-12-29,,left_censored,,0000010456,NYSE,Health Care,Health Care Equipment & Services,1972-09-30
+BBBY,Bed Bath & Beyond,2000-12-29,2017-07-26,left_censored,exact,0000886158,NASDAQ,Consumer Discretionary,Specialty Stores,
+BBT,BB&T Corporation,2000-12-29,2019-12-25,left_censored,unreconciled,0000092230,NYSE,Financials,Banks,1997-12-04
+BBWI,"Bath & Body Works, Inc.",2021-08-04,2024-10-01,unreconciled,exact,0000701985,NYSE,Consumer Discretionary,Apparel Retail,1983-09-30
+BBY,"Best Buy Co., Inc.",2000-12-29,,left_censored,,0000764478,NYSE,Consumer Discretionary,Computer & Electronics Retail,1999-06-29
+BC,Brunswick Corp.,2000-12-29,2008-06-23,left_censored,exact,,,Consumer Discretionary,,
+BCC,Boise Cascade,2000-12-29,2004-12-31,left_censored,snapshot,,,Materials,,
+BCR,Bard (C.R.) Inc.,2000-12-29,2018-01-03,left_censored,exact,0000009892,NYSE,Health Care,Health Care Equipment & Services,1975-06-30
+BDK,Black & Decker Corp.,2000-12-29,2010-05-06,left_censored,snapshot,,NYSE,Consumer Discretionary,,
+BDX,"Becton, Dickinson",2000-12-29,,left_censored,,0000010795,NYSE,Health Care,Health Care Equipment & Services,1972-09-30
+BEAM,Beam Inc.,2011-11-22,2014-05-01,unreconciled,exact,,NYSE,Consumer Discretionary,Distillers & Vintners,
+BEN,Franklin Resources,2000-12-29,,left_censored,,0000038777,NYSE,Financials,Diversified Financial Services,1998-04-30
+BF-B,Brown-Forman Corp.,2000-12-29,,left_censored,,0000014693,NYSE,Consumer Staples,Distillers & Vintners,1982-10-31
+BG,Bunge Limited,2023-03-15,,exact,,0001996862,NYSE,Consumer Staples,Agricultural Products & Services,2023-03-15
+BGEN,Biogen Inc.,2000-12-29,2003-12-05,left_censored,snapshot,,,Health Care,,
+BGG,Briggs & Stratton,2000-12-29,2001-12-31,left_censored,snapshot,,,Industrials,,
+BHF,Brighthouse Financial Inc,2017-08-08,2019-04-02,exact,exact,0001685040,NYSE,Financials,Life & Health Insurance,2017-08-08
+BHGE,"Baker Hughes, a GE Company",2017-07-06,2019-10-25,unreconciled,unreconciled,0001701605,NYSE,Energy,Oil & Gas Equipment & Services,
+BHI,Baker Hughes,2000-12-29,2017-07-07,left_censored,exact,0000808362,NYSE,Energy,Oil & Gas Equipment & Services,
+BIG,"Big Lots, Inc.",2006-08-28,2013-02-15,snapshot,exact,,NYSE,Consumer Discretionary,General Merchandise Stores,
+BIIB,BIOGEN IDEC Inc.,2003-12-05,,snapshot,,0000875045,NASDAQ,Health Care,Biotechnology,2003-11-13
+BIO,Bio-Rad Laboratories,2020-06-22,2024-09-23,exact,exact,0000012208,NYSE,Health Care,Biotechnology,2020-06-22
+BJS,BJ Services,2002-12-31,2010-04-29,snapshot,exact,,NYSE,Energy,,
+BK,Bank of New York,2000-12-29,2026-05-22,left_censored,unreconciled,0001390777,NYSE,Financials,Banks,1995-03-31
+BKNG,Booking Holdings Inc,2018-02-28,,unreconciled,,0001075531,NASDAQ,Consumer Discretionary,Internet & Direct Marketing Retail,2009-11-06
+BKR,Baker Hughes Co,2019-10-25,,unreconciled,,0001701605,NASDAQ,Energy,Oil & Gas Equipment & Services,2017-07-07
+BLDR,Builders FirstSource,2023-12-18,,exact,,0001316835,NYSE,Industrials,Building Products,2023-12-18
+BLI,"Big Lots, Inc.",2001-12-31,2006-08-28,snapshot,snapshot,,,Consumer Discretionary,,
+BLK,Blackrock,2011-04-01,,exact,,0001364742,NYSE,Financials,Diversified Financial Services,2011-04-04
+BLL,Ball Corp.,2000-12-29,2022-06-08,left_censored,unreconciled,0000009389,NYSE,Materials,Metal & Glass Containers,1984-10-31
+BLS,BellSouth,2000-12-29,2007-01-04,left_censored,snapshot,,,Telecommunications Services,,
+BMC,BMC Software,2001-12-31,2013-09-10,snapshot,exact,,NYSE,Information Technology,IT Consulting & Services,
+BMCS,BMC Software,2000-12-29,2001-12-31,left_censored,snapshot,,,Information Technology,,
+BMET,"Biomet, Inc.",2000-12-29,2008-02-10,left_censored,snapshot,,,Health Care,,
+BMS,Bemis Company,2000-12-29,2014-12-05,left_censored,exact,0000011199,NYSE,Materials,Paper Packaging,1978-09-30
+BMY,Bristol-Myers Squibb,2000-12-29,,left_censored,,0000014272,NYSE,Health Care,Health Care Distributors & Services,1957-03-04
+BNI,Burlington Northern Santa Fe C,2000-12-29,2010-02-06,left_censored,snapshot,,NYSE,Industrials,,
+BNY,BNY Mellon,2026-05-22,,unreconciled,,0001390777,NYSE,Financials,Asset Management & Custody Banks,1995-03-31
+BOL,Bausch & Lomb,2000-12-29,2008-02-10,left_censored,snapshot,,,Health Care,,
+BR,Burlington Resources,2000-12-29,2006-06-01,left_censored,snapshot,,,Energy,,
+BR,Broadridge Financial Solutions,2018-06-18,,exact,,0001383312,NYSE,Information Technology,Data Processing & Outsourced Services,2018-06-18
+BRCM,Broadcom Corporation,2000-12-29,2016-02-01,left_censored,exact,0001054374,NASDAQ,Information Technology,Semiconductors,
+BRK-B,Berkshire Hathaway,2010-02-06,,snapshot,,0001067983,NYSE,Financials,Multi-Sector Holdings,2010-02-16
+BRL,"Barr Pharmaceuticals, Inc.",2006-03-02,2009-01-07,snapshot,snapshot,,NYSE,Health Care,,
+BRO,Brown & Brown,2021-09-20,,exact,,0000079282,NYSE,Financials,Insurance Brokers,2021-09-20
+BSC,Bear Stearns Cos.,2000-12-29,2008-08-08,left_censored,snapshot,,,Financials,,
+BSX,Boston Scientific,2000-12-29,,left_censored,,0000885725,NYSE,Health Care,Health Care Equipment & Services,1995-02-24
+BTU,Peabody Energy,2006-11-30,2014-09-20,snapshot,exact,0001064728,NYSE,Energy,Oil & Gas Exploration & Production,
+BUD,Anheuser-Busch,2000-12-29,2008-12-07,left_censored,snapshot,,NYSE,Consumer Staples,,
+BVSN,BROADVISION iNC.,2000-12-29,2001-12-31,left_censored,snapshot,,,Information Technology,,
+BWA,BorgWarner,2011-12-16,2025-03-24,exact,exact,0000908255,NYSE,Consumer Discretionary,Auto Parts & Equipment,2011-12-19
+BX,Blackstone,2023-09-18,,exact,,0001393818,NYSE,Financials,Asset Management & Custody Banks,2023-09-18
+BXLT,Baxalta,2015-07-01,2016-06-03,exact,exact,0001620546,NYSE,Health Care,Biotechnology,2015-07-01
+BXP,Boston Properties,2006-06-01,,snapshot,,0001037540,NYSE,Financials,REITs,2006-04-03
+C,Citigroup Inc.,2000-12-29,,left_censored,,0000831001,NYSE,Financials,Banks,1988-05-31
+CA,Computer Associates Intl.,2000-12-29,2018-11-06,left_censored,exact,0000356028,NASDAQ,Information Technology,Systems Software,1987-07-31
+CAG,"ConAgra Foods, Inc.",2000-12-29,2026-06-30,left_censored,exact,0000023217,NYSE,Consumer Staples,Packaged Foods & Meats,1983-08-31
+CAH,"Cardinal Health, Inc.",2000-12-29,,left_censored,,0000721371,NYSE,Health Care,Health Care Distributors & Services,1997-05-27
+CAM,Cameron International Corp.,2008-08-08,2016-04-04,snapshot,exact,0000941548,NYSE,Energy,Oil & Gas Equipment & Services,2008-01-29
+CARR,Carrier Global,2020-04-03,,exact,,0001783180,NYSE,Industrials,Building Products,2020-04-03
+CASY,Casey's,2026-04-09,,exact,,0000726958,NASDAQ,Consumer Staples,Food Retail,2026-04-09
+CAT,Caterpillar Inc.,2000-12-29,,left_censored,,0000018230,NYSE,Industrials,Construction & Farm Machinery & Heavy Trucks,1957-03-04
+CB,Chubb Corp.,2000-12-29,,left_censored,,0000896159,NYSE,Financials,Property & Casualty Insurance,2010-07-15
+CBE,Cooper Industries,2000-12-29,2009-09-28,left_censored,exact,,NYSE,Industrials,,
+CBE,Cooper Industries,2011-11-18,2012-12-03,exact,exact,,NYSE,Industrials,,
+CBG,CB Richard Ellis Group,2006-11-30,2018-04-03,snapshot,unreconciled,0001138118,NYSE,Financials,Real Estate Management & Development,2006-11-10
+CBH,Commerce Bancorp,2006-06-01,2008-08-08,snapshot,snapshot,,,Financials,,
+CBOE,CBOE Holdings,2017-03-01,,exact,,0001374310,CBOE,Financials,Financial Exchanges & Data,2017-03-01
+CBRE,CBRE Group,2018-04-03,,unreconciled,,0001138118,NYSE,Real Estate,Real Estate Services,2006-11-10
+CBS,CBS Corp.,2005-12-30,2019-12-08,snapshot,unreconciled,0000813828,NYSE,Consumer Discretionary,Broadcasting & Cable TV,1994-09-01
+CBSS,Compass Bancshares,2004-12-31,2007-08-30,snapshot,snapshot,,,Financials,,
+CC,Circuit City Group,2000-12-29,2008-08-08,left_censored,snapshot,,,Consumer Discretionary,,
+CCE,Coca-Cola Enterprises,2000-12-29,2016-05-31,left_censored,exact,0001491675,NYSE,Consumer Staples,Soft Drinks,
+CCI,Crown Castle International Corp.,2012-03-13,,exact,,0001051470,NYSE,Financials,Wireless Telecommunications Services,2012-03-14
+CCL,Carnival Corp.,2000-12-29,,left_censored,,0000815097,NYSE,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",1998-12-22
+CCR,Countrywide Credit Industries,2000-12-29,2002-12-31,left_censored,snapshot,,,Financials,,
+CCU,Clear Channel Communications,2000-12-29,2008-08-08,left_censored,snapshot,,,Consumer Discretionary,,
+CD,Cendant Corporation,2000-12-29,2006-08-28,left_censored,snapshot,,,Industrials,,
+CDAY,Ceridian,2021-09-20,2024-02-01,exact,exact,0001725057,NYSE,Information Technology,Application Software,2021-09-20
+CDNS,Cadence Design Systems,2017-09-18,,exact,,0000813672,NASDAQ,Information Technology,Application Software,2017-09-18
+CDW,CDW,2019-09-23,,exact,,0001402057,NASDAQ,Information Technology,Technology Distributors,2019-09-23
+CE,Concord EFS Inc.,2002-12-31,2004-04-26,snapshot,snapshot,,,Industrials,,
+CE,Celanese Corp.,2018-12-24,2025-03-24,exact,exact,0001306830,NYSE,Materials,Specialty Chemicals,2018-12-24
+CEFT,Concord EFS Inc.,2001-12-31,2002-12-31,snapshot,snapshot,,,Industrials,,
+CEG,Constellation Energy Group,2000-12-29,2012-03-13,left_censored,exact,,NYSE,Utilities,,
+CEG,Constellation Energy,2022-02-02,,exact,,0001868275,NASDAQ,Utilities,Multi-Utilities,2022-02-02
+CELG,Celgene Corp.,2006-11-30,2019-11-21,snapshot,exact,0000816284,NASDAQ,Health Care,Biotechnology,2006-11-06
+CEN,Ceridian Corp. (Old),2000-12-29,2001-12-31,left_censored,snapshot,,,Information Technology,,
+CEPH,Cephalon Inc,2009-07-04,2011-10-14,snapshot,exact,,NASDAQ,,,
+CERN,Cerner,2010-04-29,2022-06-08,exact,exact,0000804753,NASDAQ,Health Care,Health Care Distributors & Services,2010-04-30
+CF,Charter One Financial,2000-12-29,2004-12-31,left_censored,snapshot,,,Financials,,
+CF,CF Industries Holdings Inc,2008-09-12,,snapshot,,0001324404,NYSE,Materials,Fertilizers & Agricultural Chemicals,2008-08-27
+CFC,Countrywide Financial Corp.,2002-12-31,2008-07-01,snapshot,exact,,,Financials,,
+CFG,Citizens Financial Group,2016-02-01,,exact,,0000759944,NYSE,Financials,Banks,2016-01-29
+CFN,Carefusion Corporation,2009-10-16,2015-03-18,snapshot,exact,0001457543,NYSE,Health Care,Health Care Equipment & Services,
+CGP,Coastal Corp.,2000-12-29,2001-12-31,left_censored,snapshot,,,Energy,,
+CHD,Church & Dwight,2015-12-29,,exact,,0000313927,NYSE,Consumer Staples,Household Products,2015-12-29
+CHIR,Chiron Corp.,2000-12-29,2006-06-01,left_censored,snapshot,,,Health Care,,
+CHK,Chesapeake Energy,2006-03-02,2018-03-19,snapshot,exact,0000895126,NYSE,Energy,Integrated Oil & Gas,
+CHRW,C.H. Robinson Worldwide,2007-04-16,,snapshot,,0001043277,NASDAQ,Industrials,Air Freight & Logistics,2007-03-02
+CHTR,Charter Communications,2016-09-08,,exact,,0001091667,NASDAQ,Consumer Discretionary,Cable & Satellite,2016-09-08
+CHV,Chevron Corp.,2000-12-29,2001-12-31,left_censored,snapshot,,,Energy,,
+CI,CIGNA Corp.,2000-12-29,,left_censored,,0000701221,NYSE,Health Care,Managed Health Care,1976-06-30
+CIEN,CIENA Corp.,2001-12-31,2009-12-18,snapshot,exact,,NASDAQ,Information Technology,,
+CIEN,Ciena,2026-02-09,,exact,,0000936395,NYSE,Information Technology,Communications Equipment,2026-02-09
+CIN,CINergy Corp.,2000-12-29,2006-06-01,left_censored,snapshot,,,Utilities,,
+CINF,Cincinnati Financial,2000-12-29,,left_censored,,0000020286,NASDAQ,Financials,Property & Casualty Insurance,1997-12-18
+CIT,CIT Group,2000-12-29,2001-12-31,left_censored,snapshot,,,Financials,,
+CIT,CIT Group,2004-12-31,2009-07-18,snapshot,snapshot,,NYSE,Financials,,
+CL,Colgate-Palmolive,2000-12-29,,left_censored,,0000021665,NYSE,Consumer Staples,Household Products,1957-03-04
+CLF,Cliffs Natural Resources,2009-12-18,2014-04-02,exact,exact,,NYSE,Materials,Diversified Metals & Mining,
+CLX,Clorox Co.,2000-12-29,,left_censored,,0000021076,NYSE,Consumer Staples,Household Products,1969-03-31
+CMA,Comerica Inc.,2000-12-29,2024-06-24,left_censored,exact,0000028412,NYSE,Financials,Banks,1995-12-01
+CMCSA,Comcast Corp.,2002-12-31,,snapshot,,0001166691,NASDAQ,Consumer Discretionary,Broadcasting & Cable TV,2002-11-19
+CMCSK,Comcast Class A Special,2000-12-29,2002-12-31,left_censored,snapshot,,,Consumer Discretionary,,
+CMCSK,Comcast Special Corp Class A,2015-09-18,2015-12-15,exact,exact,0001166691,NASDAQ,Consumer Discretionary,Broadcasting & Cable TV,
+CME,Chicago Mercantile Exchange,2006-08-28,,snapshot,,0001156375,NASDAQ,Financials,Diversified Financial Services,2006-08-11
+CMG,Chipotle Mexican Grill,2011-04-27,,exact,,0001058090,NYSE,Consumer Discretionary,Restaurants,2011-04-28
+CMI,Cummins  Inc.,2003-12-09,,snapshot,,0000026172,NYSE,Industrials,Industrial Machinery,1965-03-31
+CMS,CMS Energy,2000-12-29,,left_censored,,0000811156,NYSE,Utilities,Multi-Utilities & Unregulated Power,1999-05-03
+CMVT,Comverse Technology,2000-12-29,2007-02-01,left_censored,snapshot,,,Information Technology,,
+CMX,Caremark Rx,2004-04-26,2007-04-16,snapshot,snapshot,,,Health Care,,
+CNC,Conseco Inc.,2000-12-29,2002-12-31,left_censored,snapshot,,,Financials,,
+CNC,Centene Corporation,2016-03-30,,exact,,0001071739,NYSE,Health Care,Managed Health Care,2016-03-30
+CNP,CenterPoint Energy,2002-12-31,,snapshot,,0001130310,NYSE,Utilities,Multi-Utilities & Unregulated Power,1985-07-31
+CNS,"Big Lots, Inc.",2000-12-29,2001-12-31,left_censored,snapshot,,,Consumer Discretionary,,
+CNX,CONSOL Energy Inc.,2006-07-18,2016-03-04,snapshot,exact,0001070412,NYSE,Energy,Oil & Gas Exploration & Production,
+CNXT,Conexant Systems,2000-12-29,2002-12-31,left_censored,snapshot,,,Information Technology,,
+COC,Conoco Inc.,2001-12-31,2002-12-31,snapshot,snapshot,,,Energy,,
+COC-B,Conoco Inc.,2000-12-29,2001-12-31,left_censored,snapshot,,,Energy,,
+COF,Capital One Financial,2000-12-29,,left_censored,,0000927628,NYSE,Financials,Consumer Finance,1998-07-01
+COG,Cabot Oil & Gas,2008-06-23,2021-10-06,exact,unreconciled,0000858470,NYSE,Energy,Oil & Gas Exploration & Production,2008-06-23
+COH,"Coach, Inc.",2004-12-31,2017-10-31,snapshot,unreconciled,0001116132,NYSE,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",
+COHR,Coherent Corp.,2026-03-23,,exact,,0000820318,NYSE,Information Technology,Electronic Components,2026-03-23
+COIN,Coinbase,2025-05-19,,exact,,0001679788,NASDAQ,Financials,Financial Exchanges & Data,2025-05-19
+COL,Rockwell Collins,2001-12-31,2018-12-03,snapshot,exact,0001137411,NYSE,Industrials,Industrial Conglomerates,2001-07-02
+COO,The Cooper Companies,2016-09-22,,exact,,0000711404,NYSE,Health Care,Health Care Supplies,2016-09-23
+COP,ConocoPhillips,2002-12-31,,snapshot,,0001163165,NYSE,Energy,Integrated Oil & Gas,1957-03-04
+COR,Cencora,2023-09-08,,unreconciled,,0001140859,NYSE,Health Care,Health Care Distributors,2001-08-30
+COST,Costco Co.,2000-12-29,,left_censored,,0000909832,NASDAQ,Consumer Discretionary,General Merchandise Stores,1993-10-01
+COTY,"Coty, Inc",2016-09-30,2020-09-21,exact,exact,0001024305,NYSE,Consumer Staples,Personal Products,2016-10-03
+COV,Covidien Ltd.,2008-02-10,2009-06-05,snapshot,exact,,NYSE,,,
+COV,Covidien plc,2011-02-28,2015-01-27,exact,exact,0001385187,NYSE,Health Care,Health Care Equipment & Services,
+CPAY,Corpay,2024-03-25,,exact,,0001175454,NYSE,Financials,Transaction & Payment Processing Services,2018-06-20
+CPB,Campbell Soup,2000-12-29,2026-06-22,left_censored,exact,0000016732,NYSE,Consumer Staples,Packaged Foods & Meats,1957-03-04
+CPGX,Columbia Pipeline Group Inc,2015-07-02,2016-07-05,exact,exact,0001629995,NYSE,Energy,Oil & Gas Storage & Transportation,2015-07-02
+CPN,Calpine Corp.,2000-12-29,2005-12-01,left_censored,snapshot,,,Utilities,,
+CPQ,COMPAQ Computer,2000-12-29,2002-12-31,left_censored,snapshot,,,Information Technology,,
+CPRI,Capri Holdings,2019-01-14,2020-05-12,unreconciled,exact,0001530721,NYSE,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",2013-11-13
+CPRT,Copart Inc,2018-07-02,,exact,,0000900075,NASDAQ,Industrials,Diversified Support Services,2018-07-02
+CPT,Camden,2022-04-04,,exact,,0000906345,NYSE,Real Estate,Residential REITs,2022-04-04
+CPWR,Compuware Corp.,2000-12-29,2011-12-31,left_censored,exact,,NASDAQ,Information Technology,,
+CR,Crane Company,2000-12-29,2004-12-31,left_censored,snapshot,,,Industrials,,
+CRH,CRH plc,2025-12-22,,exact,,0000849395,NYSE,Materials,Construction Materials,2025-12-22
+CRL,Charles River Laboratories,2021-05-14,,exact,,0001100682,NYSE,Health Care,Life Sciences Tools & Services,2021-05-14
+CRM,Salesforce.com,2008-09-12,,exact,,0001108524,NYSE,Information Technology,Internet Software & Services,2008-09-15
+CRWD,CrowdStrike,2024-06-24,,exact,,0001535527,NASDAQ,Information Technology,Systems Software,2024-06-24
+CS,Cabletron Systems,2000-12-29,2001-12-31,left_censored,snapshot,,,Information Technology,,
+CSC,Computer Sciences Corp.,2000-12-29,2015-12-01,left_censored,exact,0000023082,NYSE,Information Technology,IT Consulting & Services,1981-06-30
+CSCO,Cisco Systems,2000-12-29,,left_censored,,0000858877,NASDAQ,Information Technology,Networking Equipment,1993-12-01
+CSGP,CoStar Group,2022-09-19,,exact,,0001057352,NASDAQ,Industrials,Research & Consulting Services,2022-09-19
+CSRA,CSRA Inc.,2015-12-01,2018-04-04,exact,exact,0001646383,NYSE,Information Technology,IT Consulting & Services,2015-12-01
+CSX,CSX Corp.,2000-12-29,,left_censored,,0000277948,NASDAQ,Industrials,Railroads,1967-09-30
+CTAS,Cintas Corporation,2001-12-31,,snapshot,,0000723254,NASDAQ,Industrials,Diversified Commercial Services,2001-03-01
+CTB,Cooper Tire & Rubber,2000-12-29,2006-07-18,left_censored,snapshot,,,Consumer Discretionary,,
+CTL,Century Telephone,2000-12-29,2020-09-27,left_censored,unreconciled,0000018926,NYSE,Telecommunications Services,Integrated Telecommunications Services,1999-03-25
+CTLT,Catalent,2020-09-21,2024-12-23,exact,exact,0001596783,NYSE,Health Care,Pharmaceuticals,2020-09-21
+CTRA,Coterra,2021-10-06,2026-05-07,unreconciled,exact,0000858470,NYSE,Energy,Oil & Gas Exploration & Production,2008-06-23
+CTSH,Cognizant Technology Solutions,2006-11-30,,snapshot,,0001058290,NASDAQ,Information Technology,IT Consulting & Services,2006-11-17
+CTVA,Corteva,2019-06-03,,exact,,0001755672,NYSE,Materials,Fertilizers & Agricultural Chemicals,2019-06-03
+CTX,Centex Corp.,2000-12-29,2009-08-19,left_censored,exact,,NYSE,Consumer Discretionary,,
+CTXS,Citrix Systems,2000-12-29,2022-10-03,left_censored,exact,0000877890,NASDAQ,Information Technology,Internet Software & Services,1999-12-01
+CUM,Cummins  Inc.,2000-12-29,2003-12-09,left_censored,snapshot,,,Industrials,,
+CVC,Cablevision Systems Corp.,2010-12-17,2016-06-22,exact,exact,0001053112,NASDAQ,Consumer Discretionary,Broadcasting & Cable TV,2010-12-20
+CVG,Convergys Corp.,2000-12-29,2009-12-18,left_censored,exact,,NYSE,Industrials,,
+CVH,Coventry Health Care Inc.,2005-09-01,2013-05-08,snapshot,exact,,NYSE,Health Care,Managed Health Care,
+CVNA,Carvana,2025-12-22,,exact,,0001690820,NYSE,Consumer Discretionary,Automotive Retail,2025-12-22
+CVS,CVS Corp.,2000-12-29,,left_censored,,0000064803,NYSE,Consumer Staples,Drug Retail,1957-03-04
+CVX,Chevron Corp.,2001-12-31,,snapshot,,0000093410,NYSE,Energy,Integrated Oil & Gas,1957-03-04
+CXO,Concho Resources,2016-02-22,2021-01-21,exact,exact,0001358071,NYSE,Energy,Oil & Gas Exploration & Production,2016-02-22
+CZN,Citizens Communications,2001-12-31,2008-08-08,snapshot,snapshot,,,Telecommunications Services,,
+CZR,Caesars Entertainment,2021-03-22,2025-09-22,exact,exact,0001590895,NASDAQ,Consumer Discretionary,Casinos & Gaming,2021-03-22
+D,Dominion Resources,2000-12-29,,left_censored,,0000715957,NYSE,Utilities,Multi-Utilities & Unregulated Power,2016-11-30
+DAL,Delta Air Lines,2000-12-29,2005-09-01,left_censored,snapshot,,,Industrials,,
+DAL,Delta Air Lines,2013-09-10,,exact,,0000027904,NYSE,Industrials,Airlines,2013-09-11
+DASH,DoorDash,2025-03-24,,exact,,0001792789,NASDAQ,Consumer Discretionary,Specialized Consumer Services,2025-03-24
+DAY,Dayforce,2024-02-01,2026-02-09,exact,exact,0001725057,NYSE,Industrials,Human Resource & Employment Services,2021-09-20
+DCN,Dana Corp.,2000-12-29,2006-03-02,left_censored,snapshot,,,Consumer Discretionary,,
+DD,Du Pont (E.I.),2000-12-29,2017-09-01,left_censored,exact,0000030554,NYSE,Materials,Diversified Chemicals,
+DD,DuPont de Nemours Inc,2019-06-03,,exact,,0001666700,NYSE,Materials,Specialty Chemicals,2019-04-02
+DDOG,Datadog,2025-07-09,,exact,,0001561550,NASDAQ,Information Technology,Application Software,2025-07-09
+DDR,Developers Diversified Rlty,2007-04-16,2009-05-29,snapshot,snapshot,,NYSE,Financials,,
+DDS,Dillard Inc.,2000-12-29,2008-10-28,left_censored,snapshot,,NYSE,Consumer Discretionary,,
+DE,Deere & Co.,2000-12-29,,left_censored,,0000315189,NYSE,Industrials,Construction & Farm Machinery & Heavy Trucks,1957-03-04
+DECK,Deckers Brands,2024-03-18,,exact,,0000910521,NYSE,Consumer Discretionary,Footwear,2024-03-18
+DELL,Dell Computer,2000-12-29,2013-10-29,left_censored,exact,,NASDAQ,Information Technology,Computer Hardware,
+DELL,Dell Technologies,2024-09-23,,exact,,0001571996,NYSE,Information Technology,"Technology Hardware, Storage & Peripherals",2024-09-23
+DF,Dean Foods,2006-06-01,2013-05-23,snapshot,exact,,NYSE,Consumer Staples,Packaged Foods & Meats,
+DFS,Discover Financial Services,2007-07-02,2025-05-19,exact,exact,0001393612,NYSE,Financials,Consumer Finance,2007-07-02
+DG,Dollar General,2000-12-29,2008-02-10,left_censored,snapshot,,,Consumer Discretionary,,
+DG,Dollar General,2012-12-03,,exact,,0000029534,NYSE,Consumer Discretionary,General Merchandise Stores,2012-12-03
+DGX,Quest Diagnostics,2002-12-31,,snapshot,,0001022079,NYSE,Health Care,Health Care Facilities,2002-12-12
+DHI,D.R. Horton,2005-09-01,,snapshot,,0000882184,NYSE,Consumer Discretionary,Restaurants,2005-06-22
+DHR,Danaher Corp.,2000-12-29,,left_censored,,0000313616,NYSE,Industrials,Industrial Machinery,1998-11-18
+DIS,Walt Disney Co.,2000-12-29,,left_censored,,0001001039,NYSE,Consumer Discretionary,Broadcasting & Cable TV,1976-06-30
+DISCA,Discovery Communications,2010-05-06,2022-04-11,snapshot,exact,0001437107,NASDAQ,Consumer Discretionary,Broadcasting & Cable TV,2010-03-01
+DISCK,Discovery Communications,2014-08-06,2022-04-11,exact,exact,0001437107,NASDAQ,Consumer Discretionary,Broadcasting & Cable TV,2014-08-07
+DISH,Dish Network,2017-03-13,2023-06-20,exact,exact,0001001082,NASDAQ,Consumer Discretionary,Cable & Satellite,2017-03-13
+DJ,Dow Jones & Co.,2000-12-29,2007-12-13,left_censored,exact,,,Consumer Discretionary,,
+DLPH,Delphi Automotive,2012-12-21,2017-12-15,exact,unreconciled,0001521332,NYSE,Consumer Discretionary,Auto Parts & Equipment,2012-12-24
+DLR,Digital Realty Trust,2016-05-18,,exact,,0001297996,NYSE,Financials,Specialized REITs,2016-05-18
+DLTR,Dollar Tree,2011-12-16,,exact,,0000935703,NASDAQ,Consumer Discretionary,General Merchandise Stores,2011-12-19
+DLX,Deluxe Corp.,2000-12-29,2004-12-31,left_censored,snapshot,,,Industrials,,
+DNB,Dun & Bradstreet,2008-12-24,2017-04-05,snapshot,exact,0001115222,NYSE,Industrials,Data Processing Services,2008-12-02
+DNR,Denbury Resources Inc.,2009-05-29,2015-03-23,snapshot,exact,0000945764,NYSE,Energy,Oil & Gas Exploration & Production,
+DNY,Donnelley (R.R.) & Sons,2000-12-29,2004-04-26,left_censored,snapshot,,,Industrials,,
+DO,Diamond Offshore Drilling,2009-03-18,2016-09-30,snapshot,exact,0000949039,NYSE,Energy,Oil & Gas Drilling,2009-02-26
+DOC,Healthpeak,2024-03-04,,unreconciled,,0000765880,NYSE,Real Estate,Health Care REITs,2008-03-31
+DOV,Dover Corp.,2000-12-29,,left_censored,,0000029905,NYSE,Industrials,Industrial Machinery,1985-10-31
+DOW,Dow Chemical,2000-12-29,2017-09-01,left_censored,exact,0000029915,NYSE,Materials,Diversified Chemicals,
+DOW,Dow Inc.,2019-04-02,,exact,,0001751788,NYSE,Materials,Commodity Chemicals,2019-04-01
+DPH,Delphi Automotive Systems,2000-12-29,2005-10-20,left_censored,snapshot,,,Consumer Discretionary,,
+DPS,Dr Pepper Snapple Group,2008-11-14,2018-07-02,snapshot,exact,0001418135,NYSE,Consumer Staples,Soft Drinks,2008-10-07
+DPZ,Domino's Pizza,2020-05-12,,exact,,0001286681,NYSE,Consumer Discretionary,Restaurants,2020-05-12
+DRE,Duke Realty Corp,2017-07-26,2022-10-03,exact,exact,0000783280,NYSE,Real Estate,Industrial REITs,2017-07-26
+DRI,Darden Restaurants,2000-12-29,,left_censored,,0000940944,NYSE,Consumer Discretionary,Restaurants,1995-05-31
+DTE,DTE Energy Co.,2000-12-29,,left_censored,,0000936340,NYSE,Utilities,Multi-Utilities & Unregulated Power,1957-03-04
+DTV,DIRECTV Group Inc.,2006-12-19,2015-07-29,snapshot,exact,0001465112,NASDAQ,Consumer Discretionary,Broadcasting & Cable TV,
+DUK,Duke Energy,2000-12-29,,left_censored,,0001326160,NYSE,Utilities,Electric Utilities,1976-06-30
+DV,"DeVry, Inc.",2009-07-04,2012-10-01,snapshot,exact,,NYSE,Consumer Discretionary,,
+DVA,DaVita Inc.,2008-08-08,,snapshot,,0000927066,NYSE,Health Care,Health Care Facilities,2008-07-31
+DVN,Devon Energy Corp.,2000-12-29,,left_censored,,0001090012,NYSE,Energy,Oil & Gas Exploration & Production,2000-08-30
+DWDP,DowDuPont,2017-09-01,2019-06-03,exact,exact,0001666700,NYSE,Materials,Diversified Chemicals,
+DXC,DXC Technology,2017-04-04,2023-10-03,exact,exact,0001688568,NYSE,Information Technology,IT Consulting & Other Services,2017-04-04
+DXCM,DexCom,2020-05-12,,exact,,0001093557,NASDAQ,Health Care,Health Care Equipment,2020-05-12
+DYN,Dynegy Inc. (New) Class A,2000-12-29,2009-12-18,left_censored,exact,,NYSE,Utilities,,
+EA,Electronic Arts,2011-12-28,2026-08-05,unreconciled,exact,0000712515,NASDAQ,Information Technology,Application Software,2002-07-22
+EBAY,eBay Inc.,2002-12-31,,snapshot,,0001065088,NASDAQ,Consumer Discretionary,Internet Software & Services,2002-07-22
+EC,Engelhard Corp.,2000-12-29,2006-06-01,left_censored,snapshot,,,Materials,,
+ECHO,EchoStar,2026-07-09,,unreconciled,,0001415404,NASDAQ,Communication Services,Wireless Telecommunication Services,2026-03-23
+ECL,Ecolab Inc.,2000-12-29,,left_censored,,0000031462,NYSE,Industrials,Specialty Chemicals,1989-01-31
+ED,Consolidated Edison,2000-12-29,,left_censored,,0001047862,NYSE,Utilities,Multi-Utilities & Unregulated Power,1957-03-04
+EDS,Electronic Data Systems,2000-12-29,2008-09-12,left_censored,snapshot,,,Information Technology,,
+EFX,Equifax Inc.,2000-12-29,,left_censored,,0000033185,NYSE,Industrials,Diversified Financial Services,1997-06-19
+EG,Everest Re,2023-07-31,,unreconciled,,0001095073,NYSE,Financials,Reinsurance,2017-06-19
+EIX,Edison Int'l,2000-12-29,,left_censored,,0000827052,NYSE,Utilities,Multi-Utilities & Unregulated Power,1957-03-04
+EK,Eastman Kodak,2000-12-29,2010-12-17,left_censored,exact,,NYSE,Consumer Discretionary,,
+EL,Estee Lauder Cos.,2006-01-06,,snapshot,,0001001250,NYSE,Consumer Staples,Personal Products,2006-01-05
+ELV,Elevance Health,2022-07-09,,unreconciled,,0001156039,NYSE,Health Care,Managed Health Care,2002-07-25
+EMC,EMC Corp.,2000-12-29,2016-09-08,left_censored,exact,0000790070,NYSE,Information Technology,IT Consulting & Services,
+EME,Emcor,2025-09-22,,exact,,0000105634,NYSE,Industrials,Construction & Engineering,2025-09-22
+EMN,Eastman Chemical,2000-12-29,2025-11-04,left_censored,exact,0000915389,NYSE,Materials,Diversified Chemicals,1994-01-01
+EMR,Emerson Electric,2000-12-29,,left_censored,,0000032604,NYSE,Industrials,Industrial Conglomerates,1965-03-31
+ENDP,Endo International,2015-01-27,2017-03-02,exact,exact,0001100962,NASDAQ,Health Care,Pharmaceuticals,2015-01-27
+ENE,Enron Corp.,2000-12-29,2001-12-31,left_censored,snapshot,,,Utilities,,
+ENPH,Enphase Energy,2021-01-07,2025-09-22,exact,exact,0001463101,NASDAQ,Information Technology,Semiconductor Equipment,2021-01-07
+EOG,EOG Resources,2000-12-29,,left_censored,,0000821189,NYSE,Energy,Oil & Gas Exploration & Production,2000-11-02
+EOP,Equity Office Properties,2001-12-31,2007-04-16,snapshot,snapshot,,,Financials,,
+EP,El Paso Corp.,2001-12-31,2012-05-17,snapshot,exact,,NYSE,Utilities,,
+EPAM,EPAM Systems,2021-12-14,2026-06-02,exact,exact,0001352010,NYSE,Information Technology,IT Consulting & Other Services,2021-12-14
+EPG,El Paso Corp.,2000-12-29,2001-12-31,left_censored,snapshot,,,Utilities,,
+EQ,Embarq Corporation,2006-06-01,2009-07-18,snapshot,snapshot,,NYSE,Telecommunication Services,,
+EQIX,Equinix,2015-03-23,,exact,,0001101239,NASDAQ,Information Technology,Internet Software & Services,2015-03-20
+EQR,Equity Residential,2001-12-31,2026-09-04,snapshot,unreconciled,0000906107,NYSE,Financials,REITs,2001-12-03
+EQT,EQT Corporation,2009-03-18,2018-11-13,snapshot,exact,0000033213,NYSE,Utilities,Gas Utilities,2008-12-19
+EQT,EQT,2022-10-03,,exact,,0000033213,NYSE,Energy,Oil & Gas Exploration & Production,2022-10-03
+ERIE,Erie Indemnity,2024-09-23,,exact,,0000922621,NASDAQ,Financials,Insurance Brokers,2024-09-23
+ERTS,Electronic Arts,2002-12-31,2011-12-28,snapshot,unreconciled,,NASDAQ,Information Technology,,
+ES,Eversource Energy,2015-03-06,,unreconciled,,0000072741,NYSE,Utilities,Multi-Utilities & Unregulated Power,2009-07-24
+ESRX,Express Scripts,2003-09-25,2018-12-24,exact,exact,0001532063,NASDAQ,Health Care,Health Care Distributors & Services,2003-09-25
+ESS,Essex Property Trust Inc,2014-04-02,,exact,,0000920522,NYSE,Financials,Residential REITs,2014-04-02
+ESV,ENSCO Int'l,2007-01-04,2009-12-31,snapshot,snapshot,,NYSE,Energy,,
+ESV,Ensco plc,2012-07-31,2016-03-30,exact,exact,0000314808,NYSE,Energy,Oil & Gas Drilling,2012-07-30
+ET,E*Trade Financial Corp.,2004-04-26,2006-12-29,snapshot,snapshot,,,Financials,,
+ETFC,E*Trade Financial Corp.,2006-12-29,2020-10-07,snapshot,exact,0001015780,NASDAQ,Financials,Diversified Financial Services,2004-03-31
+ETN,Eaton Corp.,2000-12-29,,left_censored,,0001551182,NYSE,Industrials,Industrial Conglomerates,1957-03-04
+ETR,Entergy Corp.,2000-12-29,,left_censored,,0000065984,NYSE,Utilities,Electric Utilities,1957-03-04
+ETSY,Etsy,2020-09-21,2024-09-23,exact,exact,0001370637,NASDAQ,Consumer Discretionary,Internet & Direct Marketing Retail,2020-09-21
+EVHC,Envision Healthcare Corp,2016-12-02,2018-10-11,exact,exact,0000895930,NYSE,Health Care,Health Care Services,2016-12-02
+EVRG,Evergy,2018-06-05,,exact,,0001711269,NYSE,Utilities,Electric Utilities,2018-06-05
+EW,Edwards Lifesciences,2011-03-31,,exact,,0001099800,NYSE,Health Care,Health Care Equipment & Services,2011-04-01
+EXC,Exelon Corp.,2000-12-29,,left_censored,,0001109357,NYSE,Utilities,Multi-Utilities & Unregulated Power,1957-03-04
+EXE,Expand Energy,2025-03-24,,exact,,0000895126,NASDAQ,Energy,Oil & Gas Exploration & Production,2025-03-24
+EXPD,Expeditors Int'l,2008-02-10,,snapshot,,0000746515,NASDAQ,Industrials,Air Freight & Logistics,2007-10-10
+EXPE,Expedia Inc.,2007-10-02,,exact,,0001324424,NASDAQ,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",2007-10-02
+EXR,Extra Space Storage,2016-01-19,,exact,,0001289490,NYSE,Financials,Specialized REITs,2016-01-19
+F,Ford Motor,2000-12-29,,left_censored,,0000037996,NYSE,Consumer Discretionary,Automobile Manufacturers,1957-03-04
+FANG,Diamondback Energy Inc,2018-12-03,,exact,,0001539838,NASDAQ,Energy,Oil & Gas Exploration & Production,2018-12-03
+FAST,Fastenal,2008-09-12,,exact,,0000815556,NASDAQ,Industrials,Building Products,2008-09-15
+FB,Facebook,2013-12-23,2022-06-22,exact,unreconciled,0001326801,NASDAQ,Information Technology,Internet Software & Services,2013-12-23
+FBF,Fleet Boston Financial Group,2000-12-29,2004-04-26,left_censored,snapshot,,,Financials,,
+FBHS,Fortune Brands Home & Security,2016-06-22,2022-12-19,exact,exact,0001519751,NYSE,Industrials,Building Products,2016-06-22
+FCX,Freeport-McMoran Cp & Gld,2000-12-29,,left_censored,,0000831259,NYSE,Materials,Diversified Metals & Mining,2011-07-01
+FD,Federated Dept. Stores,2000-12-29,2007-07-24,left_censored,snapshot,,,Consumer Discretionary,,
+FDC,First Data,2000-12-29,2007-09-26,left_censored,exact,,,Industrials,,
+FDO,Family Dollar Stores,2001-12-31,2015-07-08,snapshot,exact,0000034408,NYSE,Consumer Discretionary,General Merchandise Stores,
+FDS,FactSet,2021-12-20,,exact,,0001013237,NYSE,Financials,Financial Exchanges & Data,2021-12-20
+FDX,Federal Express,2000-12-29,,left_censored,,0001048911,NYSE,Industrials,Air Freight & Logistics,1980-12-31
+FDXF,FedEx Freight,2026-06-01,,exact,,0002082247,NYSE,Industrials,Cargo Ground Transportation,2026-06-01
+FE,FirstEnergy Corp.,2000-12-29,,left_censored,,0001031296,NYSE,Utilities,Multi-Utilities & Unregulated Power,1997-11-28
+FERG,Ferguson Enterprises,2026-08-05,,exact,,0002011641,NYSE,Industrials,Building Products,2026-08-05
+FFIV,F5 Networks,2010-12-17,,exact,,0001048695,NASDAQ,Information Technology,Networking Equipment,2010-12-20
+FHN,First Horizon National,2004-04-26,2013-06-21,snapshot,exact,,NYSE,Financials,Banks,
+FI,Fiserv,2023-06-19,2025-11-20,unreconciled,unreconciled,0000798354,NYSE,Financials,Transaction & Payment Processing Services,2001-04-02
+FICO,Fair Isaac,2023-03-20,,exact,,0000814547,NYSE,Information Technology,Application Software,2023-03-20
+FII,Federated Investors Inc.,2003-06-06,2013-01-02,snapshot,exact,,NYSE,Financials,,
+FIS,Fidelity National Information Services,2006-11-30,,snapshot,,0001136893,NYSE,Information Technology,Internet Software & Services,2006-11-10
+FISV,FIserv Inc.,2001-12-31,2023-06-19,snapshot,unreconciled,0000798354,NASDAQ,Industrials,Internet Software & Services,2001-04-02
+FISV,Fiserv,2025-11-20,,unreconciled,,0000798354,NASDAQ,Financials,Transaction & Payment Processing Services,2001-04-02
+FITB,Fifth Third Bancorp,2000-12-29,,left_censored,,0000035527,NASDAQ,Financials,Banks,1996-03-29
+FIX,Comfort Systems USA,2025-12-22,,exact,,0001035983,NYSE,Industrials,Construction & Engineering,2025-12-22
+FL,Foot Locker Inc,2016-04-04,2019-08-09,exact,exact,0000850209,NYSE,Consumer Discretionary,Apparel Retail,2016-04-04
+FLEX,Flex Ltd.,2026-06-22,,exact,,0000866374,NASDAQ,Information Technology,Electronic Manufacturing Services,2026-06-22
+FLIR,FLIR Systems,2009-03-18,2021-05-14,snapshot,exact,0000354908,NASDAQ,Information Technology,Aerospace & Defense,2009-01-02
+FLR,Fluor Corp. (New),2000-12-29,2019-06-03,left_censored,exact,0001124198,NYSE,Industrials,Diversified Commercial Services,1980-03-31
+FLS,Flowserve Corporation,2008-09-30,2021-03-22,snapshot,exact,0000030625,NYSE,Industrials,Industrial Machinery,2008-10-02
+FLT,FleetCor Technologies Inc,2018-06-20,2024-03-25,exact,exact,0001175454,NYSE,Information Technology,Data Processing & Outsources Services,2018-06-20
+FMC,FMC Corp.,2000-12-29,2001-12-31,left_censored,snapshot,,,Materials,,
+FMC,FMC Corporation,2009-08-19,2025-03-24,exact,exact,0000037785,NYSE,Materials,Diversified Chemicals,2009-08-19
+FNM,Fannie Mae,2000-12-29,2008-09-12,left_censored,exact,,,Financials,,
+FO,"Fortune Brands, Inc.",2000-12-29,2011-11-22,left_censored,unreconciled,,NYSE,Consumer Discretionary,,
+FON,Sprint Corp. FON,2000-12-29,2005-09-01,left_censored,snapshot,,,Telecommunications Services,,
+FOSL,"Fossil, Inc.",2012-04-03,2016-01-05,exact,exact,0000883569,NYSE,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",2012-04-04
+FOX,Twenty-First Century Fox Class B,2015-09-18,2019-03-19,exact,exact,0001308161,NASDAQ,Consumer Discretionary,Publishing,2015-09-18
+FOX,Twenty-First Century Fox Class B,2019-03-19,,exact,,0001754301,NASDAQ,Communication Services,Movies & Entertainment,2015-09-18
+FOXA,21st Century Fox,2013-08-09,2019-03-19,unreconciled,exact,0001308161,NASDAQ,Consumer Discretionary,Publishing,2013-07-01
+FOXA,Twenty-First Century Fox Class A,2019-03-19,,exact,,0001754301,NASDAQ,Communication Services,Movies & Entertainment,2013-07-01
+FPL,FPL Group,2000-12-29,2010-07-11,left_censored,snapshot,,NYSE,Utilities,,
+FRC,First Republic Bank,2019-01-02,2023-05-04,exact,exact,0001132979,NYSE,Financials,Regional Banks,2019-01-02
+FRE,Federal Home Loan Mtg.,2000-12-29,2008-09-12,left_censored,exact,,,Financials,,
+FRT,Federal Realty Investment Trust,2016-02-01,,exact,,0000034903,NYSE,Financials,Retail REITs,2016-02-01
+FRX,Forest Laboratories,2000-12-29,2014-07-01,left_censored,exact,0000038074,NYSE,Health Care,Pharmaceuticals,
+FSH,Fisher Scientific,2004-12-31,2006-11-30,snapshot,snapshot,,,Health Care,,
+FSL-B,Freescale Semiconductor Inc.,2004-12-31,2006-12-19,snapshot,snapshot,,,Information Technology,,
+FSLR,First Solar Inc,2009-11-17,2017-03-20,snapshot,exact,0001274494,NYSE,Industrials,Heavy Electrical Equipment,2009-10-16
+FSLR,First Solar,2022-12-19,,exact,,0001274494,NASDAQ,Information Technology,Semiconductors,2022-12-19
+FSR,U.S. Bancorp,2000-12-29,2001-12-31,left_censored,snapshot,,,Financials,,
+FTI,FMC Technologies Inc.,2009-06-05,2021-02-12,exact,exact,0001681459,NYSE,Energy,Oil & Gas Equipment & Services,2009-06-05
+FTN,First Tennessee National,2002-12-31,2004-04-26,snapshot,snapshot,,,Financials,,
+FTNT,Fortinet,2018-10-11,,exact,,0001262039,NASDAQ,Information Technology,Systems Software,2018-10-11
+FTR,Frontier Communications,2008-08-08,2017-03-20,snapshot,exact,0000020520,NYSE,,Integrated Telecommunications Services,
+FTU,First Union Corp.,2000-12-29,2001-12-31,left_censored,snapshot,,,Financials,,
+FTV,Fortive Corp,2016-07-05,,exact,,0001659166,NYSE,Industrials,Industrial Machinery,2016-07-01
+G,Gillette Co.,2000-12-29,2005-10-03,left_censored,snapshot,,,Consumer Staples,,
+GAS,NICOR Inc.,2000-12-29,2011-12-12,left_censored,exact,,NYSE,Utilities,,
+GAS,AGL Resources Inc.,2011-12-12,2016-07-01,exact,exact,0001004155,NYSE,Utilities,Gas Utilities,2011-12-13
+GCI,Gannett Co.,2000-12-29,2015-07-15,left_censored,unreconciled,0000039899,NYSE,Consumer Discretionary,Publishing,1975-12-31
+GD,General Dynamics,2000-12-29,,left_censored,,0000040533,NYSE,Industrials,Aerospace & Defense,1957-03-04
+GDDY,GoDaddy,2024-06-24,,exact,,0001609711,NYSE,Information Technology,Internet Services & Infrastructure,2024-06-24
+GDT,Guidant Corp.,2000-12-29,2006-06-01,left_censored,snapshot,,,Health Care,,
+GDW,Golden West Financial,2000-12-29,2006-11-30,left_censored,snapshot,,,Financials,,
+GE,General Electric,2000-12-29,,left_censored,,0000040545,NYSE,Industrials,Industrial Conglomerates,1957-03-04
+GEHC,GE HealthCare,2023-01-04,,exact,,0001932393,NASDAQ,Health Care,Health Care Technology,2023-01-04
+GEN,Gen Digital Inc.,2022-11-23,,unreconciled,,0000849399,NASDAQ,Information Technology,Application Software,2003-03-25
+GENZ,Genzyme Corp.,2001-12-31,2011-04-01,snapshot,exact,,NASDAQ,Health Care,,
+GEV,GE Vernova,2024-04-02,,exact,,0001996810,NYSE,Industrials,Heavy Electrical Equipment,2024-04-02
+GGP,Genl Growth Properties,2008-02-10,2009-04-06,snapshot,snapshot,,NYSE,,,
+GGP,General Growth Properties Inc.,2013-12-10,2018-08-28,exact,exact,0000895648,NYSE,Financials,REITs,2013-12-10
+GHC,Graham Holdings Company,2013-12-19,2014-09-20,unreconciled,exact,0000104889,NYSE,Consumer Discretionary,Publishing,
+GILD,Gilead Sciences,2004-07-01,,snapshot,,0000882095,NASDAQ,Health Care,Biotechnology,2004-07-01
+GIS,General Mills,2000-12-29,,left_censored,,0000040704,NYSE,Consumer Staples,Packaged Foods & Meats,1969-03-31
+GL,Globe Life Inc.,2019-08-16,,unreconciled,,0000320335,NYSE,Financials,Life & Health Insurance,1989-04-30
+GLK,Great Lakes Chemical,2000-12-29,2005-07-01,left_censored,exact,,,Materials,,
+GLW,Corning Inc.,2000-12-29,,left_censored,,0000024741,NYSE,Information Technology,Construction & Engineering,1995-02-27
+GM,General Motors,2000-12-29,2009-07-04,left_censored,snapshot,,NYSE,Consumer Discretionary,,
+GM,General Motors,2013-06-06,,exact,,0001467858,NYSE,Consumer Discretionary,Automobile Manufacturers,2013-06-06
+GMCR,Keurig Green Mountain,2014-03-21,2016-03-07,exact,exact,0000909954,NASDAQ,Consumer Staples,Packaged Foods & Meats,2014-03-24
+GME,GameStop Corp.,2007-12-13,2016-04-25,exact,exact,0001326380,NYSE,Consumer Discretionary,Specialty Stores,2007-12-14
+GNRC,Generac Holdings,2021-03-22,,exact,,0001474735,NYSE,Industrials,Electrical Components & Equipment,2021-03-22
+GNW,Genworth Financial Inc.,2005-12-01,2015-11-18,snapshot,exact,0001276520,NYSE,Financials,Life & Health Insurance,
+GOOG,Google Inc.,2006-06-01,,snapshot,,0001652044,NASDAQ,Information Technology,Internet Software & Services,2006-04-03
+GOOGL,Google Inc.,2014-04-03,,exact,,0001652044,NASDAQ,Information Technology,Internet Software & Services,2014-04-03
+GP,Georgia-Pacific Group,2000-12-29,2005-12-19,left_censored,snapshot,,,Materials,,
+GPC,Genuine Parts,2000-12-29,,left_censored,,0000040987,NYSE,Industrials,Specialty Stores,1973-12-31
+GPN,Global Payments Inc,2016-04-25,,exact,,0001123360,NYSE,Information Technology,Data Processing & Outsourced Services,2016-04-25
+GPS,Gap (The),2000-12-29,2022-02-03,left_censored,exact,0000039911,NYSE,Consumer Discretionary,Apparel Retail,1986-08-31
+GPU,GPU Inc.,2000-12-29,2001-12-31,left_censored,snapshot,,,Utilities,,
+GR,Goodrich Corporation,2000-12-29,2012-07-31,left_censored,exact,,NYSE,Industrials,,
+GRMN,Garmin Ltd.,2012-12-11,,exact,,0001121788,NASDAQ,Consumer Discretionary,Leisure Products,2012-12-12
+GS,Goldman Sachs Group,2002-12-31,,snapshot,,0000886982,NYSE,Financials,Diversified Financial Services,2002-07-22
+GT,Goodyear Tire & Rubber,2000-12-29,2019-02-27,left_censored,exact,0000042582,NASDAQ,Consumer Discretionary,Tires & Rubber,
+GTW,Gateway Inc.,2000-12-29,2006-08-28,left_censored,snapshot,,,Information Technology,,
+GWW,Grainger (W.W.) Inc.,2000-12-29,,left_censored,,0000277135,NYSE,Industrials,Industrial Materials,1981-06-30
+GX,Global Crossing,2000-12-29,2001-12-31,left_censored,snapshot,,,Telecommunications Services,,
+H,Harcourt General Inc.,2000-12-29,2001-12-31,left_censored,snapshot,,,Consumer Discretionary,,
+H,Realogy Corporation,2006-08-28,2007-04-16,snapshot,snapshot,,,Financials,,
+HAL,Halliburton Co.,2000-12-29,,left_censored,,0000045012,NYSE,Energy,Oil & Gas Equipment & Services,1957-03-04
+HAR,Harman Int'l Industries,2006-02-09,2017-03-16,snapshot,exact,0000800459,NYSE,Consumer Discretionary,Consumer Electronics,
+HAS,Hasbro Inc.,2000-12-29,,left_censored,,0000046080,NASDAQ,Consumer Discretionary,Leisure Products,1984-09-30
+HBAN,Huntington Bancshares,2000-12-29,,left_censored,,0000049196,NASDAQ,Financials,Banks,1997-08-28
+HBI,Hanesbrands Inc,2015-03-23,2021-12-20,exact,exact,0001359841,NYSE,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",2015-03-20
+HCA,HCA Inc.,2000-12-29,2006-11-30,left_censored,snapshot,,,Health Care,,
+HCA,HCA Holdings,2015-01-27,,exact,,0000860730,NYSE,Health Care,Health Care Facilities,2015-01-27
+HCBK,Hudson City Bancorp,2007-04-16,2015-11-02,snapshot,exact,0000921847,NASDAQ,Financials,Banks,2007-02-15
+HCN,Health Care REIT,2009-03-18,2018-02-28,snapshot,unreconciled,0000766704,NYSE,Financials,REITs,2009-01-30
+HCP,HCP Inc.,2008-08-22,2019-11-09,snapshot,unreconciled,0000765880,NYSE,Financials,REITs,2008-03-31
+HCR,Manor Care Inc.,2000-12-29,2008-02-10,left_censored,snapshot,,,Health Care,,
+HD,Home Depot,2000-12-29,,left_censored,,0000354950,NYSE,Consumer Discretionary,Home Improvement Retail,1988-03-31
+HDI,Harley-Davidson,2000-12-29,2006-08-28,left_censored,snapshot,,,Consumer Discretionary,,
+HES,Hess Corporation,2006-06-01,2025-07-23,snapshot,exact,0000004447,NYSE,Energy,Integrated Oil & Gas,1984-05-31
+HET,Harrah's Entertainment,2000-12-29,2008-09-12,left_censored,snapshot,,,Consumer Discretionary,,
+HFC,HollyFrontier Corp,2018-06-18,2021-06-04,exact,exact,0000048039,NYSE,Energy,Oil & Gas Refining & Marketing,2018-06-18
+HI,Household International,2000-12-29,2003-06-06,left_censored,snapshot,,,Financials,,
+HIG,Hartford Financial Svc.Gp.,2000-12-29,,left_censored,,0000874766,NYSE,Financials,Property & Casualty Insurance,1957-03-04
+HII,Huntington Ingalls Industries,2018-01-03,,exact,,0001501585,NYSE,Industrials,Aerospace & Defense,2018-01-03
+HLT,Hilton Hotels,2000-12-29,2008-02-10,left_censored,snapshot,,,Consumer Discretionary,,
+HLT,Hilton Worldwide Holdings Inc,2017-06-19,,exact,,0001585689,NYSE,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",2017-06-19
+HM,Homestake Mining,2000-12-29,2001-12-31,left_censored,snapshot,,,Materials,,
+HMA,Health Management Assoc.,2001-12-31,2007-04-16,snapshot,snapshot,,,Health Care,,
+HNZ,Heinz (H.J.),2000-12-29,2013-06-06,left_censored,exact,,NYSE,Consumer Staples,Packaged Foods & Meats,
+HOG,Harley-Davidson,2006-08-28,2020-06-22,snapshot,exact,0000793952,NYSE,Consumer Discretionary,Motorcycle Manufacturers,
+HOLX,Hologic,2016-03-30,2026-04-09,exact,exact,0000859737,NASDAQ,Health Care,Health Care Equipment,2016-03-30
+HON,Honeywell Int'l Inc.,2000-12-29,,left_censored,,0000773840,NYSE,Industrials,Industrial Conglomerates,1964-03-31
+HONA,Honeywell Aerospace,2026-06-29,,exact,,0002089271,NASDAQ,Industrials,Aerospace & Defense,2026-06-29
+HOOD,Robinhood Markets,2025-09-22,,exact,,0001783879,NASDAQ,Financials,Investment Banking & Brokerage,2025-09-22
+HOT,Starwood Hotels & Resorts,2000-12-29,2016-09-22,left_censored,exact,0000316206,NYSE,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",
+HP,Helmerich & Payne,2010-02-26,2020-05-22,exact,exact,0000046765,NYSE,Energy,Oil & Gas Drilling,2010-03-01
+HPC,"Hercules, Inc.",2000-12-29,2009-07-04,left_censored,snapshot,,NYSE,Materials,,
+HPE,Hewlett Packard Enterprise,2015-11-02,,exact,,0001645590,NYSE,Information Technology,"Technology Hardware, Storage & Peripherals",2015-11-02
+HPQ,Hewlett-Packard,2002-12-31,,snapshot,,0000047217,NYSE,Information Technology,Computer Hardware,1974-12-31
+HRB,Block H&R,2000-12-29,2020-09-21,left_censored,exact,0000012659,NYSE,Industrials,Consumer Finance,1986-11-30
+HRC,HEALTHSOUTH Corp.,2000-12-29,2003-06-06,left_censored,snapshot,,,Health Care,,
+HRL,Hormel Foods Corp.,2009-03-03,,exact,,0000048465,NYSE,Consumer Staples,Packaged Foods & Meats,2009-03-04
+HRS,Harris Corporation,2008-09-16,2019-07-09,exact,unreconciled,0000202058,NYSE,Information Technology,Telecommunications Equipment,2008-09-22
+HSIC,Henry Schein,2015-03-18,,exact,,0001000228,NASDAQ,Health Care,Health Care Distributors,2015-03-17
+HSP,Hospira Inc.,2004-05-28,2015-09-02,snapshot,exact,0001274057,NYSE,Health Care,Health Care Equipment & Services,
+HST,Host Hotels & Resorts,2007-04-16,,snapshot,,0001070750,NYSE,Financials,REITs,2007-03-20
+HSY,Hershey Foods,2000-12-29,,left_censored,,0000047111,NYSE,Consumer Staples,Packaged Foods & Meats,1957-03-04
+HUBB,Hubbell Incorporated,2023-10-18,,exact,,0000048898,NYSE,Industrials,Industrial Machinery,2023-10-18
+HUM,Humana Inc.,2000-12-29,,left_censored,,0000049071,NYSE,Health Care,Managed Health Care,2012-12-10
+HWM,Howmet Aerospace,2020-04-01,,exact,,0000004281,NYSE,Industrials,Aerospace & Defense,1964-03-31
+HWP,Hewlett-Packard,2000-12-29,2002-12-31,left_censored,snapshot,,,Information Technology,,
+IACI,IAC/InterActive Corp.,2006-11-30,2008-08-22,snapshot,snapshot,,,Consumer Discretionary,,
+IBKR,Interactive Brokers,2025-08-28,,exact,,0001381197,NASDAQ,Financials,Investment Banking & Brokerage,2025-08-28
+IBM,International Bus. Machines,2000-12-29,,left_censored,,0000051143,NYSE,Information Technology,IT Consulting & Services,1957-03-04
+ICE,IntercontinentalExchange Inc.,2007-09-26,,exact,,0001571949,NYSE,Financials,Diversified Financial Services,2007-09-26
+IDXX,IDEXX Laboratories,2017-01-05,,exact,,0000874716,NASDAQ,Health Care,Health Care Equipment,2017-01-05
+IEX,IDEX Corporation,2019-08-09,,exact,,0000832101,NYSE,Industrials,Industrial Machinery,2019-08-09
+IFF,International Flav/Frag,2000-12-29,,left_censored,,0000051253,NYSE,Materials,Specialty Chemicals,1976-03-31
+IGT,International Game Technology,2001-12-31,2014-06-20,snapshot,exact,0000353944,NYSE,Consumer Discretionary,Leisure Products,
+ILMN,Illumina Inc,2015-11-19,2024-06-24,exact,exact,0001110803,NASDAQ,Health Care,Life Sciences Tools & Services,2015-11-19
+IMNX,Immunex Corp.,2001-12-31,2002-12-31,snapshot,snapshot,,,Health Care,,
+INCY,Incyte,2017-02-28,,exact,,0000879169,NASDAQ,Health Care,Biotechnology,2017-02-28
+INFO,IHS Markit Ltd.,2017-06-02,2022-03-02,exact,exact,0001598014,NASDAQ,Industrials,Research & Consulting Services,2017-06-02
+INTC,Intel Corp.,2000-12-29,,left_censored,,0000050863,NASDAQ,Information Technology,Semiconductors,1976-12-31
+INTU,"Intuit, Inc.",2000-12-29,,left_censored,,0000896878,NASDAQ,Information Technology,Internet Software & Services,2000-12-05
+INVH,Invitation Homes,2022-09-19,,exact,,0001687229,NYSE,Real Estate,Residential REITs,2022-09-19
+IP,International Paper,2000-12-29,,left_censored,,0000051434,NYSE,Materials,Paper Products,1957-03-04
+IPG,Interpublic Group,2000-12-29,2025-11-28,left_censored,exact,0000051644,NYSE,Consumer Discretionary,Advertising,1992-10-01
+IPGP,IPG Photonics Corp.,2018-03-07,2022-06-21,exact,exact,0001111928,NASDAQ,Information Technology,Electronic Manufacturing Services,2018-03-07
+IQV,IQVIA Holdings Inc.,2017-11-15,,exact,,0001478242,NYSE,Health Care,Life Sciences Tools & Service,2017-08-29
+IR,Ingersoll-Rand Co. Ltd.,2000-12-29,2009-07-18,left_censored,snapshot,,NYSE,Industrials,,
+IR,Ingersoll-Rand PLC,2010-11-17,,exact,,0001699150,NYSE,Industrials,Industrial Conglomerates,2020-03-03
+IRM,Iron Mountain Inc.,2009-01-07,,snapshot,,0001020569,NYSE,Industrials,Data Processing Services,2009-01-06
+ISRG,Intuitive Surgical Inc.,2008-08-08,,snapshot,,0001035267,NASDAQ,Health Care,Health Care Equipment & Services,2008-06-02
+IT,Gartner Inc,2017-04-05,,exact,,0000749251,NYSE,Information Technology,IT Consulting & Other Services,2017-04-05
+ITT,"ITT Industries, Inc.",2000-12-29,2011-11-22,left_censored,unreconciled,,NYSE,Industrials,,
+ITW,Illinois Tool Works,2000-12-29,,left_censored,,0000049826,NYSE,Industrials,Industrial Machinery,1986-02-28
+IVZ,Invesco,2008-08-22,,snapshot,,0000914208,NYSE,Financials,Diversified Financial Services,2008-08-21
+J,Jacobs Engineering Group,2019-12-25,,unreconciled,,0000052988,NYSE,Industrials,Construction & Engineering,2007-10-26
+JAVA,Sun Microsystems,2007-09-25,2010-02-06,snapshot,snapshot,,NASDAQ,,,
+JBHT,J. B. Hunt Transport Services,2015-07-01,,exact,,0000728535,NASDAQ,Industrials,Trucking,2015-07-01
+JBL,Jabil Circuit,2001-12-31,2014-11-05,snapshot,exact,0000898293,NYSE,Information Technology,IT Consulting & Services,
+JBL,Jabil,2023-12-18,,exact,,0000898293,NYSE,Information Technology,Electronic Manufacturing Services,2023-12-18
+JCI,Johnson Controls,2000-12-29,,left_censored,,0000833444,NYSE,Consumer Discretionary,Auto Parts & Equipment,2010-08-27
+JCP,Penney (J.C.),2000-12-29,2013-12-01,left_censored,unreconciled,,NYSE,Consumer Discretionary,Department Stores,
+JDSU,JDS Uniphase Corp,2000-12-29,2013-12-23,left_censored,exact,,NASDAQ,Information Technology,Telecommunications Equipment,
+JEC,Jacobs Engineering Group,2007-10-26,2019-12-25,exact,unreconciled,0000052988,NYSE,Industrials,Industrial Conglomerates,2007-10-26
+JEF,Jefferies Financial Group,2018-05-31,2019-09-26,unreconciled,exact,0000096223,NYSE,Financials,Multi-Sector Holdings,2007-08-27
+JHF,John Hancock Financial,2001-12-31,2004-05-28,snapshot,snapshot,,,Financials,,
+JKHY,Jack Henry & Associates Inc,2018-11-13,,exact,,0000779152,NASDAQ,Information Technology,Data Processing & Outsourced Services,2018-11-13
+JNJ,Johnson & Johnson,2000-12-29,,left_censored,,0000200406,NYSE,Health Care,Health Care Equipment & Services,1973-06-30
+JNPR,Juniper Networks,2006-06-01,2025-07-09,snapshot,exact,0001043604,NYSE,Information Technology,Networking Equipment,2006-06-02
+JNS,Janus Capital Group,2002-12-31,2011-11-18,snapshot,exact,,NYSE,Financials,,
+JNY,Jones Apparel Group,2001-12-31,2009-03-03,snapshot,exact,,NYSE,Consumer Discretionary,,
+JOY,Joy Global Inc.,2011-12-28,2015-10-07,unreconciled,exact,0000801898,NASDAQ,Industrials,Industrial Machinery,2011-02-28
+JOYG,Joy Global Inc.,2011-02-25,2011-12-28,exact,unreconciled,,NASDAQ,,,
+JP,Jefferson-Pilot,2000-12-29,2006-06-01,left_censored,snapshot,,,Financials,,
+JPM,J.P. Morgan Chase & Co.,2000-12-29,,left_censored,,0000019617,NYSE,Financials,Banks,1975-06-30
+JWN,Nordstrom,2000-12-29,2020-06-22,left_censored,exact,0000072333,NYSE,Consumer Discretionary,Department Stores,1986-08-31
+K,Kellogg Co.,2000-12-29,2025-12-11,left_censored,exact,0000055067,NYSE,Consumer Staples,Packaged Foods & Meats,1989-09-11
+KBH,KB Home,2000-12-29,2009-12-18,left_censored,exact,,NYSE,Consumer Discretionary,,
+KDP,Keurig Dr Pepper,2022-06-21,,exact,,0001418135,NASDAQ,Consumer Staples,Soft Drinks,2022-06-21
+KEY,KeyCorp,2000-12-29,,left_censored,,0000091576,NYSE,Financials,Banks,1994-03-01
+KEYS,Keysight Technologies,2018-11-06,,exact,,0001601046,NYSE,Information Technology,Electronic Equipment & Instruments,2018-11-06
+KFT,Kraft Foods Inc-A,2007-03-30,2012-10-02,exact,exact,,NYSE,Consumer Staples,,
+KG,King Pharmaceuticals,2000-12-29,2010-12-17,left_censored,exact,,NYSE,Health Care,,
+KHC,Kraft Heinz Co,2015-07-06,,exact,,0001637459,NASDAQ,Consumer Staples,Packaged Foods & Meats,2015-07-06
+KIM,Kimco Realty,2006-06-01,,snapshot,,0000879101,NYSE,Financials,REITs,2006-04-04
+KKR,KKR,2024-06-24,,exact,,0001404912,NYSE,Financials,Asset Management & Custody Banks,2024-06-24
+KLAC,KLA-Tencor Corp.,2000-12-29,,left_censored,,0000319201,NASDAQ,Information Technology,Semiconductor Equipment,1997-09-30
+KM,K mart,2000-12-29,2002-12-31,left_censored,snapshot,,,Consumer Discretionary,,
+KMB,Kimberly-Clark,2000-12-29,,left_censored,,0000055785,NYSE,Consumer Staples,Household Products,1957-03-04
+KMG,Kerr-McGee,2000-12-29,2006-08-28,left_censored,snapshot,,,Energy,,
+KMI,Kinder Morgan,2000-12-29,2008-02-10,left_censored,snapshot,,,Utilities,,
+KMI,Kinder Morgan,2012-05-17,,exact,,0001506307,NYSE,Energy,Oil & Gas Refining & Marketing & Transportation,2012-05-25
+KMX,Carmax Inc,2010-06-28,2025-10-31,exact,exact,0001170010,NYSE,Consumer Discretionary,Specialty Stores,2010-06-28
+KO,Coca Cola Co.,2000-12-29,,left_censored,,0000021344,NYSE,Consumer Staples,Soft Drinks,1957-03-04
+KORS,Michael Kors,2013-11-13,2019-01-14,exact,unreconciled,0001530721,NYSE,Consumer Discretionary,Consumer Discretionary,2013-11-13
+KR,Kroger Co.,2000-12-29,,left_censored,,0000056873,NYSE,Consumer Staples,Food Retail,1957-03-04
+KRB,MBNA Corp.,2000-12-29,2005-12-30,left_censored,snapshot,,,Financials,,
+KRFT,Kraft Foods Group,2012-10-02,2015-07-06,exact,exact,0001545158,NASDAQ,Consumer Staples,Packaged Foods & Meats,2012-10-02
+KRI,Knight-Ridder Inc.,2000-12-29,2006-07-18,left_censored,snapshot,,,Consumer Discretionary,,
+KSE,Keyspan Energy,2000-12-29,2007-08-24,left_censored,exact,,,Utilities,,
+KSS,Kohl's Corp.,2000-12-29,2020-09-21,left_censored,exact,0000885639,NYSE,Consumer Discretionary,General Merchandise Stores,
+KSU,Kansas City Southern,2013-05-23,2021-12-14,exact,exact,0000054480,NYSE,Industrials,Railroads,2013-05-24
+KVUE,Kenvue,2023-08-25,,exact,,0001944048,NYSE,Consumer Staples,Personal Care Products,2023-08-25
+L,Loews Corp.,2008-08-22,,snapshot,,0000060086,NYSE,Financials,Multi-Sector Holdings,1995-05-31
+LB,L Brands Inc.,2013-12-19,2021-08-04,unreconciled,unreconciled,0000701985,NYSE,Consumer Discretionary,Apparel Retail,1983-09-30
+LDG,Longs Drug Stores,2000-12-29,2001-12-31,left_censored,snapshot,,,Consumer Staples,,
+LDOS,Leidos Holdings,2019-08-09,,exact,,0001336920,NYSE,Information Technology,IT Consulting & Other Services,2019-08-09
+LEG,Leggett & Platt,2000-12-29,2021-12-20,left_censored,exact,0000058492,NYSE,Consumer Discretionary,Industrial Conglomerates,1999-10-14
+LEH,Lehman Bros.,2000-12-29,2008-09-16,left_censored,exact,,NYSE,Financials,,
+LEN,Lennar Corp.,2005-10-03,,snapshot,,0000920760,NYSE,Consumer Discretionary,Homebuilding,2005-10-04
+LH,Laboratory Corp. of America Holding,2004-12-31,,snapshot,,0000920148,NYSE,Health Care,Health Care Facilities,2004-11-01
+LHX,L3Harris Technologies,2019-07-09,,unreconciled,,0000202058,NYSE,Industrials,Aerospace & Defense,2008-09-22
+LIFE,Life Technologies,2009-03-18,2014-01-24,snapshot,exact,,NASDAQ,Health Care,Biotechnology,
+LII,Lennox International,2024-12-23,,exact,,0001069202,NYSE,Industrials,Building Products,2024-12-23
+LIN,Linde plc,2018-11-14,,unreconciled,,0001707925,NYSE,Materials,Industrial Gases,1992-07-01
+LITE,Lumentum,2026-03-23,,exact,,0001633978,NASDAQ,Information Technology,Communications Equipment,2026-03-23
+LIZ,"Liz Claiborne, Inc.",2000-12-29,2008-12-24,left_censored,snapshot,,NYSE,Consumer Discretionary,,
+LKQ,LKQ Corporation,2016-05-23,2025-12-22,exact,exact,0001065696,NASDAQ,Consumer Discretionary,Distributors,2016-05-23
+LLL,L-3 Communications Holdings,2004-12-31,2019-07-01,snapshot,exact,0001056239,NYSE,Industrials,Industrial Conglomerates,
+LLTC,Linear Technology Corp.,2000-12-29,2017-03-13,left_censored,exact,0000791907,NASDAQ,Information Technology,Semiconductors,
+LLY,Lilly (Eli) & Co.,2000-12-29,,left_censored,,0000059478,NYSE,Health Care,Pharmaceuticals,1970-12-31
+LM,Legg Mason,2006-06-01,2016-12-02,snapshot,exact,0000704051,NYSE,Financials,Diversified Financial Services,
+LMT,Lockheed Martin Corp.,2000-12-29,,left_censored,,0000936468,NYSE,Industrials,Aerospace & Defense,1984-07-31
+LNC,Lincoln National,2000-12-29,2023-09-18,left_censored,exact,0000059558,NYSE,Financials,Multi-line Insurance,1976-06-30
+LNT,Alliant Energy Corp,2016-07-01,,exact,,0000352541,NYSE,Utilities,Electric Utilities,2016-07-01
+LO,Lorillard Inc.,2008-06-10,2015-06-11,exact,exact,0001424847,NYSE,Consumer Staples,Tobacco,2008-06-11
+LOW,Lowe's Cos.,2000-12-29,,left_censored,,0000060667,NYSE,Consumer Discretionary,Home Improvement Retail,1984-02-29
+LPX,Louisiana Pacific,2000-12-29,2006-11-30,left_censored,snapshot,,,Materials,,
+LRCX,Lam Research,2012-06-05,,exact,,0000707549,NASDAQ,Information Technology,Semiconductor Equipment,2012-06-29
+LSI,LSI Logic,2000-12-29,2014-05-08,left_censored,exact,,NYSE,Information Technology,Semiconductors,
+LTD,"Limited, The",2000-12-29,2013-12-19,left_censored,unreconciled,,NYSE,Consumer Discretionary,Apparel Retail,
+LTR,Loews Corp.,2000-12-29,2008-08-22,left_censored,snapshot,,,Financials,,
+LU,Lucent Technologies,2000-12-29,2006-11-30,left_censored,snapshot,,,Information Technology,,
+LUK,Leucadia National Corp.,2007-08-24,2018-05-31,exact,unreconciled,0000096223,NYSE,Financials,Multi-Sector Holdings,2007-08-27
+LULU,Lululemon Athletica,2023-10-18,,exact,,0001397187,NASDAQ,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",2023-10-18
+LUMN,Lumen Technologies,2020-09-27,2023-03-20,unreconciled,exact,0000018926,NYSE,Communication Services,Alternative Carriers,1999-03-25
+LUV,Southwest Airlines,2000-12-29,,left_censored,,0000092380,NYSE,Industrials,Airlines,1994-07-01
+LVLT,Level 3 Communications,2014-11-05,2017-10-13,exact,exact,0000794323,NYSE,Telecommunication Services,Alternative Carriers,2014-11-05
+LVS,Las Vegas Sands Corp,2019-10-03,,exact,,0001300514,NYSE,Consumer Discretionary,Casinos & Gaming,2019-10-03
+LW,Lamb Weston Holdings Inc,2018-12-03,2026-03-23,exact,exact,0001679273,NYSE,Consumer Staples,Packaged Foods & Meats,2018-12-03
+LXK,Lexmark Int'l Inc,2000-12-29,2012-10-01,left_censored,exact,,NYSE,Information Technology,,
+LYB,LyondellBasell,2012-09-05,,exact,,0001489393,NYSE,Materials,Diversified Chemicals,2012-09-05
+LYV,Live Nation Entertainment,2019-12-23,,exact,,0001335258,NYSE,Communication Services,Movies & Entertainment,2019-12-23
+M,Macy's Inc.,2007-07-24,2020-04-06,snapshot,exact,0000794367,NYSE,Consumer Discretionary,Department Stores,
+MA,Mastercard Inc.,2008-08-22,,snapshot,,0001141391,NYSE,Information Technology,Internet Software & Services,2008-07-18
+MAA,Mid-America Apartments,2016-12-02,,exact,,0000912595,NYSE,Real Estate,Residential REITs,2016-12-02
+MAC,Macerich,2013-05-08,2019-12-23,exact,exact,0000912242,NYSE,Financials,Retail REITs,2013-05-09
+MAR,Marriott Int'l.,2000-12-29,,left_censored,,0001048286,NASDAQ,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",1998-05-29
+MAS,Masco Corp.,2000-12-29,,left_censored,,0000062996,NYSE,Industrials,Building Products,1981-06-30
+MAT,"Mattel, Inc.",2000-12-29,2019-06-07,left_censored,exact,0000063276,NASDAQ,Consumer Discretionary,Leisure Products,1982-03-31
+MAY,May Dept. Stores,2000-12-29,2005-09-01,left_censored,snapshot,,,Consumer Discretionary,,
+MBI,MBIA Inc.,2000-12-29,2009-12-18,left_censored,exact,,NYSE,Financials,,
+MCD,McDonald's Corp.,2000-12-29,,left_censored,,0000063908,NYSE,Consumer Discretionary,Restaurants,1970-06-30
+MCHP,Microchip Technology,2007-08-30,,snapshot,,0000827054,NASDAQ,Information Technology,Semiconductors,2007-09-07
+MCK,McKesson Corp. (New),2000-12-29,,left_censored,,0000927653,NYSE,Health Care,Health Care Distributors & Services,1999-01-13
+MCO,Moody's Corp,2000-12-29,,left_censored,,0001059556,NYSE,Financials,Diversified Financial Services,1998-07-01
+MDLZ,Mondelez International,2012-10-02,,exact,,0001103982,NASDAQ,Consumer Staples,Packaged Foods & Meats,2012-10-02
+MDP,Meredith Corp.,2000-12-29,2011-01-03,left_censored,exact,,NYSE,Consumer Discretionary,,
+MDR,McDermott International,2000-12-29,2003-10-23,left_censored,snapshot,,,Industrials,,
+MDT,Medtronic Inc.,2000-12-29,,left_censored,,0001613103,NYSE,Health Care,Health Care Equipment & Services,1986-10-31
+MEA,Mead Corp.,2000-12-29,2002-12-31,left_censored,snapshot,,,Materials,,
+MEDI,MedImmune Inc.,2000-12-29,2007-05-31,left_censored,snapshot,,,Health Care,,
+MEE,Massey Energy Company,2008-06-23,2011-06-01,exact,exact,,NYSE,,,
+MEL,Mellon Bank Corp.,2000-12-29,2008-02-10,left_censored,snapshot,,,Financials,,
+MER,Merrill Lynch,2000-12-29,2009-03-18,left_censored,snapshot,,NYSE,Financials,,
+MERQ,Mercury Interactive,2000-12-29,2005-09-01,left_censored,snapshot,,,Information Technology,,
+MERQE,Mercury Interactive,2005-09-01,2006-01-06,snapshot,snapshot,,,Information Technology,,
+MET,MetLife Inc.,2000-12-29,,left_censored,,0001099219,NYSE,Financials,Life & Health Insurance,2000-12-11
+META,Meta Platforms,2022-06-22,,unreconciled,,0001326801,NASDAQ,Communication Services,Interactive Media & Services,2013-12-23
+MFE,McAfee,2009-01-07,2011-02-28,snapshot,exact,,NYSE,,,
+MGM,MGM Resorts International,2017-07-26,,exact,,0000789570,NYSE,Consumer Discretionary,Casinos & Gaming,2017-07-26
+MHFI,McGraw-Hill,2013-05-19,2016-05-12,unreconciled,unreconciled,0000064040,NYSE,Financials,Diversified Financial Services,
+MHK,Mohawk Industries,2013-12-23,2025-12-22,exact,exact,0000851968,NYSE,Consumer Discretionary,Home Furnishings,2013-12-23
+MHP,McGraw-Hill,2000-12-29,2013-05-19,left_censored,unreconciled,,NYSE,Consumer Discretionary,Diversified Financial Services,
+MHS,Medco Health Solutions Inc.,2003-10-23,2012-04-03,snapshot,exact,,NYSE,Health Care,,
+MI,Marshall & Ilsley Corp.,2002-12-31,2011-07-05,snapshot,exact,,NYSE,Financials,,
+MIL,Millipore Corp.,2000-12-29,2010-07-14,left_censored,exact,,NYSE,Information Technology,,
+MIR,Mirant Corporation,2001-12-31,2003-07-16,snapshot,snapshot,,,Utilities,,
+MJN,Mead Johnson,2009-12-18,2017-06-19,exact,exact,0001452575,NYSE,Consumer Staples,Packaged Foods & Meats,2009-12-21
+MKC,McCormick & Co.,2003-06-06,,snapshot,,0000063754,NYSE,Consumer Staples,Packaged Foods & Meats,2003-03-20
+MKTX,MarketAxess,2019-07-01,2025-09-22,exact,exact,0001278021,NASDAQ,Financials,Financial Exchanges & Data,2019-07-01
+MLM,Martin Marietta Materials,2014-07-02,,exact,,0000916076,NYSE,Materials,Construction Materials,2014-07-02
+MMC,Marsh & McLennan,2000-12-29,2026-01-26,left_censored,unreconciled,0000062709,NYSE,Financials,Insurance Brokers,1987-08-31
+MMI,Motorola Mobility Holdings Inc.,2011-01-03,2012-05-21,exact,exact,,NYSE,Information Technology,,
+MMM,Minn. Mining & Mfg.,2000-12-29,,left_censored,,0000066740,NYSE,Industrials,Industrial Conglomerates,1957-03-04
+MNK,Mallinckrodt plc,2014-08-18,2017-07-26,exact,exact,0001567892,NYSE,Health Care,Pharmaceuticals,2014-08-19
+MNST,Monster Worldwide,2003-06-06,2009-01-07,snapshot,snapshot,,NASDAQ,Industrials,,
+MNST,Monster Beverage,2012-06-29,,exact,,0000865752,NASDAQ,Consumer Staples,Soft Drinks,2012-06-28
+MO,Philip Morris,2000-12-29,,left_censored,,0000764180,NYSE,Consumer Staples,Tobacco,1957-03-04
+MOH,Molina Healthcare,2022-03-02,2026-03-23,exact,exact,0001179929,NYSE,Health Care,Managed Health Care,2022-03-02
+MOLX,Molex Inc.,2000-12-29,2004-12-31,left_censored,snapshot,,,Industrials,,
+MOLX,Molex Inc.,2005-04-29,2013-12-10,snapshot,exact,,NASDAQ,Information Technology,Electronic Equipment & Instruments,
+MOLXE,Molex Inc.,2004-12-31,2005-04-29,snapshot,snapshot,,,Information Technology,,
+MON,Monsanto Co.,2002-12-31,2018-06-07,snapshot,exact,0001110783,NYSE,Materials,Fertilizers & Agricultural Chemicals,2002-08-07
+MOS,The Mosaic Company,2011-09-23,,exact,,0001285785,NYSE,Materials,Fertilizers & Agricultural Chemicals,2011-09-26
+MOT,Motorola Inc.,2000-12-29,2011-03-24,left_censored,unreconciled,,NYSE,Information Technology,,
+MPC,Marathon Petroleum,2011-06-30,,exact,,0001510295,NYSE,Energy,Oil & Gas Refining & Marketing & Transportation,2011-07-01
+MPWR,Monolithic Power Systems,2021-02-12,,exact,,0001280452,NASDAQ,Information Technology,Semiconductors,2021-02-12
+MRK,Merck & Co.,2000-12-29,,left_censored,,0000310158,NYSE,Health Care,Pharmaceuticals,1957-03-04
+MRNA,Moderna,2021-07-21,,exact,,0001682852,NASDAQ,Health Care,Biotechnology,2021-07-21
+MRO,Marathon Oil Corp.,2000-12-29,2024-11-26,left_censored,exact,0000101778,NYSE,Energy,Oil & Gas Exploration & Production,1991-05-01
+MRSH,Marsh McLennan,2026-01-26,,unreconciled,,0000062709,NYSE,Financials,Insurance Brokers,1987-08-31
+MRVL,Marvell Technology,2026-06-22,,exact,,0001835632,NASDAQ,Information Technology,Semiconductors,2026-06-22
+MS,Morgan Stanley,2006-01-26,,snapshot,,0000895421,NYSE,Financials,Diversified Financial Services,1993-07-29
+MSCI,MSCI Inc,2018-04-04,,exact,,0001408198,NYSE,Financials,Financial Exchanges & Data,2018-04-04
+MSFT,Microsoft Corp.,2000-12-29,,left_censored,,0000789019,NASDAQ,Information Technology,Systems Software,1994-06-01
+MSI,Motorola Solutions Inc.,2011-03-24,,unreconciled,,0000068505,NYSE,Information Technology,Telecommunications Equipment,1957-03-04
+MTB,M&T Bank Corp.,2004-04-26,,snapshot,,0000036270,NYSE,Financials,Banks,2004-02-23
+MTCH,Match Group,2021-09-20,2026-03-23,exact,exact,0000891103,NASDAQ,Communication Services,Interactive Media & Services,2021-09-20
+MTD,Mettler Toledo,2016-09-06,,exact,,0001037646,NYSE,Health Care,Life Sciences Tool & Equipment,2016-09-06
+MTG,MGIC Investment,2000-12-29,2008-11-14,left_censored,snapshot,,NYSE,Financials,,
+MTW,Manitowoc Co.,2008-02-10,2009-10-16,snapshot,snapshot,,NYSE,,,
+MU,Micron Technology,2000-12-29,,left_censored,,0000723125,NASDAQ,Information Technology,Semiconductors,1994-09-27
+MUR,Murphy Oil,2005-09-01,2017-07-26,snapshot,exact,0000717423,NYSE,Energy,Integrated Oil & Gas,
+MWD,"Morgan Stanley, Dean Witter",2000-12-29,2006-01-26,left_censored,snapshot,,,Financials,,
+MWV,MeadWestvaco Corporation,2002-12-31,2015-07-30,snapshot,unreconciled,0001159297,NYSE,Materials,Paper Packaging,
+MWW,Monster Worldwide,2009-01-07,2011-12-16,snapshot,exact,,NYSE,,,
+MXB,Financials,2010-01-23,2010-07-28,snapshot,snapshot,,NYSE,,,
+MXIM,Maxim Integrated Prod,2000-12-29,2007-09-27,left_censored,exact,,,Information Technology,,
+MXIM,Maxim Integrated Products Inc,2018-12-03,2021-08-30,exact,exact,0000743316,NASDAQ,Information Technology,Semiconductors,2018-12-03
+MYG,Maytag Corp.,2000-12-29,2006-06-01,left_censored,snapshot,,,Consumer Discretionary,,
+MYL,Mylan Laboratories,2004-04-26,2020-11-27,snapshot,unreconciled,0000069499,NASDAQ,Health Care,Pharmaceuticals,2004-04-23
+N,"Inco, Ltd.",2000-12-29,2002-12-31,left_censored,snapshot,,,Materials,,
+NAV,Navistar International Corp.,2000-12-29,2006-12-29,left_censored,snapshot,,,Industrials,,
+NAVI,Navient Corp,2014-05-01,2018-06-05,exact,exact,0001593538,NASDAQ,Financials,Consumer Finance,2014-05-01
+NBL,Noble Energy Inc,2008-02-10,2020-10-12,snapshot,exact,0000072207,NYSE,Energy,Oil & Gas Exploration & Production,2007-10-08
+NBR,Nabors Industries,2000-12-29,2015-03-23,left_censored,exact,0001163739,NYSE,Energy,Oil & Gas Driller,
+NCC,National City Corp.,2000-12-29,2009-03-18,left_censored,snapshot,,NYSE,Financials,,
+NCLH,Norwegian Cruise Line,2017-10-13,,exact,,0001513761,NYSE,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",2017-10-13
+NCR,NCR Corp.,2000-12-29,2007-10-01,left_censored,exact,,,Information Technology,,
+NDAQ,NASDAQ OMX Group,2008-10-28,,snapshot,,0001120193,NASDAQ,Financials,Diversified Financial Services,2008-10-22
+NDSN,Nordson,2022-02-15,,exact,,0000072331,NASDAQ,Industrials,Industrial Machinery,2022-02-15
+NE,Noble Corporation,2001-12-31,2009-05-29,snapshot,snapshot,,NYSE,Energy,,
+NE,Noble Corp,2011-03-24,2015-07-20,unreconciled,exact,0001458891,NYSE,Energy,Oil & Gas Drilling,2011-01-18
+NEE,NextEra Energy Resources,2010-07-11,,snapshot,,0000753308,NYSE,Utilities,Multi-Utilities & Unregulated Power,1976-06-30
+NEM,Newmont Mining,2000-12-29,,left_censored,,0001164727,NYSE,Materials,Gold,1969-06-30
+NFB,North Fork Bancorporation,2002-12-31,2006-11-30,snapshot,snapshot,,,Financials,,
+NFLX,NetFlix Inc.,2010-12-17,,exact,,0001065280,NASDAQ,Information Technology,Internet Software & Services,2010-12-20
+NFX,Newfield Exploration Co,2010-12-17,2019-02-15,exact,exact,0000912750,NYSE,Energy,Oil & Gas Exploration & Production,2010-12-20
+NI,NiSource Inc.,2000-12-29,,left_censored,,0001111711,NYSE,Utilities,Multi-Utilities & Unregulated Power,2000-11-02
+NKE,NIKE Inc.,2000-12-29,,left_censored,,0000320187,NYSE,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",1988-11-30
+NKTR,Nektar Therapeutics,2018-03-19,2019-10-03,exact,exact,0000906709,NASDAQ,Health Care,Pharmaceuticals,2018-03-19
+NLOK,NortonLifeLock,2019-11-09,2022-11-09,unreconciled,unreconciled,0000849399,NASDAQ,Information Technology,Application Software,2003-03-25
+NLSN,Nielsen Holdings,2013-07-08,2022-10-12,exact,exact,0001492633,NYSE,Industrials,Research & Consulting Services,2013-07-09
+NMK,Niagara Mohawk Power,2000-12-29,2002-12-31,left_censored,snapshot,,,Utilities,,
+NOC,Northrop Grumman Corp.,2000-12-29,,left_censored,,0001133421,NYSE,Industrials,Aerospace & Defense,1985-06-30
+NOV,"National Oilwell Varco, Inc.",2005-04-29,2021-09-20,snapshot,exact,0001021860,NYSE,Energy,Oil & Gas Equipment & Services,2005-03-14
+NOVL,Novell Inc.,2000-12-29,2011-04-27,left_censored,exact,,NASDAQ,Information Technology,,
+NOW,ServiceNow,2019-11-21,,exact,,0001373715,NYSE,Information Technology,Application Software,2019-11-21
+NRG,NRG Energy,2010-05-06,,snapshot,,0001013871,NYSE,Utilities,Multi-Utilities & Unregulated Power,2010-01-29
+NSC,Norfolk Southern Corp.,2000-12-29,,left_censored,,0000702165,NYSE,Industrials,Railroads,1957-03-04
+NSI,National Service Ind.,2000-12-29,2001-12-31,left_censored,snapshot,,,Industrials,,
+NSM,National Semiconductor,2000-12-29,2011-09-23,left_censored,exact,,NYSE,Information Technology,,
+NT,Nortel Networks Corp Hldg Co.,2000-12-29,2002-12-31,left_censored,snapshot,,,Information Technology,,
+NTAP,Network Appliance,2000-12-29,,left_censored,,0001002047,NASDAQ,Information Technology,Internet Software & Services,1999-06-25
+NTRS,Northern Trust Corp.,2000-12-29,,left_censored,,0000073124,NASDAQ,Financials,Diversified Financial Services,1998-01-30
+NU,Northeast Utilities,2009-05-29,2015-03-06,snapshot,unreconciled,0000072741,NYSE,Utilities,Multi-Utilities & Unregulated Power,
+NUE,Nucor Corp.,2000-12-29,,left_censored,,0000073309,NYSE,Materials,Steel,1985-04-30
+NVDA,NVIDIA Corp.,2001-12-31,,snapshot,,0001045810,NASDAQ,Information Technology,Semiconductors,2001-11-30
+NVLS,Novellus Systems,2000-12-29,2012-06-05,left_censored,exact,,NASDAQ,Information Technology,,
+NVR,NVR Inc,2019-09-26,,exact,,0000906163,NYSE,Consumer Discretionary,Homebuilding,2019-09-26
+NWL,Newell Rubbermaid Co.,2000-12-29,2023-09-18,left_censored,exact,0000814453,NYSE,Consumer Discretionary,Housewares & Specialties,1989-04-30
+NWS,News Corp. Class B,2015-09-18,,exact,,0001564708,NASDAQ,Consumer Discretionary,Publishing,2015-09-18
+NWS-A,News Corporation,2004-12-31,,snapshot,,0001564708,NASDAQ,Consumer Discretionary,Publishing,2013-08-01
+NXPI,NXP Semiconductors,2021-03-22,,exact,,0001413447,NASDAQ,Information Technology,Semiconductors,2021-03-22
+NXTL,Nextel Communications,2000-12-29,2005-09-01,left_censored,snapshot,,,Telecommunications Services,,
+NYT,New York Times Cl. A,2000-12-29,2010-12-17,left_censored,exact,,NYSE,Consumer Discretionary,,
+NYX,NYSE Euronext,2008-02-10,2013-11-13,snapshot,exact,,NYSE,Financials,Diversified Financial Services,
+O,Realty Income Corporation,2015-04-07,,exact,,0000726728,NYSE,Financials,Office REITs,2015-04-07
+OAT,Quaker Oats,2000-12-29,2001-12-31,left_censored,snapshot,,,Consumer Staples,,
+ODFL,Old Dominion Freight Line,2019-12-09,,exact,,0000878927,NASDAQ,Industrials,Trucking,2019-12-09
+ODP,Office Depot,2000-12-29,2010-12-17,left_censored,exact,,NYSE,Consumer Discretionary,,
+OGN,Organon & Co.,2021-06-03,2023-10-18,exact,exact,0001821825,NYSE,Health Care,Pharmaceuticals,2021-06-03
+OI,Owens-Illinois Inc.,2008-12-31,2016-12-02,exact,exact,0000812074,NYSE,Materials,Metal & Glass Containers,2009-01-02
+OK,Old Kent Financial,2000-12-29,2001-12-31,left_censored,snapshot,,,Financials,,
+OKE,ONEOK Inc.,2000-12-29,2001-12-31,left_censored,snapshot,,,Utilities,,
+OKE,Utilities,2010-05-06,,snapshot,,0001039684,NYSE,Utilities,Gas Utilities,2010-03-15
+OMC,Omnicom Group,2000-12-29,,left_censored,,0000029989,NYSE,Consumer Discretionary,Advertising,1997-12-31
+OMX,OfficeMax Inc.,2004-12-31,2008-06-23,snapshot,exact,,,Consumer Discretionary,,
+ON,ON Semiconductor,2022-06-21,,exact,,0001097864,NASDAQ,Information Technology,Semiconductors,2022-06-21
+ONE,Bank One Corp.,2000-12-29,2004-07-01,left_censored,snapshot,,,Financials,,
+ORCL,Oracle Corp.,2000-12-29,,left_censored,,0001341439,NYSE,Information Technology,Application Software,1989-08-31
+ORLY,O'Reilly Auto Parts,2009-05-29,,snapshot,,0000898173,NASDAQ,Consumer Discretionary,Specialty Stores,2009-03-27
+OTIS,Otis Worldwide,2020-04-03,,exact,,0001781335,NYSE,Industrials,Industrial Machinery,2020-04-03
+OXY,Occidental Petroleum,2000-12-29,,left_censored,,0000797468,NYSE,Energy,Oil & Gas Exploration & Production,1982-12-31
+P,Phillips Petroleum,2000-12-29,2002-12-31,left_censored,snapshot,,,Energy,,
+PALM,Palm Inc.,2000-12-29,2002-12-31,left_censored,snapshot,,,Information Technology,,
+PANW,Palo Alto Networks,2023-06-20,,exact,,0001327567,NASDAQ,Information Technology,Application Software,2023-06-20
+PARA,Paramount Global,2022-02-22,2025-08-25,unreconciled,unreconciled,0000813828,NASDAQ,Communication Services,Movies & Entertainment,1994-09-30
+PAYC,Paycom,2020-01-28,2026-03-23,exact,exact,0001590955,NYSE,Information Technology,Application Software,2020-01-28
+PAYX,Paychex Inc.,2000-12-29,,left_censored,,0000723531,NASDAQ,Industrials,Internet Software & Services,1998-10-01
+PBCT,People's United Bank,2009-07-04,2022-04-04,snapshot,exact,0001378946,NASDAQ,Financials,Banks,2008-11-13
+PBG,Pepsi Bottling Group,2001-12-31,2010-05-06,snapshot,snapshot,,NYSE,Consumer Staples,,
+PBI,Pitney-Bowes,2000-12-29,2017-03-01,left_censored,exact,0000078814,NYSE,Industrials,Data Processing Services,
+PCAR,PACCAR Inc.,2000-12-29,,left_censored,,0000075362,NASDAQ,Industrials,Construction & Farm Machinery & Heavy Trucks,1980-12-31
+PCG,PG&E Corp.,2000-12-29,2019-01-18,left_censored,exact,0001004980,NYSE,Utilities,Multi-Utilities & Unregulated Power,
+PCG,PG&E,2022-10-03,,exact,,0001004980,NYSE,Utilities,Multi-Utilities,2022-10-03
+PCH,Potlatch Corp.,2000-12-29,2001-12-31,left_censored,snapshot,,,Materials,,
+PCL,Plum Creek Timber Co.,2002-12-31,2016-02-22,snapshot,exact,0000849213,NYSE,Financials,REITs,
+PCLN,Priceline.com Inc,2009-11-03,2018-02-28,exact,unreconciled,0001075531,NASDAQ,Industrials,"Hotels, Resorts & Cruise Lines",2009-11-06
+PCP,Precision Castparts Corp.,2007-05-31,2016-02-01,snapshot,exact,0000079958,NYSE,Industrials,Industrial Conglomerates,2007-06-01
+PCS,Sprint Corp. PCS,2000-12-29,2004-04-26,left_censored,snapshot,,,Telecommunications Services,,
+PCS,MetroPCS Communications Inc.,2009-06-29,2013-04-30,exact,exact,,NYSE,,Wireless Telecommunications Services,
+PD,Phelps Dodge,2000-12-29,2007-04-16,left_censored,snapshot,,,Materials,,
+PDCO,Patterson Cos. Inc.,2005-10-20,2018-03-19,snapshot,exact,0000891024,NASDAQ,Health Care,Health Care Supplies,2005-10-11
+PDG,Placer Dome Inc.,2000-12-29,2002-12-31,left_censored,snapshot,,,Materials,,
+PEAK,Healthpeak Properties,2019-11-09,2024-03-04,unreconciled,unreconciled,0000765880,NYSE,Real Estate,Health Care REITs,2008-03-31
+PEG,Public Serv. Enterprise Inc.,2000-12-29,,left_censored,,0000788784,NYSE,Utilities,Multi-Utilities & Unregulated Power,1957-03-04
+PENN,Penn National Gaming,2021-03-22,2022-09-19,exact,exact,0000921738,NASDAQ,Consumer Discretionary,Casinos & Gaming,2021-03-22
+PEP,PepsiCo Inc.,2000-12-29,,left_censored,,0000077476,NYSE,Consumer Staples,Soft Drinks,1957-03-04
+PETM,"PetSmart, Inc.",2012-10-10,2015-03-12,exact,exact,0000863157,NASDAQ,Consumer Discretionary,Specialty Stores,2012-10-10
+PFE,"Pfizer, Inc.",2000-12-29,,left_censored,,0000078003,NYSE,Health Care,Pharmaceuticals,1957-03-04
+PFG,Principal Financial Group,2002-12-31,,snapshot,,0001126328,NYSE,Financials,Diversified Financial Services,2002-07-22
+PG,Procter & Gamble,2000-12-29,,left_censored,,0000080424,NYSE,Consumer Staples,Personal Products,1957-03-04
+PGL,Peoples Energy,2000-12-29,2007-04-16,left_censored,snapshot,,,Utilities,,
+PGN,"Progress Energy, Inc.",2000-12-29,2012-07-02,left_censored,exact,,NYSE,Utilities,,
+PGR,Progressive Corp.,2000-12-29,,left_censored,,0000080661,NYSE,Financials,Property & Casualty Insurance,1997-08-04
+PH,Parker-Hannifin,2000-12-29,,left_censored,,0000076334,NYSE,Industrials,Industrial Conglomerates,1985-11-30
+PHA,Pharmacia Corp,2000-12-29,2003-06-06,left_censored,snapshot,,,Health Care,,
+PHM,"Pulte Homes, Inc.",2000-12-29,,left_censored,,0000822416,NYSE,Consumer Discretionary,Homebuilding,1984-04-30
+PKG,Packaging Corporation of America,2017-07-26,,exact,,0000075677,NYSE,Materials,Paper Packaging,2017-07-26
+PKI,PerkinElmer,2000-12-29,2023-05-17,left_censored,unreconciled,0000031791,NYSE,Information Technology,Health Care Equipment & Services,1985-05-31
+PLD,ProLogis,2003-07-16,,snapshot,,0001045609,NYSE,Financials,Diversified Financial Services,2003-07-17
+PLL,Pall Corp.,2000-12-29,2015-08-28,left_censored,exact,0000075829,NYSE,Industrials,Industrial Conglomerates,1987-12-31
+PLTR,Palantir Technologies,2024-09-23,,exact,,0001321655,NASDAQ,Information Technology,Internet Services & Infrastructure,2024-09-23
+PM,Philip Morris International,2008-08-22,,snapshot,,0001413329,NYSE,Consumer Staples,Tobacco,2008-03-31
+PMCS,PMC-Sierra Inc.,2001-12-31,2007-11-07,snapshot,snapshot,,,Information Technology,,
+PMTC,Parametric Technology,2000-12-29,2006-03-02,left_censored,snapshot,,,Information Technology,,
+PMTC,Parametric Technology,2006-06-01,2007-01-04,snapshot,snapshot,,,Information Technology,,
+PMTCD,Parametric Technology,2006-03-02,2006-06-01,snapshot,snapshot,,,Information Technology,,
+PNC,PNC Bank Corp.,2000-12-29,,left_censored,,0000713676,NYSE,Financials,Banks,1988-04-30
+PNR,Pentair Ltd.,2012-10-01,,exact,,0000077360,NYSE,Industrials,Industrial Conglomerates,2012-10-01
+PNW,Pinnacle West Capital,2000-12-29,,left_censored,,0000764622,NYSE,Utilities,Multi-Utilities & Unregulated Power,1999-10-04
+PODD,Insulet,2023-03-15,,exact,,0001145197,NASDAQ,Health Care,Health Care Equipment,2023-03-15
+POM,Pepco Holdings Inc.,2008-02-10,2016-03-30,snapshot,exact,0001135971,NYSE,Utilities,Multi-Utilities & Unregulated Power,2007-11-09
+POOL,Pool Corporation,2020-10-07,2026-06-22,exact,exact,0000945841,NASDAQ,Consumer Discretionary,Distributors,2020-10-07
+PPG,PPG Industries,2000-12-29,,left_censored,,0000079879,NYSE,Materials,Diversified Chemicals,1957-03-04
+PPL,PPL Corp.,2000-12-29,,left_censored,,0000922224,NYSE,Utilities,Multi-Utilities & Unregulated Power,2001-10-01
+PRGO,Perrigo,2011-12-16,2021-09-20,exact,exact,0001585364,NYSE,Health Care,Pharmaceuticals,2011-12-19
+PRU,Prudential Financial,2002-12-31,,snapshot,,0001137774,NYSE,Financials,Diversified Financial Services,2002-07-22
+PSA,Public Storage,2005-09-01,,snapshot,,0001393311,NYSE,Financials,REITs,2005-08-19
+PSFT,PeopleSoft Inc.,2000-12-29,2004-12-31,left_censored,snapshot,,,Information Technology,,
+PSKY,Paramount Skydance Corporation,2025-08-25,,unreconciled,,0002041610,NASDAQ,Communication Services,Movies & Entertainment,1994-09-30
+PSX,Phillips 66,2012-04-23,,exact,,0001534701,NYSE,Energy,Oil & Gas Refining & Marketing & Transportation,2012-05-01
+PTC,PTC Inc,2021-04-20,,exact,,0000857005,NASDAQ,Information Technology,Application Software,2021-04-20
+PTV,Pactiv Corp.,2000-12-29,2010-11-17,left_censored,exact,,NYSE,Materials,,
+PVH,PVH Corp.,2013-02-15,2022-09-19,exact,exact,0000078239,NYSE,Consumer Discretionary,Apparel Accessories & Luxury Goods,2013-02-15
+PVN,Providian Financial Corp.,2000-12-29,2005-10-03,left_censored,snapshot,,,Financials,,
+PWER,Power-One Inc.,2000-12-29,2005-04-29,left_censored,snapshot,,,Industrials,,
+PWR,Quanta Services Inc.,2009-07-18,,snapshot,,0001050915,NYSE,Industrials,Industrial Conglomerates,2009-07-01
+PX,"Praxair, Inc.",2000-12-29,2018-11-14,left_censored,unreconciled,0000884905,NYSE,Materials,Industrial Gases,1992-07-01
+PXD,Pioneer Natural Resources,2008-09-30,2024-05-08,snapshot,exact,0001038357,NYSE,Energy,Oil & Gas Exploration & Production,2008-09-24
+PYPL,PayPal,2015-07-20,,exact,,0001633917,NASDAQ,Information Technology,Data Processing & Outsourced Services Oil,2015-07-20
+Q,Qwest Communications Int,2000-12-29,2011-03-31,left_censored,exact,,NYSE,Telecommunications Services,,
+Q,"Quintiles IMS Holdings, Inc",2017-08-29,2017-11-15,exact,exact,0001478242,NYSE,Health Care,Life Sciences Tools & Service,2017-08-29
+Q,Qnity Electronics,2025-11-03,,exact,,0002058873,NYSE,Information Technology,Semiconductor Materials & Equipment,2025-11-03
+QCOM,QUALCOMM Inc.,2000-12-29,,left_censored,,0000804328,NASDAQ,Information Technology,Semiconductors,1999-07-22
+QEP,QEP Resources,2010-06-30,2015-07-01,exact,exact,0001108827,NYSE,Utilities,Multi-Utilities & Unregulated Power,2010-07-01
+QLGC,QLogic Corp.,2000-12-29,2011-03-24,left_censored,unreconciled,,NASDAQ,Information Technology,,
+QRVO,Qorvo,2015-06-11,2024-12-23,exact,exact,0001604778,NASDAQ,Information Technology,Semiconductors,2015-06-11
+QTRN,Quintiles Transnational,2000-12-29,2003-09-25,left_censored,exact,,,Health Care,,
+R,Ryder System,2000-12-29,2017-06-19,left_censored,exact,0000085961,NYSE,Industrials,Industrial Conglomerates,1982-12-31
+RAI,Reynolds American Inc.,2004-12-31,2017-07-26,snapshot,exact,0001275283,NYSE,Consumer Staples,Tobacco,
+RAL,Ralston-Ralston Purina Gp,2000-12-29,2001-12-31,left_censored,snapshot,,,Consumer Staples,,
+RATL,Rational Software,2002-12-31,2003-02-21,snapshot,snapshot,,,Information Technology,,
+RBK,Reebok International,2000-12-29,2006-02-09,left_censored,snapshot,,,Consumer Discretionary,,
+RCL,Royal Caribbean Cruises Ltd,2014-12-05,,exact,,0000884887,NYSE,Consumer Discretionary,"Hotel, Resorts and Cruise Lines",2014-12-05
+RD,Royal Dutch Petroleum,2000-12-29,2002-12-31,left_censored,snapshot,,,Energy,,
+RDC,Rowan Cos.,2000-12-29,2014-08-18,left_censored,exact,0000085408,NYSE,Energy,Oil & Gas Drilling,1985-01-31
+RDDT,Reddit,2026-08-18,,exact,,0001713445,NYSE,Communication Services,Interactive Media & Services,2026-08-18
+RE,Everest Re Group Ltd,2017-06-19,2023-07-31,exact,unreconciled,0001095073,NYSE,Financials,Reinsurance,2017-06-19
+REG,Regency Centers Corporation,2017-03-02,,exact,,0000910606,NYSE,Real Estate,Retail REITs,2017-03-02
+REGN,Regeneron,2013-04-30,,exact,,0000872589,NASDAQ,Health Care,Biotechnology,2013-05-01
+REI,Reliant Energy,2000-12-29,2002-12-31,left_censored,snapshot,,,Utilities,,
+RF,Regions Financial Corp.,2002-12-31,,snapshot,,0001281761,NYSE,Financials,Diversified Financial Services,1998-08-28
+RGBK,Regions Financial Corp.,2000-12-29,2002-12-31,left_censored,snapshot,,,Financials,,
+RHI,Robert Half International,2000-12-29,2024-06-24,left_censored,exact,0000315213,NYSE,Industrials,Industrial Conglomerates,2000-12-05
+RHT,Red Hat,2009-07-18,2019-07-15,snapshot,exact,0001087423,NYSE,Information Technology,Systems Software,2009-07-27
+RIG,Transocean Sedco Forex,2000-12-29,2009-03-18,left_censored,snapshot,,NYSE,Energy,,
+RIG,Transocean,2013-10-29,2017-07-26,exact,exact,0001451505,NYSE,Energy,Oil & Gas Drilling,2013-10-29
+RJF,Raymond James Financial Inc.,2017-03-20,,exact,,0000720005,NYSE,Financials,Investment Banking & Brokerage,2017-03-20
+RJR,RJ Reynolds Tobacco,2002-12-31,2004-12-31,snapshot,snapshot,,,Consumer Staples,,
+RKY,Coors (Adolph),2000-12-29,2005-04-29,left_censored,snapshot,,,Consumer Staples,,
+RL,Polo Ralph Lauren Corp.,2007-02-01,,snapshot,,0001037038,NYSE,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",2007-02-02
+RMD,ResMed,2017-07-26,,exact,,0000943819,NYSE,Health Care,Health Care Equipment,2017-07-26
+ROH,Rohm & Haas,2000-12-29,2009-05-29,left_censored,snapshot,,NYSE,Materials,,
+ROK,Rockwell International,2000-12-29,,left_censored,,0001024478,NYSE,Industrials,Industrial Conglomerates,2000-03-12
+ROL,Rollins,2018-10-01,,exact,,0000084839,NYSE,Industrials,Environmental & Facilities Services,2018-10-01
+ROP,Roper Industries,2009-12-31,,snapshot,,0000882835,NYSE,Industrials,Industrial Conglomerates,2009-12-23
+ROST,Ross Stores Inc.,2009-12-18,,exact,,0000745732,NASDAQ,Consumer Discretionary,Apparel Retail,2009-12-21
+RRC,Range Resources Corp.,2007-12-20,2018-06-18,exact,exact,0000315852,NYSE,Energy,Oil & Gas Exploration & Production,2007-12-21
+RRD,Donnelley (R.R.) & Sons,2004-04-26,2012-12-11,snapshot,exact,,NYSE,Industrials,,
+RSG,Republic Services Inc.,2009-03-18,,snapshot,,0001060391,NYSE,Industrials,Industrial Conglomerates,2008-12-05
+RSH,RadioShack Corp,2000-12-29,2011-06-30,left_censored,exact,,NYSE,Consumer Discretionary,,
+RTN,Raytheon Co. (New),2001-12-31,2020-04-06,snapshot,exact,0001047122,NYSE,Industrials,Aerospace & Defense,
+RTN-B,Raytheon Co. (New),2000-12-29,2001-12-31,left_censored,snapshot,,,Industrials,,
+RTX,Raytheon Technologies,2020-04-19,,unreconciled,,0000101829,NYSE,Industrials,Aerospace & Defense,1957-03-04
+RVTY,Revvity,2023-05-17,,unreconciled,,0000031791,NYSE,Health Care,Health Care Equipment,1985-05-31
+RX,IMS Health Inc.,2000-12-29,2010-02-26,left_censored,exact,,NYSE,Industrials,,
+S,"Sears, Roebuck & Co.",2000-12-29,2005-04-29,left_censored,snapshot,,,Consumer Discretionary,,
+S,Sprint Nextel Corp.,2005-09-01,2013-07-08,snapshot,exact,,NYSE,Telecommunication Services,Wireless Telecommunications Services,
+SAF,SAFECO Corp.,2006-11-30,2008-09-30,snapshot,snapshot,,NYSE,Financials,,
+SAFC,SAFECO Corp.,2000-12-29,2006-11-30,left_censored,snapshot,,,Financials,,
+SAI,Information Technology,2009-12-18,2013-09-20,exact,exact,,NYSE,Information Technology,Aerospace & Defense,
+SAIC,SAIC,2013-10-15,2013-11-16,unreconciled,unreconciled,,NYSE,Industrials,Aerospace & Defense,
+SANM,Sanmina-SCI Corp.,2000-12-29,2008-02-10,left_censored,snapshot,,,Information Technology,,
+SAPE,Sapient Corp,2000-12-29,2002-12-31,left_censored,snapshot,,,Information Technology,,
+SATS,EchoStar,2026-03-23,2026-07-09,exact,unreconciled,0001415404,NASDAQ,Communication Services,Wireless Telecommunication Services,2026-03-23
+SBAC,SBA Communications Corp,2017-09-01,,exact,,0001034054,NASDAQ,Real Estate,Specialized REITs,2017-09-01
+SBC,SBC Communications Inc.,2000-12-29,2005-12-01,left_censored,snapshot,,,Telecommunications Services,,
+SBL,Symbol Technologies,2000-12-29,2007-01-09,left_censored,snapshot,,,Information Technology,,
+SBNY,Signature Bank,2021-12-20,2023-03-15,exact,exact,0001288784,NASDAQ,Financials,Regional Banks,2021-12-20
+SBUX,Starbucks Corp.,2000-12-29,,left_censored,,0000829224,NASDAQ,Consumer Discretionary,Restaurants,2000-06-07
+SCG,SCANA Corp.,2009-03-18,2019-01-02,snapshot,exact,0000754737,NYSE,Utilities,Multi-Utilities & Unregulated Power,2009-01-02
+SCH,Charles Schwab,2000-12-29,2005-12-19,left_censored,snapshot,,,Financials,,
+SCHW,Charles Schwab,2005-12-19,,snapshot,,0000316709,NYSE,Financials,Diversified Financial Services,1997-06-02
+SDS,SunGard Data Systems,2002-12-31,2005-09-01,snapshot,snapshot,,,Information Technology,,
+SE,Spectra Energy Corp.,2007-01-04,2017-02-28,snapshot,exact,0001373835,NYSE,Energy,Oil & Gas Refining & Marketing & Transportation,
+SEBL,Siebel  Systems Inc,2000-12-29,2006-02-09,left_censored,snapshot,,,Information Technology,,
+SEDG,SolarEdge,2021-12-20,2023-12-18,exact,exact,0001419612,NASDAQ,Information Technology,Semiconductor Equipment,2021-12-20
+SEE,Sealed Air Corp.(New),2000-12-29,2023-12-18,left_censored,exact,0001012100,NYSE,Materials,Paper Packaging,1957-03-04
+SFA,Scientific-Atlanta,2000-12-29,2006-03-02,left_censored,snapshot,,,Information Technology,,
+SGP,Schering-Plough,2000-12-29,2009-11-03,left_censored,exact,,NYSE,Health Care,,
+SHLD,Sears Holdings Corporation,2005-04-29,2012-09-05,snapshot,exact,,NASDAQ,Consumer Discretionary,,
+SHW,Sherwin-Williams,2000-12-29,,left_censored,,0000089800,NYSE,Consumer Discretionary,Housewares & Specialties,1964-06-30
+SIAL,Sigma-Aldrich,2000-12-29,2015-11-19,left_censored,exact,0000090185,NASDAQ,Materials,Diversified Chemicals,1994-09-01
+SIG,Signet Jewelers,2015-07-29,2018-03-19,exact,exact,0000832988,NYSE,Consumer Discretionary,Specialty Stores,2015-07-29
+SII,Smith International,2006-11-30,2010-08-26,snapshot,exact,,NYSE,Energy,,
+SIVB,SVB Financial,2018-03-19,2023-03-15,exact,exact,0000719739,NASDAQ,Financials,Regional Banks,2018-03-19
+SJM,Smucker (J.M.) (New),2008-11-14,,snapshot,,0000091419,NYSE,Consumer Staples,Packaged Foods & Meats,2008-11-06
+SLB,Schlumberger Ltd.,2000-12-29,,left_censored,,0000087347,NYSE,Energy,Oil & Gas Equipment & Services,1965-03-31
+SLE,Sara Lee Corp.,2000-12-29,2012-06-29,left_censored,exact,,NYSE,Consumer Staples,,
+SLG,SL Green Realty,2015-03-23,2021-03-22,exact,exact,0001040971,NYSE,Financials,Office REITs,2015-03-20
+SLM,USA Education Inc,2000-12-29,2014-05-01,left_censored,exact,,NYSE,Financials,Diversified Financial Services,
+SLR,Solectron,2000-12-29,2007-10-02,left_censored,exact,,,Information Technology,,
+SMCI,Supermicro,2024-03-18,,exact,,0001375365,NASDAQ,Information Technology,"Technology Hardware, Storage & Peripherals",2024-03-18
+SNA,Snap-On Inc.,2000-12-29,,left_censored,,0000091440,NYSE,Consumer Discretionary,Household Appliances,1982-09-30
+SNDK,SanDisk Corporation,2006-06-01,2016-05-13,snapshot,exact,0001000180,NASDAQ,Information Technology,Computer Storage & Peripherals,
+SNDK,Sandisk,2025-11-28,,exact,,0002023554,NASDAQ,Information Technology,"Technology Hardware, Storage & Peripherals",2025-11-28
+SNI,Scripps Networks Interactive Inc.,2008-08-22,2018-03-07,snapshot,exact,0001430602,NYSE,Consumer Discretionary,Broadcasting & Cable TV,2008-07-01
+SNPS,Synopsys Inc.,2017-03-16,,exact,,0000883241,NASDAQ,Information Technology,Application Software,2017-03-16
+SNV,Synovus Financial,2000-12-29,2008-02-10,left_censored,snapshot,,,Financials,,
+SO,Southern Co.,2000-12-29,,left_censored,,0000092122,NYSE,Utilities,Multi-Utilities & Unregulated Power,1957-03-04
+SOLS,Solstice Advanced Materials,2025-10-30,2025-12-22,exact,exact,0002064953,NASDAQ,Materials,TBD,2025-10-30
+SOLV,Solventum,2024-04-01,,exact,,0001964738,NYSE,Health Care,Health Care Equipment,2024-04-01
+SOTR,SouthTrust Corp.,2000-12-29,2004-12-31,left_censored,snapshot,,,Financials,,
+SOV,Sovereign Bancorp,2004-07-01,2009-03-18,snapshot,snapshot,,NYSE,Financials,,
+SPC,St. Paul Cos.,2000-12-29,2004-04-26,left_censored,snapshot,,,Financials,,
+SPG,"Simon Property Group, Inc",2002-12-31,,snapshot,,0001063761,NYSE,Financials,REITs,2002-06-26
+SPGI,"S&P Global, Inc.",2016-05-12,,unreconciled,,0000064040,NYSE,Financials,Diversified Financial Services,1957-03-04
+SPLS,Staples Inc.,2000-12-29,2017-09-18,left_censored,exact,0000791519,NASDAQ,Consumer Discretionary,Specialty Stores,1998-10-07
+SRCL,Stericycle Inc,2009-07-04,2018-12-03,snapshot,exact,0000861878,NASDAQ,Industrials,Industrial Conglomerates,2008-11-19
+SRE,Sempra Energy,2000-12-29,,left_censored,,0001032208,NYSE,Utilities,Multi-Utilities & Unregulated Power,2017-03-17
+SSP,Scripps (E. W.) 'A',2005-12-19,2008-08-22,snapshot,snapshot,,,Consumer Discretionary,,
+STA,St. Paul Travelers Cos.,2004-04-26,2007-04-16,snapshot,snapshot,,,Financials,,
+STE,STERIS plc,2019-12-23,,exact,,0001757898,NYSE,Health Care,Health Care Equipment,2019-12-23
+STI,SunTrust Banks,2000-12-29,2019-12-09,left_censored,exact,0000750556,NYSE,Financials,Banks,1988-05-31
+STJ,St Jude Medical,2000-12-29,2017-01-05,left_censored,exact,0000203077,NYSE,Health Care,Health Care Equipment & Services,1989-11-30
+STLD,Steel Dynamics,2022-12-22,,exact,,0001022671,NASDAQ,Materials,Steel,2022-12-22
+STR,Questar Corp.,2006-11-30,2010-06-30,snapshot,exact,,NYSE,Utilities,,
+STT,State Street Corp.,2000-12-29,,left_censored,,0000093751,NYSE,Financials,Diversified Financial Services,2003-03-14
+STX,Seagate Technology,2012-07-02,,exact,,0001137789,NASDAQ,Information Technology,Computer Storage & Peripherals,2012-07-02
+STZ,Constellation Brands,2005-07-01,,exact,,0000016918,NYSE,Consumer Staples,Distillers & Vintners,2005-07-01
+SUB,Summit Bancorp,2000-12-29,2001-12-31,left_censored,snapshot,,,Financials,,
+SUN,"Sunoco., Inc.",2000-12-29,2012-10-10,left_censored,exact,,NYSE,Energy,,
+SUNW,Sun Microsystems,2000-12-29,2007-09-25,left_censored,snapshot,,,Information Technology,,
+SV,Stilwell Finacial,2000-12-29,2002-12-31,left_censored,snapshot,,,Financials,,
+SVU,Supervalu Inc.,2000-12-29,2012-04-23,left_censored,exact,,NYSE,Consumer Staples,,
+SW,Smurfit WestRock,2024-07-30,,unreconciled,,0002005951,NYSE,Materials,Paper & Plastic Packaging Products & Materials,2024-07-08
+SWK,Stanley Works,2000-12-29,,left_censored,,0000093556,NYSE,Consumer Discretionary,Household Appliances,1982-09-30
+SWKS,Skyworks Solutions,2015-03-12,,exact,,0000004127,NASDAQ,Information Technology,Semiconductors,2015-03-12
+SWN,Southwestern Energy,2008-08-22,2017-04-04,snapshot,exact,0000007332,NYSE,Energy,Oil & Gas Exploration & Production,2008-06-06
+SWY,Safeway Inc.,2000-12-29,2015-01-27,left_censored,exact,0000086144,NYSE,Consumer Staples,Food Retail,
+SYF,Synchrony Financial,2015-11-18,,exact,,0001601712,NYSE,Financials,Consumer Finance,2015-11-18
+SYK,Stryker Corp.,2000-12-29,,left_censored,,0000310764,NYSE,Health Care,Health Care Equipment & Services,2000-12-12
+SYMC,Symantec Corp.,2003-06-06,2019-11-09,snapshot,unreconciled,0000849399,NASDAQ,Information Technology,Application Software,2003-03-25
+SYY,Sysco Corp.,2000-12-29,,left_censored,,0000096021,NYSE,Consumer Staples,Food Distributors,1986-12-31
+T,AT&T Corp.,2000-12-29,2005-11-18,left_censored,exact,,,Telecommunications Services,,
+T,AT&T Inc.,2005-12-01,,snapshot,,0000732717,NYSE,Telecommunication Services,Integrated Telecommunications Services,1983-11-30
+TAP,Molson Coors Brewing Company,2005-04-29,,snapshot,,0000024545,NYSE,Consumer Staples,Brewers,1976-06-30
+TAP-B,Travelers Property Casualty Corp.,2002-12-31,2004-04-26,snapshot,snapshot,,,Financials,,
+TDC,Teradata Corp.,2007-10-01,2017-06-19,exact,exact,0000816761,NYSE,Information Technology,Application Software,2007-10-01
+TDG,TransDigm Group,2016-06-03,,exact,,0001260221,NYSE,Industrials,Aerospace & Defense,2016-06-03
+TDY,Teledyne Technologies,2020-06-22,,exact,,0001094285,NYSE,Industrials,Aerospace & Defense,2020-06-22
+TE,TECO Energy,2001-12-31,2016-07-01,snapshot,exact,0000350563,NYSE,Utilities,Multi-Utilities & Unregulated Power,
+TECH,Bio-Techne,2021-08-30,,exact,,0000842023,NASDAQ,Health Care,Life Sciences Tools & Services,2021-08-30
+TEG,"Integrys Energy Group, Inc.",2007-04-16,2015-07-01,snapshot,exact,0000916863,NYSE,Utilities,Gas Utilities,2007-02-22
+TEK,Tektronix Inc.,2000-12-29,2008-02-10,left_censored,snapshot,,,Information Technology,,
+TEL,Tyco Electronics Ltd.,2008-02-10,2009-05-29,snapshot,snapshot,,NYSE,,,
+TEL,TE Connectivity Ltd.,2011-10-14,,exact,,0001385157,NYSE,Information Technology,Electronic Equipment & Instruments,2011-10-17
+TER,Teradyne Inc.,2000-12-29,2013-12-23,left_censored,exact,,NYSE,Information Technology,Semiconductor Equipment,
+TER,Teradyne,2020-09-21,,exact,,0000097210,NASDAQ,Information Technology,Semiconductor Equipment,2020-09-21
+TEX,Terex Corp.,2006-12-29,2008-11-14,snapshot,snapshot,,NYSE,Industrials,,
+TFC,Truist Financial,2019-12-25,,unreconciled,,0000092230,NYSE,Financials,Regional Banks,1997-12-04
+TFX,Teleflex Inc,2019-01-18,2025-03-24,exact,exact,0000096943,NYSE,Health Care,Health Care Equipment,2019-01-18
+TGNA,Tegna,2015-07-15,2017-06-02,unreconciled,exact,0000039899,NYSE,Consumer Discretionary,Publishing,1975-12-31
+TGT,Target Corp.,2000-12-29,,left_censored,,0000027419,NYSE,Consumer Discretionary,General Merchandise Stores,1976-12-31
+THC,Tenet Healthcare Corp.,2000-12-29,2016-04-18,left_censored,exact,0000070318,NYSE,Health Care,Health Care Facilities,1979-03-31
+TIE,Titanium Metals Corp,2008-02-10,2012-12-21,snapshot,exact,,NYSE,Materials,,
+TIF,Tiffany & Co.,2000-12-29,2021-01-07,left_censored,exact,0000098246,NYSE,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",2000-06-21
+TIN,Temple-Inland,2000-12-29,2008-02-10,left_censored,snapshot,,,Materials,,
+TJX,TJX Companies Inc.,2000-12-29,,left_censored,,0000109198,NYSE,Consumer Discretionary,Apparel Retail,1985-09-30
+TKO,TKO Group Holdings,2025-03-24,,exact,,0001973266,NYSE,Communication Services,Movies & Entertainment,2025-03-24
+TKR,Timken Co.,2000-12-29,2001-12-31,left_censored,snapshot,,,Industrials,,
+TLAB,"Tellabs, Inc.",2000-12-29,2011-12-20,left_censored,exact,,NASDAQ,Information Technology,,
+TMK,Torchmark Corp.,2000-12-29,2019-08-16,left_censored,unreconciled,0000320335,NYSE,Financials,Life & Health Insurance,1989-04-30
+TMO,Thermo Electron,2000-12-29,,left_censored,,0000097745,NYSE,Industrials,Health Care Equipment & Services,2004-08-03
+TMPW,TMP Worldwide,2001-12-31,2003-06-06,snapshot,snapshot,,,Consumer Discretionary,,
+TMUS,T-Mobile US,2019-07-15,,exact,,0001283699,NASDAQ,Communication Services,Wireless Telecommunication Services,2019-07-15
+TNB,Thomas & Betts,2000-12-29,2004-12-31,left_censored,snapshot,,,Industrials,,
+TOS,Tosco Corp.,2000-12-29,2001-12-31,left_censored,snapshot,,,Energy,,
+TOY,Toys R Us Hldg. Cos.,2000-12-29,2005-09-01,left_censored,snapshot,,,Consumer Discretionary,,
+TPL,Texas Pacific Land Corporation,2024-11-26,,exact,,0001811074,NYSE,Energy,Oil & Gas Exploration & Production,2024-11-26
+TPR,"Tapestry, Inc.",2017-10-31,,unreconciled,,0001116132,NYSE,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",2004-09-01
+TRB,Tribune Co.,2000-12-29,2007-12-20,left_censored,exact,,,Consumer Discretionary,,
+TRGP,Targa Resources,2022-10-12,,exact,,0001389170,NYSE,Energy,Oil & Gas Storage & Transportation,2022-10-12
+TRIP,TripAdvisor,2011-12-20,2019-12-23,exact,exact,0001526520,NASDAQ,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",2011-12-21
+TRMB,Trimble Inc.,2021-01-21,,exact,,0000864749,NASDAQ,Information Technology,Electronic Equipment & Instruments,2021-01-21
+TROW,T. Rowe Price Group,2000-12-29,,left_censored,,0001113169,NASDAQ,Financials,Diversified Financial Servies,2019-07-29
+TRV,"The Travelers Companies, Inc.",2007-04-16,,snapshot,,0000086312,NYSE,Financials,Property & Casualty Insurance,2002-08-21
+TRW,TRW Inc.,2000-12-29,2002-12-31,left_censored,snapshot,,,Consumer Discretionary,,
+TSCO,Tractor Supply Company,2014-01-24,,exact,,0000916365,NASDAQ,Consumer Discretionary,Specialty Retail,2014-01-24
+TSG,Sabre Holding Corp.,2000-12-29,2007-03-30,left_censored,exact,,,Industrials,,
+TSLA,"Tesla, Inc.",2020-12-21,,exact,,0001318605,NASDAQ,Consumer Discretionary,Automobile Manufacturers,2020-12-21
+TSN,Tyson Foods,2005-09-01,,snapshot,,0000100493,NYSE,Consumer Staples,Packaged Foods & Meats,2005-08-10
+TSO,Tesoro Petroleum Co.,2007-09-27,2017-08-06,exact,unreconciled,0000050104,NYSE,Energy,Oil & Gas Refining & Marketing & Transportation,2007-09-27
+TSS,Total System Services,2008-02-10,2019-09-23,snapshot,exact,0000721683,NYSE,Information Technology,Internet Software & Services,2008-01-02
+TT,Trane Inc.,2008-01-09,2008-08-22,snapshot,snapshot,,,,,
+TT,Trane Technologies plc,2020-04-02,,unreconciled,,0001466258,NYSE,Industrials,Building Products,2010-11-17
+TTD,Trade Desk (The),2025-07-18,,exact,,0001671933,NASDAQ,Communication Services,Advertising,2025-07-18
+TTWO,Take-Two Interactive,2018-03-19,,exact,,0000946581,NASDAQ,Information Technology,Home Entertainment Software,2018-03-19
+TUP,Tupperware Corp.,2000-12-29,2004-04-26,left_censored,snapshot,,,Consumer Discretionary,,
+TWC,Time Warner Cable Inc.,2009-05-29,2016-05-18,snapshot,exact,0001377013,NYSE,Consumer Discretionary,Broadcasting & Cable TV,2009-03-30
+TWTR,"Twitter, Inc.",2018-06-07,2022-11-01,exact,exact,0001418091,NYSE,Information Technology,Internet Software & Services,2018-06-07
+TWX,Time Warner Inc.,2000-12-29,2001-12-31,left_censored,snapshot,,,Consumer Discretionary,,
+TWX,Time Warner Inc.,2003-10-23,2018-06-20,snapshot,exact,0001105705,NYSE,Consumer Discretionary,Broadcasting & Cable TV,
+TX,Texaco Inc.,2000-12-29,2001-12-31,left_censored,snapshot,,,Energy,,
+TXN,Texas Instruments,2000-12-29,,left_censored,,0000097476,NASDAQ,Information Technology,Semiconductors,2001-03-12
+TXT,Textron Inc.,2000-12-29,,left_censored,,0000217346,NYSE,Industrials,Industrial Conglomerates,1978-12-31
+TXU,TXU Corp.,2000-12-29,2008-02-10,left_censored,snapshot,,,Utilities,,
+TYC,Tyco International,2000-12-29,2009-07-18,left_censored,snapshot,,NYSE,Industrials,,
+TYC,Tyco International,2010-08-26,2016-09-06,exact,exact,0000833444,NYSE,Industrials,Industrial Conglomerates,2010-08-27
+TYL,Tyler Technologies,2020-06-22,,exact,,0000860731,NYSE,Information Technology,Application Software,2020-06-22
+U,USAirways Group Inc.,2000-12-29,2002-12-31,left_censored,snapshot,,,Industrials,,
+UA,Under Armour,2014-05-01,2022-06-21,exact,exact,0001336917,NYSE,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",2014-05-01
+UA-C,Under Armour,2016-08-22,2016-12-10,unreconciled,unreconciled,0001336917,NYSE,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",2016-03-25
+UAA,Under Armour,2016-12-10,2022-06-21,unreconciled,exact,0001336917,NYSE,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",2016-03-25
+UAL,United Continental Holdings,2015-09-02,,exact,,0000100517,NASDAQ,Industrials,Airlines,2015-09-03
+UBER,Uber,2023-12-18,,exact,,0001543151,NYSE,Industrials,Passenger Ground Transportation,2023-12-18
+UCL,Unocal Corp.,2000-12-29,2005-09-01,left_censored,snapshot,,,Energy,,
+UDR,UDR Inc,2016-03-07,,exact,,0000074208,NYSE,Financials,Residential REITs,2016-03-07
+UHS,"Universal Health Services, Inc.",2014-09-20,,exact,,0000352915,NYSE,Health Care,Health Care Facilities,2014-09-20
+UIS,Unisys Corp.,2000-12-29,2009-07-04,left_censored,snapshot,,NYSE,Information Technology,,
+UK,Union Carbide,2000-12-29,2001-12-31,left_censored,snapshot,,,Materials,,
+ULTA,Ulta Salon Cosmetics & Fragrance Inc,2016-04-18,,exact,,0001403568,NASDAQ,Consumer Discretionary,Specialty Stores,2016-04-18
+UN,Unilever N.V.,2000-12-29,2002-12-31,left_censored,snapshot,,,Consumer Staples,,
+UNH,United Health Group Inc.,2000-12-29,,left_censored,,0000731766,NYSE,Health Care,Managed Health Care,1994-07-01
+UNM,UNUM Corp.,2000-12-29,2021-09-20,left_censored,exact,0000005513,NYSE,Financials,Diversified Financial Services,1994-03-01
+UNP,Union Pacific,2000-12-29,,left_censored,,0000100885,NYSE,Industrials,Railroads,1957-03-04
+UPC,Union Planters Corporation,2000-12-29,2004-07-01,left_censored,snapshot,,,Financials,,
+UPS,United Parcel Service,2002-12-31,,snapshot,,0001090727,NYSE,Industrials,Air Freight & Logistics,2002-07-22
+URBN,Urban Outfitters,2010-05-06,2017-03-20,snapshot,exact,0000912615,NASDAQ,Consumer Discretionary,Apparel Retail,2010-02-08
+URI,"United Rentals, Inc.",2014-09-20,,exact,,0001067701,NYSE,Industrials,Trading Companies & Distributors,2014-09-20
+USB,U.S. Bancorp,2000-12-29,,left_censored,,0000036104,NYSE,Financials,Banks,1999-11-01
+UST,UST Inc.,2000-12-29,2009-01-07,left_censored,snapshot,,NYSE,Consumer Staples,,
+UTX,United Technologies,2000-12-29,2020-04-19,left_censored,unreconciled,0000101829,NYSE,Industrials,Industrial Conglomerates,
+UVN,Univision Communications,2001-12-31,2007-04-16,snapshot,snapshot,,,Consumer Discretionary,,
+V,Visa,2009-12-18,,exact,,0001403161,NYSE,Information Technology,Internet Software & Services,2009-12-21
+VAR,Varian Medical Systems,2007-04-16,2021-04-20,snapshot,exact,0000203527,NYSE,Health Care,Health Care Equipment & Services,2007-02-12
+VC,Visteon Corp.,2000-12-29,2005-12-30,left_censored,snapshot,,,Consumer Discretionary,,
+VEEV,Veeva Systems,2026-05-07,,exact,,0001393052,NYSE,Health Care,Health Care Technology,2026-05-07
+VFC,V.F. Corp.,2000-12-29,2024-04-03,left_censored,exact,0000103379,NYSE,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",1979-06-30
+VIA-B,Viacom Inc.,2000-12-29,2019-12-05,left_censored,exact,0001339947,NASDAQ,Consumer Discretionary,Broadcasting & Cable TV,
+VIAC,ViacomCBS,2019-12-08,2022-02-22,unreconciled,unreconciled,0000813828,NASDAQ,Communication Services,Movies & Entertainment,
+VICI,Vici Properties,2022-06-08,,exact,,0001705696,NYSE,Real Estate,Hotel & Resort REITs,2022-06-08
+VLO,Valero Energy,2004-05-28,,snapshot,,0001035002,NYSE,Energy,Oil & Gas Refining & Marketing & Transportation,2002-12-20
+VLTO,Veralto,2023-10-02,,exact,,0001967680,NYSE,Industrials,Environmental & Facilities Services,2023-10-02
+VMC,Vulcan Materials,2000-12-29,,left_censored,,0001396009,NYSE,Materials,Construction Materials,1999-06-30
+VMRK,Vivmark Residential,2026-09-04,,unreconciled,,0000906107,NYSE,Real Estate,Multi-Family Residential REITs,2001-12-03
+VNO,Vornado Realty Trust,2005-09-01,2023-01-05,snapshot,exact,0000899689,NYSE,Financials,REITs,
+VNT,Vontier,2020-10-09,2021-03-22,exact,exact,0001786842,NYSE,Information Technology,Electronic Equipment & Instruments,2020-10-09
+VRSK,Verisk Analytics,2015-10-07,,exact,,0001442145,NASDAQ,Industrials,Research & Consulting Services,2015-10-08
+VRSN,Verisign Inc.,2006-02-09,,snapshot,,0001014473,NASDAQ,Information Technology,Internet Software & Services,2006-02-01
+VRT,Vertiv,2026-03-23,,exact,,0001674101,NYSE,Industrials,Electrical Components & Equipment,2026-03-23
+VRTS,Veritas Software,2000-12-29,2004-04-26,left_censored,snapshot,,,Information Technology,,
+VRTS,Veritas Software,2004-07-01,2005-09-01,snapshot,snapshot,,,Information Technology,,
+VRTSE,Veritas Software,2004-04-26,2004-07-01,snapshot,snapshot,,,Information Technology,,
+VRTX,Vertex Pharmaceuticals Inc,2013-09-20,,exact,,0000875320,NASDAQ,Health Care,Biotechnology,2013-09-23
+VST,Vistra,2024-05-08,,exact,,0001692819,NYSE,Utilities,Electric Utilities,2024-05-08
+VTR,Ventas Inc,2009-03-03,,exact,,0000740260,NYSE,Financials,Diversified Financial Services,2009-03-04
+VTRS,Viatris,2020-11-27,,unreconciled,,0001792044,NASDAQ,Health Care,Pharmaceuticals,2004-04-23
+VTSS,Vitesse Semiconductor,2000-12-29,2002-12-31,left_censored,snapshot,,,Information Technology,,
+VZ,Verizon Communications,2000-12-29,,left_censored,,0000732712,NYSE,Telecommunications Services,Integrated Telecommunications Services,1983-11-30
+W,Westvaco Corp.,2000-12-29,2002-12-31,left_censored,snapshot,,,Materials,,
+WAB,Wabtec Corporation,2019-02-27,,exact,,0000943452,NYSE,Industrials,Construction Machinery & Heavy Trucks,2019-02-27
+WAG,Walgreen Co.,2000-12-29,2015-02-07,left_censored,unreconciled,0000104207,NYSE,Consumer Staples,Drug Retail,1979-12-31
+WAT,Waters Corporation,2001-12-31,,snapshot,,0001000697,NYSE,Information Technology,Health Care Distributors & Services,2002-01-02
+WB,Wachovia Corp.,2000-12-29,2008-12-31,left_censored,exact,,NYSE,Financials,,
+WBA,Walgreens Boots Alliance,2015-02-07,2025-08-28,unreconciled,exact,0001618921,NASDAQ,Consumer Staples,Drug Retail,1979-12-31
+WBD,Warner Bros. Discovery,2022-04-11,,exact,,0001437107,NASDAQ,Communication Services,Broadcasting,2022-04-11
+WCG,WellCare,2018-09-14,2020-01-28,exact,exact,0001279363,NYSE,Health Care,Managed Health Care,
+WCOM,WorldCom Inc.,2000-12-29,2002-12-31,left_censored,snapshot,,,Telecommunications Services,,
+WDAY,"Workday, Inc.",2024-12-23,,exact,,0001327811,NASDAQ,Information Technology,Application Software,2024-12-23
+WDC,Western Digital,2009-07-18,,snapshot,,0000106040,NASDAQ,Information Technology,Computer Storage & Peripherals,2009-07-01
+WEC,Wisconsin Energy Corporation,2008-11-14,,snapshot,,0000783325,NYSE,Utilities,Multi-Utilities  & Unregulated Power,2008-10-31
+WELL,Welltower Inc.,2018-02-28,,unreconciled,,0000766704,NYSE,Real Estate,Health Care REITs,2009-01-30
+WEN,Wendy's International,2000-12-29,2008-12-24,left_censored,snapshot,,NYSE,Consumer Discretionary,,
+WFC,Wells Fargo,2000-12-29,,left_censored,,0000072971,NYSE,Financials,Banks,1976-06-30
+WFM,Whole Foods Market,2011-06-09,2017-08-29,unreconciled,exact,0000865436,NASDAQ,Consumer Staples,Food Retail,
+WFMI,Whole Foods Market,2005-12-30,2011-06-09,snapshot,unreconciled,,NASDAQ,Consumer Staples,,
+WFR,MEMC Electronic Materials,2008-02-10,2011-12-16,snapshot,exact,,NYSE,,,
+WFT,Weatherford International Ltd.,2005-09-01,2009-03-18,snapshot,snapshot,,NYSE,Energy,,
+WHR,Whirlpool Corp.,2000-12-29,2024-03-18,left_censored,exact,0000106640,NYSE,Consumer Discretionary,Household Appliances,1958-03-31
+WIN,Winn-Dixie,2000-12-29,2004-12-31,left_censored,snapshot,,,Consumer Staples,,
+WIN,Windstream Corporation,2006-07-18,2015-04-07,snapshot,exact,0001282266,NYSE,Telecommunication Services,Integrated Telecommunications Services,
+WLL,Willamette Industries,2000-12-29,2002-12-31,left_censored,snapshot,,,Materials,,
+WLP,WellPoint Health Networks,2000-12-29,2014-12-24,left_censored,unreconciled,0001156039,NYSE,Health Care,Managed Health Care,
+WLTW,Willis Towers Watson,2016-01-05,2022-01-10,exact,exact,0001140536,NASDAQ,Financials,Insurance Brokers,2016-01-05
+WM,Washington Mutual,2000-12-29,2008-09-30,left_censored,snapshot,,NYSE,Financials,,
+WM,Waste Management Inc.,2009-08-25,,snapshot,,0000823768,NYSE,Industrials,Enviromental Services,1998-08-31
+WMB,Williams Cos.,2000-12-29,,left_censored,,0000107263,NYSE,Utilities,Oil & Gas Exploration & Production,1975-03-31
+WMI,Waste Management Inc.,2000-12-29,2009-08-25,left_censored,snapshot,,NYSE,Industrials,,
+WMT,Wal-Mart Stores,2000-12-29,,left_censored,,0000104169,NYSE,Consumer Discretionary,General Merchandise Stores,1982-08-31
+WOR,Worthington Ind.,2000-12-29,2004-12-31,left_censored,snapshot,,,Materials,,
+WPI,Watson Pharmaceuticals,2000-12-29,2013-01-25,left_censored,unreconciled,,NYSE,Health Care,,
+WPO,Washington Post,2008-02-10,2013-12-19,snapshot,unreconciled,,NYSE,Consumer Discretionary,Publishing,
+WPX,"WPX Energy, Inc.",2011-12-31,2014-03-21,exact,exact,,NYSE,Energy,Integrated Oil & Gas,
+WRB,W. R. Berkley Corporation,2019-12-05,,exact,,0000011544,NYSE,Financials,Property & Casualty Insurance,2019-12-05
+WRK,Westrock Co,2015-07-30,2024-07-30,unreconciled,unreconciled,0001636023,NYSE,Materials,Paper Packaging,1957-03-04
+WSM,"Williams-Sonoma, Inc.",2025-03-24,,exact,,0000719955,NYSE,Consumer Discretionary,Homefurnishing Retail,2025-03-24
+WST,West Pharmaceutical Services,2020-05-22,,exact,,0000105770,NYSE,Health Care,Health Care Supplies,2020-05-22
+WTW,Willis Towers Watson,2022-01-10,,exact,,0001140536,NASDAQ,Financials,Insurance Brokers,2016-01-05
+WU,Western Union Co,2006-11-30,2021-12-20,snapshot,exact,0001365135,NYSE,Information Technology,Internet Software & Services,2006-09-29
+WWY,Wrigley (Wm) Jr.,2000-12-29,2008-11-14,left_censored,snapshot,,NYSE,Consumer Staples,,
+WY,Weyerhaeuser Corp.,2000-12-29,,left_censored,,0000106535,NYSE,Materials,REITs,1979-10-01
+WYE,Wyeth,2002-12-31,2009-11-17,snapshot,snapshot,,NYSE,Health Care,,
+WYN,Wyndham Worldwide,2006-08-28,2018-05-31,snapshot,exact,0001361658,NYSE,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",
+WYNN,Wynn Resorts Ltd,2009-07-04,,snapshot,,0001174922,NASDAQ,Consumer Discretionary,"Hotels,  Resorts & Cruise Lines",2008-11-14
+X,United States Steel Corp.,2000-12-29,2014-07-02,left_censored,exact,0001163302,NYSE,Materials,Steel,
+XEC,Cimarex Energy,2014-06-20,2020-03-02,exact,exact,0001168054,NYSE,Energy,Oil & Gas Exploration & Production,2014-06-21
+XEL,Xcel Energy Inc,2000-12-29,,left_censored,,0000072903,NYSE,Utilities,Multi-Utilities & Unregulated Power,1957-03-04
+XL,XL Capital,2001-12-31,2018-09-14,snapshot,exact,0000875159,NYSE,Financials,Property & Casualty Insurance,
+XLNX,"Xilinx, Inc",2000-12-29,2022-02-15,left_censored,exact,0000743988,NASDAQ,Information Technology,Semiconductors,1999-11-08
+XOM,Exxon Mobil Corp.,2000-12-29,,left_censored,,0000034088,NYSE,Energy,Integrated Oil & Gas,1957-03-04
+XRAY,Dentsply Intl,2009-07-04,2024-04-03,snapshot,exact,0000818479,NASDAQ,Health Care,Health Care Supplies,2008-11-14
+XRX,Xerox Corp.,2000-12-29,2021-03-22,left_censored,exact,0000108772,NYSE,Information Technology,IT Consulting & Services,
+XTO,XTO Energy Inc.,2004-12-31,2010-06-28,snapshot,exact,,NYSE,Energy,,
+XYL,Xylem Inc.,2011-10-31,,exact,,0001524472,NYSE,Industrials,Industrial Conglomerates,2011-11-01
+XYZ,"Block, Inc.",2025-07-23,,exact,,0001512673,NYSE,Financials,Transaction & Payment Processing Services,2025-07-23
+YHOO,Yahoo Inc.,2000-12-29,2017-06-19,left_censored,exact,0001011006,NASDAQ,Information Technology,Internet Software & Services,1999-12-08
+YUM,TRICON Global Restaurants,2000-12-29,,left_censored,,0001041061,NYSE,Consumer Discretionary,Restaurants,1997-10-06
+ZBH,Zimmer Biomet Holdings,2015-07-15,,unreconciled,,0001136869,NYSE,Health Care,Health Care Equipment & Services,2001-08-07
+ZBRA,Zebra Technologies,2019-12-23,,exact,,0000877212,NASDAQ,Information Technology,Electronic Equipment & Instruments,2019-12-23
+ZION,Zions Bancorp,2001-12-31,2024-03-18,snapshot,exact,0000109380,NASDAQ,Financials,Banks,2001-06-22
+ZMH,Zimmer Holdings,2001-12-31,2015-07-15,snapshot,unreconciled,0001136869,NYSE,Health Care,Health Care Equipment & Services,
+ZTS,Zoetis,2013-06-21,,exact,,0001555280,NYSE,Health Care,Pharmaceuticals,2013-06-21

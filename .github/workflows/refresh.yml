@@ -1,0 +1,72 @@
+name: Refresh membership
+
+# Manual only. Index changes land a handful of times a quarter, and every rebuild
+# rewrites a tracked artifact, so this opens a PR for review instead of committing to
+# main. The S&P archive half is frozen and is never re-fetched here.
+on:
+  workflow_dispatch:
+    inputs:
+      index:
+        description: Index to rebuild
+        type: choice
+        options: [sp500]
+        default: sp500
+      every_days:
+        description: Article revision sampling interval in days
+        default: "14"
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+
+      - run: uv sync
+
+      - name: Rebuild
+        run: |
+          uv run python -m index_constituents.${{ inputs.index }}.build \
+            --every-days ${{ inputs.every_days }} | tee build.log
+
+      - name: Test the rebuilt artifact
+        run: uv run pytest -q
+
+      - name: Summarise the change
+        id: diff
+        run: |
+          {
+            echo 'body<<PR_BODY'
+            echo 'Rebuilt `${{ inputs.index }}` from Wikipedia at'
+            echo '`--every-days ${{ inputs.every_days }}`. The vendored S&P archive is unchanged.'
+            echo
+            echo '```'
+            cat build.log
+            echo '```'
+            echo
+            echo '### Membership rows changed'
+            echo '```diff'
+            git diff --stat -- data/ || true
+            git diff -U0 -- data/${{ inputs.index }}/membership.csv | grep -E '^[+-][^+-]' | head -60 || true
+            echo '```'
+            echo 'PR_BODY'
+          } >> "$GITHUB_OUTPUT"
+
+      - uses: peter-evans/create-pull-request@v7
+        with:
+          branch: refresh/${{ inputs.index }}
+          title: "Refresh ${{ inputs.index }} membership"
+          body: ${{ steps.diff.outputs.body }}
+          commit-message: |
+            Refresh ${{ inputs.index }} membership
+
+            - rebuilt from Wikipedia revisions and the changes table
+            - sampling interval ${{ inputs.every_days }} days
+          add-paths: data/
+          delete-branch: true

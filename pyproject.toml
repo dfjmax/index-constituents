@@ -1,0 +1,39 @@
+[project]
+name = "index-constituents"
+version = "0.1.0"
+description = "Point-in-time index membership with dated boundaries, retaining members that later left"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [{ name = "Max Di Franco" }]
+keywords = ["survivorship-bias", "point-in-time", "sp500", "index", "backtesting"]
+
+# Reading membership.csv needs nothing but the standard library. xlrd is only for
+# rebuilding from the archived S&P workbooks, which are legacy BIFF.
+dependencies = []
+
+[project.optional-dependencies]
+build = ["xlrd>=2.0"]
+
+[dependency-groups]
+dev = ["pytest>=8", "ruff>=0.6", "xlrd>=2.0"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/index_constituents"]
+
+[tool.hatch.build.targets.wheel.force-include]
+"src/index_constituents/py.typed" = "index_constituents/py.typed"
+
+[tool.ruff]
+line-length = 120
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

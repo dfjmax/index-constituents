@@ -1,0 +1,83 @@
+{
+  "index": "sp500",
+  "sources": {
+    "archive_snapshots": 41,
+    "article_snapshots": 360,
+    "change_records": 306,
+    "handoff": "2007-04-16"
+  },
+  "coverage": [
+    "2000-12-29",
+    "2026-09-04"
+  ],
+  "tickers": 1124,
+  "intervals": 1180,
+  "start_confidence": {
+    "exact": 361,
+    "left_censored": 500,
+    "snapshot": 255,
+    "unreconciled": 64
+  },
+  "discrepancies": {
+    "ambiguous_rename": 1,
+    "false_gap": 5,
+    "issuer_changed": 27,
+    "issuer_split": 3,
+    "phantom_addition": 9,
+    "phantom_removal": 5,
+    "resurrection": 4,
+    "stale_list": 162,
+    "unexplained_addition": 64,
+    "unexplained_removal": 61
+  },
+  "rejected_revisions": [
+    {
+      "date": "2011-12-14",
+      "why": "1 names vanish and return (GAS); wikipedia:465749437"
+    },
+    {
+      "date": "2015-01-14",
+      "why": "26 names vanish and return (A, AA, ABC, ABT, ACE); wikipedia:642518499"
+    },
+    {
+      "date": "2019-10-10",
+      "why": "1 names vanish and return (MMM); wikipedia:920603674"
+    },
+    {
+      "date": "2020-09-13",
+      "why": "1 names vanish and return (SPG); wikipedia:978246414"
+    }
+  ],
+  "proven_renames": 51,
+  "suspect_runs": [
+    {
+      "ticker": "SAIC",
+      "company": "SAIC",
+      "start": "2013-10-15",
+      "end": "2013-11-16",
+      "days": 32
+    },
+    {
+      "ticker": "UA-C",
+      "company": "Under Armour",
+      "start": "2016-08-22",
+      "end": "2016-12-10",
+      "days": 110
+    }
+  ],
+  "identifier_coverage": {
+    "cik": 809,
+    "venue": 950,
+    "gics_sector": 1163,
+    "gics_sub_industry": 837,
+    "sp_date_added": 744
+  },
+  "members_on": {
+    "2001-06-30": 500,
+    "2005-06-30": 500,
+    "2010-06-30": 501,
+    "2015-06-30": 502,
+    "2020-06-30": 505,
+    "2025-06-30": 503
+  }
+}

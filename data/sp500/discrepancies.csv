@@ -1,0 +1,342 @@
+date,kind,ticker,detail
+2000-12-29,issuer_changed,APA,"run from 2000-12-29 states several CIKs (0000006769, 0001841666); published value is the most stated"
+2000-12-29,issuer_changed,CB,"run from 2000-12-29 states several CIKs (0000020171, 0000896159); published value is the most stated"
+2000-12-29,issuer_changed,CI,"run from 2000-12-29 states several CIKs (0000701221, 0001739940); published value is the most stated"
+2000-12-29,issuer_changed,DIS,"run from 2000-12-29 states several CIKs (0001001039, 0001744489); published value is the most stated"
+2000-12-29,issuer_changed,JCI,"run from 2000-12-29 states several CIKs (0000053669, 0000833444); published value is the most stated"
+2000-12-29,issuer_changed,MDT,"run from 2000-12-29 states several CIKs (0000064670, 0001613103); published value is the most stated"
+2000-12-29,issuer_changed,XRX,"run from 2000-12-29 states several CIKs (0000108772, 0001770450); published value is the most stated"
+2004-04-26,issuer_changed,MYL,"run from 2004-04-26 states several CIKs (0000069499, 0001623613); published value is the most stated"
+2004-12-31,issuer_changed,LLL,"run from 2004-12-31 states several CIKs (0001039101, 0001056239); published value is the most stated"
+2006-06-01,issuer_changed,GOOG,"run from 2006-06-01 states several CIKs (0001288776, 0001652044); published value is the most stated"
+2006-06-02,phantom_addition,JNPR,record dated 2006-06-02 matches no transition in the snapshots
+2006-06-02,phantom_removal,ABS,record dated 2006-06-02 matches no transition in the snapshots
+2007-01-10,phantom_addition,AVB,record dated 2007-01-10 matches no transition in the snapshots
+2007-01-10,phantom_removal,SBL,record dated 2007-01-10 matches no transition in the snapshots
+2007-05-15,resurrection,CMX,absent from the provider snapshot of 2007-04-16 but back in the crowd snapshots by 2007-05-15 with no record behind the return; the file wins
+2007-05-15,resurrection,PD,absent from the provider snapshot of 2007-04-16 but back in the crowd snapshots by 2007-05-15 with no record behind the return; the file wins
+2007-05-15,resurrection,TSG,absent from the provider snapshot of 2007-04-16 but back in the crowd snapshots by 2007-05-15 with no record behind the return; the file wins
+2007-05-15,resurrection,UVN,absent from the provider snapshot of 2007-04-16 but back in the crowd snapshots by 2007-05-15 with no record behind the return; the file wins
+2007-07-02,stale_list,ADCT,"record dates this removal to 2007-07-02, but the list still disagreed at 2008-01-09; trusting the record"
+2007-07-02,stale_list,DFS,"record dates this addition to 2007-07-02, but the list still disagreed at 2008-01-09; trusting the record"
+2007-08-24,stale_list,KSE,"record dates this removal to 2007-08-24, but the list still disagreed at 2008-01-09; trusting the record"
+2007-08-24,stale_list,LUK,"record dates this addition to 2007-08-24, but the list still disagreed at 2008-01-09; trusting the record"
+2007-09-26,stale_list,FDC,"record dates this removal to 2007-09-26, but the list still disagreed at 2008-01-09; trusting the record"
+2007-09-26,stale_list,ICE,"record dates this addition to 2007-09-26, but the list still disagreed at 2008-01-09; trusting the record"
+2007-09-27,stale_list,MXIM,"record dates this removal to 2007-09-27, but the list still disagreed at 2008-01-09; trusting the record"
+2007-09-27,stale_list,TSO,"record dates this addition to 2007-09-27, but the list still disagreed at 2008-01-09; trusting the record"
+2007-10-01,stale_list,NCR,"record dates this removal to 2007-10-01, but the list still disagreed at 2008-01-09; trusting the record"
+2007-10-01,stale_list,TDC,"record dates this addition to 2007-10-01, but the list still disagreed at 2008-01-09; trusting the record"
+2007-10-02,stale_list,EXPE,"record dates this addition to 2007-10-02, but the list still disagreed at 2008-01-09; trusting the record"
+2007-10-02,stale_list,SLR,"record dates this removal to 2007-10-02, but the list still disagreed at 2008-01-09; trusting the record"
+2007-10-26,stale_list,AV,"record dates this removal to 2007-10-26, but the list still disagreed at 2008-01-09; trusting the record"
+2007-10-26,stale_list,JEC,"record dates this addition to 2007-10-26, but the list still disagreed at 2008-01-09; trusting the record"
+2007-12-13,stale_list,DJ,"record dates this removal to 2007-12-13, but the list still disagreed at 2008-01-09; trusting the record"
+2007-12-13,stale_list,GME,"record dates this addition to 2007-12-13, but the list still disagreed at 2008-01-09; trusting the record"
+2007-12-20,stale_list,RRC,"record dates this addition to 2007-12-20, but the list still disagreed at 2008-01-09; trusting the record"
+2007-12-20,stale_list,TRB,"record dates this removal to 2007-12-20, but the list still disagreed at 2008-01-09; trusting the record"
+2008-02-10,false_gap,ANF,"vanished for 271 days and returned as the same company with no record at either boundary; the article lost the row, so the gap is closed"
+2008-02-10,false_gap,DDR,"vanished for 271 days and returned as the same company with no record at either boundary; the article lost the row, so the gap is closed"
+2008-02-10,false_gap,HST,"vanished for 271 days and returned as the same company with no record at either boundary; the article lost the row, so the gap is closed"
+2008-02-10,false_gap,KFT,"vanished for 271 days and returned as the same company with no record at either boundary; the article lost the row, so the gap is closed"
+2008-06-10,stale_list,ABK,"record dates this removal to 2008-06-10, but the list still disagreed at 2008-06-20; trusting the record"
+2008-06-10,stale_list,LO,"record dates this addition to 2008-06-10, but the list still disagreed at 2008-08-08; trusting the record"
+2008-06-23,stale_list,MEE,"record dates this addition to 2008-06-23, but the list still disagreed at 2008-08-08; trusting the record"
+2008-06-23,stale_list,OMX,"record dates this removal to 2008-06-23, but the list still disagreed at 2008-08-08; trusting the record"
+2008-07-01,stale_list,AKS,"record dates this addition to 2008-07-01, but the list still disagreed at 2008-08-08; trusting the record"
+2008-09-12,false_gap,BCR,"vanished for 35 days and returned as the same company with no record at either boundary; the article lost the row, so the gap is closed"
+2008-12-31,stale_list,OI,"record dates this addition to 2008-12-31, but the list still disagreed at 2009-02-22; trusting the record"
+2008-12-31,stale_list,WB,"record dates this removal to 2008-12-31, but the list still disagreed at 2009-02-22; trusting the record"
+2009-03-03,stale_list,HRL,"record dates this addition to 2009-03-03, but the list still disagreed at 2009-04-06; trusting the record"
+2009-03-03,stale_list,JNY,"record dates this removal to 2009-03-03, but the list still disagreed at 2009-03-18; trusting the record"
+2009-03-03,stale_list,VTR,"record dates this addition to 2009-03-03, but the list still disagreed at 2009-03-18; trusting the record"
+2009-06-05,issuer_changed,FTI,"run from 2009-06-05 states several CIKs (0001135152, 0001681459); published value is the most stated"
+2009-06-25,phantom_removal,TEL,record dated 2009-06-25 matches no transition in the snapshots
+2009-06-29,stale_list,PCS,"record dates this addition to 2009-06-29, but the list still disagreed at 2009-07-04; trusting the record"
+2009-08-19,stale_list,CTX,"record dates this removal to 2009-08-19, but the list still disagreed at 2009-10-01; trusting the record"
+2009-08-19,stale_list,FMC,"record dates this addition to 2009-08-19, but the list still disagreed at 2009-10-01; trusting the record"
+2009-09-28,stale_list,ARG,"record dates this addition to 2009-09-28, but the list still disagreed at 2010-07-11; trusting the record"
+2009-09-28,stale_list,CBE,"record dates this removal to 2009-09-28, but the list still disagreed at 2010-07-11; trusting the record"
+2009-11-03,stale_list,PCLN,"record dates this addition to 2009-11-03, but the list still disagreed at 2010-07-11; trusting the record"
+2009-11-03,stale_list,SGP,"record dates this removal to 2009-11-03, but the list still disagreed at 2009-12-31; trusting the record"
+2009-12-18,stale_list,CIEN,"record dates this removal to 2009-12-18, but the list still disagreed at 2010-01-23; trusting the record"
+2009-12-18,stale_list,CLF,"record dates this addition to 2009-12-18, but the list still disagreed at 2010-01-23; trusting the record"
+2009-12-18,stale_list,CVG,"record dates this removal to 2009-12-18, but the list still disagreed at 2010-01-23; trusting the record"
+2009-12-18,stale_list,DYN,"record dates this removal to 2009-12-18, but the list still disagreed at 2010-01-23; trusting the record"
+2009-12-18,stale_list,KBH,"record dates this removal to 2009-12-18, but the list still disagreed at 2010-01-23; trusting the record"
+2009-12-18,stale_list,MBI,"record dates this removal to 2009-12-18, but the list still disagreed at 2010-01-23; trusting the record"
+2009-12-18,stale_list,MJN,"record dates this addition to 2009-12-18, but the list still disagreed at 2010-01-23; trusting the record"
+2009-12-18,stale_list,ROST,"record dates this addition to 2009-12-18, but the list still disagreed at 2010-01-23; trusting the record"
+2009-12-18,stale_list,SAI,"record dates this addition to 2009-12-18, but the list still disagreed at 2010-01-23; trusting the record"
+2009-12-18,stale_list,V,"record dates this addition to 2009-12-18, but the list still disagreed at 2010-01-23; trusting the record"
+2010-02-26,stale_list,HP,"record dates this addition to 2010-02-26, but the list still disagreed at 2010-03-22; trusting the record"
+2010-02-26,stale_list,RX,"record dates this removal to 2010-02-26, but the list still disagreed at 2010-03-22; trusting the record"
+2010-06-28,stale_list,KMX,"record dates this addition to 2010-06-28, but the list still disagreed at 2010-07-11; trusting the record"
+2010-06-28,stale_list,XTO,"record dates this removal to 2010-06-28, but the list still disagreed at 2010-07-11; trusting the record"
+2010-06-30,stale_list,QEP,"record dates this addition to 2010-06-30, but the list still disagreed at 2010-07-11; trusting the record"
+2010-06-30,stale_list,STR,"record dates this removal to 2010-06-30, but the list still disagreed at 2010-07-11; trusting the record"
+2010-07-14,phantom_addition,CB,record dated 2010-07-14 matches no transition in the snapshots
+2010-11-17,issuer_changed,IR,"run from 2010-11-17 states several CIKs (0001466258, 0001699150); published value is the most stated"
+2010-12-17,stale_list,CVC,"record dates this addition to 2010-12-17, but the list still disagreed at 2011-03-07; trusting the record"
+2010-12-17,stale_list,EK,"record dates this removal to 2010-12-17, but the list still disagreed at 2011-03-07; trusting the record"
+2010-12-17,stale_list,FFIV,"record dates this addition to 2010-12-17, but the list still disagreed at 2011-03-07; trusting the record"
+2010-12-17,stale_list,KG,"record dates this removal to 2010-12-17, but the list still disagreed at 2011-03-07; trusting the record"
+2010-12-17,stale_list,NFLX,"record dates this addition to 2010-12-17, but the list still disagreed at 2011-03-07; trusting the record"
+2010-12-17,stale_list,NFX,"record dates this addition to 2010-12-17, but the list still disagreed at 2011-03-07; trusting the record"
+2010-12-17,stale_list,NYT,"record dates this removal to 2010-12-17, but the list still disagreed at 2011-03-07; trusting the record"
+2010-12-17,stale_list,ODP,"record dates this removal to 2010-12-17, but the list still disagreed at 2011-03-07; trusting the record"
+2011-01-03,stale_list,MDP,"record dates this removal to 2011-01-03, but the list still disagreed at 2011-03-07; trusting the record"
+2011-01-03,stale_list,MMI,"record dates this addition to 2011-01-03, but the list still disagreed at 2011-03-07; trusting the record"
+2011-02-25,stale_list,JOYG,"record dates this addition to 2011-02-25, but the list still disagreed at 2011-03-07; trusting the record"
+2011-02-28,stale_list,MFE,"record dates this removal to 2011-02-28, but the list still disagreed at 2011-03-07; trusting the record"
+2011-03-24,unexplained_addition,MSI,appeared between 2011-03-07 and 2011-03-24 with no change record
+2011-03-24,unexplained_addition,NE,appeared between 2011-03-07 and 2011-03-24 with no change record
+2011-03-24,unexplained_removal,MOT,vanished between 2011-03-07 and 2011-03-24 with no change record
+2011-03-24,unexplained_removal,QLGC,vanished between 2011-03-07 and 2011-03-24 with no change record
+2011-03-31,stale_list,EW,"record dates this addition to 2011-03-31, but the list still disagreed at 2011-04-07; trusting the record"
+2011-03-31,stale_list,Q,"record dates this removal to 2011-03-31, but the list still disagreed at 2011-04-07; trusting the record"
+2011-04-01,issuer_changed,BLK,"run from 2011-04-01 states several CIKs (0001364742, 0002012383); published value is the most stated"
+2011-04-01,stale_list,BLK,"record dates this addition to 2011-04-01, but the list still disagreed at 2011-04-07; trusting the record"
+2011-04-01,stale_list,GENZ,"record dates this removal to 2011-04-01, but the list still disagreed at 2011-04-07; trusting the record"
+2011-06-09,unexplained_addition,WFM,appeared between 2011-05-24 and 2011-06-09 with no change record
+2011-06-09,unexplained_removal,WFMI,vanished between 2011-05-24 and 2011-06-09 with no change record
+2011-06-30,stale_list,MPC,"record dates this addition to 2011-06-30, but the list still disagreed at 2011-12-28; trusting the record"
+2011-06-30,stale_list,RSH,"record dates this removal to 2011-06-30, but the list still disagreed at 2011-12-28; trusting the record"
+2011-07-05,stale_list,ACN,"record dates this addition to 2011-07-05, but the list still disagreed at 2011-11-05; trusting the record"
+2011-07-05,stale_list,MI,"record dates this removal to 2011-07-05, but the list still disagreed at 2011-11-05; trusting the record"
+2011-09-23,stale_list,MOS,"record dates this addition to 2011-09-23, but the list still disagreed at 2011-10-01; trusting the record"
+2011-09-23,stale_list,NSM,"record dates this removal to 2011-09-23, but the list still disagreed at 2011-10-01; trusting the record"
+2011-10-14,stale_list,CEPH,"record dates this removal to 2011-10-14, but the list still disagreed at 2011-10-19; trusting the record"
+2011-10-14,stale_list,TEL,"record dates this addition to 2011-10-14, but the list still disagreed at 2011-10-19; trusting the record"
+2011-10-31,stale_list,XYL,"record dates this addition to 2011-10-31, but the list still disagreed at 2011-11-05; trusting the record"
+2011-11-18,stale_list,CBE,"record dates this addition to 2011-11-18, but the list still disagreed at 2011-11-22; trusting the record"
+2011-11-18,stale_list,JNS,"record dates this removal to 2011-11-18, but the list still disagreed at 2011-11-22; trusting the record"
+2011-11-22,unexplained_addition,BEAM,appeared between 2011-11-05 and 2011-11-22 with no change record
+2011-11-22,unexplained_removal,FO,vanished between 2011-11-05 and 2011-11-22 with no change record
+2011-11-22,unexplained_removal,ITT,vanished between 2011-11-05 and 2011-11-22 with no change record
+2011-12-12,issuer_split,GAS,record dated 2011-12-12 removes and adds this symbol in one day; the run is split into two issuers
+2011-12-12,stale_list,GAS,"record dated 2011-12-12 removed this name, but the list still carried it at 2011-11-22; trusting the record"
+2011-12-16,stale_list,AKS,"record dates this removal to 2011-12-16, but the list still disagreed at 2011-12-28; trusting the record"
+2011-12-16,stale_list,BWA,"record dates this addition to 2011-12-16, but the list still disagreed at 2011-12-28; trusting the record"
+2011-12-16,stale_list,DLTR,"record dates this addition to 2011-12-16, but the list still disagreed at 2011-12-28; trusting the record"
+2011-12-16,stale_list,MWW,"record dates this removal to 2011-12-16, but the list still disagreed at 2011-12-28; trusting the record"
+2011-12-16,stale_list,PRGO,"record dates this addition to 2011-12-16, but the list still disagreed at 2011-12-28; trusting the record"
+2011-12-16,stale_list,WFR,"record dates this removal to 2011-12-16, but the list still disagreed at 2011-12-28; trusting the record"
+2011-12-20,stale_list,TRIP,"record dates this addition to 2011-12-20, but the list still disagreed at 2011-12-28; trusting the record"
+2011-12-28,unexplained_addition,EA,appeared between 2011-11-22 and 2011-12-28 with no change record
+2011-12-28,unexplained_addition,JOY,appeared between 2011-11-22 and 2011-12-28 with no change record
+2011-12-28,unexplained_removal,ERTS,vanished between 2011-11-22 and 2011-12-28 with no change record
+2011-12-28,unexplained_removal,JOYG,vanished between 2011-11-22 and 2011-12-28 with no change record
+2012-03-13,stale_list,CCI,"record dates this addition to 2012-03-13, but the list still disagreed at 2012-04-04; trusting the record"
+2012-03-13,stale_list,CEG,"record dates this removal to 2012-03-13, but the list still disagreed at 2012-04-04; trusting the record"
+2012-04-03,stale_list,FOSL,"record dates this addition to 2012-04-03, but the list still disagreed at 2012-04-04; trusting the record"
+2012-04-03,stale_list,MHS,"record dates this removal to 2012-04-03, but the list still disagreed at 2012-04-04; trusting the record"
+2012-05-21,stale_list,ALXN,"record dates this addition to 2012-05-21, but the list still disagreed at 2012-05-29; trusting the record"
+2012-05-21,stale_list,MMI,"record dates this removal to 2012-05-21, but the list still disagreed at 2012-05-29; trusting the record"
+2013-01-25,unexplained_addition,ACT,appeared between 2012-12-27 and 2013-01-25 with no change record
+2013-01-25,unexplained_removal,WPI,vanished between 2012-12-27 and 2013-01-25 with no change record
+2013-05-19,unexplained_addition,MHFI,appeared between 2013-05-02 and 2013-05-19 with no change record
+2013-05-19,unexplained_removal,MHP,vanished between 2013-05-02 and 2013-05-19 with no change record
+2013-06-21,stale_list,FHN,"record dates this removal to 2013-06-21, but the list still disagreed at 2013-08-24; trusting the record"
+2013-06-21,stale_list,ZTS,"record dates this addition to 2013-06-21, but the list still disagreed at 2013-08-24; trusting the record"
+2013-07-01,phantom_addition,NWS-A,record dated 2013-07-01 matches no transition in the snapshots
+2013-07-01,stale_list,APOL,"record dates this removal to 2013-07-01, but the list still disagreed at 2013-07-08; trusting the record"
+2013-08-09,unexplained_addition,FOXA,appeared between 2013-07-08 and 2013-08-09 with no change record
+2013-09-10,stale_list,BMC,"record dates this removal to 2013-09-10, but the list still disagreed at 2013-09-11; trusting the record"
+2013-09-10,stale_list,DAL,"record dates this addition to 2013-09-10, but the list still disagreed at 2013-09-11; trusting the record"
+2013-09-20,stale_list,AMD,"record dates this removal to 2013-09-20, but the list still disagreed at 2013-11-02; trusting the record"
+2013-09-20,stale_list,AME,"record dates this addition to 2013-09-20, but the list still disagreed at 2013-11-02; trusting the record"
+2013-09-20,stale_list,SAI,"record dates this removal to 2013-09-20, but the list still disagreed at 2013-09-29; trusting the record"
+2013-09-20,stale_list,VRTX,"record dates this addition to 2013-09-20, but the list still disagreed at 2013-11-02; trusting the record"
+2013-10-15,unexplained_addition,SAIC,appeared between 2013-09-29 and 2013-10-15 with no change record
+2013-10-29,stale_list,DELL,"record dates this removal to 2013-10-29, but the list still disagreed at 2013-12-01; trusting the record"
+2013-10-29,stale_list,RIG,"record dates this addition to 2013-10-29, but the list still disagreed at 2013-12-01; trusting the record"
+2013-11-13,stale_list,KORS,"record dates this addition to 2013-11-13, but the list still disagreed at 2013-11-16; trusting the record"
+2013-11-13,stale_list,NYX,"record dates this removal to 2013-11-13, but the list still disagreed at 2013-11-16; trusting the record"
+2013-11-16,unexplained_removal,SAIC,vanished between 2013-11-02 and 2013-11-16 with no change record
+2013-12-01,unexplained_addition,ALLE,appeared between 2013-11-16 and 2013-12-01 with no change record
+2013-12-01,unexplained_removal,JCP,vanished between 2013-11-16 and 2013-12-01 with no change record
+2013-12-10,issuer_changed,GGP,"run from 2013-12-10 states several CIKs (0000895648, 0001496048); published value is the most stated"
+2013-12-19,unexplained_addition,GHC,appeared between 2013-12-01 and 2013-12-19 with no change record
+2013-12-19,unexplained_addition,LB,appeared between 2013-12-01 and 2013-12-19 with no change record
+2013-12-19,unexplained_removal,LTD,vanished between 2013-12-01 and 2013-12-19 with no change record
+2013-12-19,unexplained_removal,WPO,vanished between 2013-12-01 and 2013-12-19 with no change record
+2014-01-24,stale_list,LIFE,"record dates this removal to 2014-01-24, but the list still disagreed at 2014-01-28; trusting the record"
+2014-01-24,stale_list,TSCO,"record dates this addition to 2014-01-24, but the list still disagreed at 2014-01-28; trusting the record"
+2014-03-21,stale_list,GMCR,"record dates this addition to 2014-03-21, but the list still disagreed at 2014-03-22; trusting the record"
+2014-03-21,stale_list,WPX,"record dates this removal to 2014-03-21, but the list still disagreed at 2014-03-22; trusting the record"
+2014-04-03,issuer_changed,GOOGL,"run from 2014-04-03 states several CIKs (0001288776, 0001652044); published value is the most stated"
+2014-05-01,issuer_changed,NAVI,"run from 2014-05-01 states several CIKs (0001084750, 0001593538); published value is the most stated"
+2014-05-08,issuer_changed,AVGO,"run from 2014-05-08 states several CIKs (0001441634, 0001730168); published value is the most stated"
+2014-05-08,stale_list,AVGO,"record dates this addition to 2014-05-08, but the list still disagreed at 2014-05-09; trusting the record"
+2014-05-08,stale_list,LSI,"record dates this removal to 2014-05-08, but the list still disagreed at 2014-05-09; trusting the record"
+2014-06-20,stale_list,IGT,"record dates this removal to 2014-06-20, but the list still disagreed at 2014-06-21; trusting the record"
+2014-06-20,stale_list,XEC,"record dates this addition to 2014-06-20, but the list still disagreed at 2014-06-21; trusting the record"
+2014-08-18,stale_list,MNK,"record dates this addition to 2014-08-18, but the list still disagreed at 2014-09-17; trusting the record"
+2014-08-18,stale_list,RDC,"record dates this removal to 2014-08-18, but the list still disagreed at 2014-09-17; trusting the record"
+2014-09-20,issuer_changed,URI,"run from 2014-09-20 states several CIKs (0001067701, 0001215583); published value is the most stated"
+2014-12-24,unexplained_addition,ANTM,appeared between 2014-11-27 and 2014-12-24 with no change record
+2014-12-24,unexplained_removal,WLP,vanished between 2014-11-27 and 2014-12-24 with no change record
+2015-02-07,issuer_changed,WBA,"run from 2015-02-07 states several CIKs (0000104207, 0001618921); published value is the most stated"
+2015-02-07,unexplained_addition,WBA,appeared between 2014-12-24 and 2015-02-07 with no change record
+2015-02-07,unexplained_removal,WAG,vanished between 2014-12-24 and 2015-02-07 with no change record
+2015-03-06,unexplained_addition,ES,appeared between 2015-02-07 and 2015-03-06 with no change record
+2015-03-06,unexplained_removal,NU,vanished between 2015-02-07 and 2015-03-06 with no change record
+2015-06-29,issuer_changed,AGN,"run from 2015-06-29 states several CIKs (0000884629, 0001578845); published value is the most stated"
+2015-06-29,unexplained_addition,AGN,appeared between 2015-06-10 and 2015-06-29 with no change record
+2015-06-29,unexplained_removal,ACT,vanished between 2015-06-10 and 2015-06-29 with no change record
+2015-07-06,issuer_changed,KHC,"run from 2015-07-06 states several CIKs (0001545158, 0001637459); published value is the most stated"
+2015-07-06,stale_list,KHC,"record dates this addition to 2015-07-06, but the list still disagreed at 2015-07-15; trusting the record"
+2015-07-06,stale_list,KRFT,"record dates this removal to 2015-07-06, but the list still disagreed at 2015-07-15; trusting the record"
+2015-07-15,unexplained_addition,TGNA,appeared between 2015-06-29 and 2015-07-15 with no change record
+2015-07-15,unexplained_addition,ZBH,appeared between 2015-06-29 and 2015-07-15 with no change record
+2015-07-15,unexplained_removal,GCI,vanished between 2015-06-29 and 2015-07-15 with no change record
+2015-07-15,unexplained_removal,ZMH,vanished between 2015-06-29 and 2015-07-15 with no change record
+2015-07-30,issuer_changed,WRK,"run from 2015-07-30 states several CIKs (0001159297, 0001636023, 0001732845); published value is the most stated"
+2015-07-30,unexplained_addition,WRK,appeared between 2015-07-15 and 2015-07-30 with no change record
+2015-07-30,unexplained_removal,MWV,vanished between 2015-07-15 and 2015-07-30 with no change record
+2016-04-08,phantom_addition,UA,record dated 2016-04-08 matches no transition in the snapshots
+2016-05-12,unexplained_addition,SPGI,appeared between 2016-04-27 and 2016-05-12 with no change record
+2016-05-12,unexplained_removal,MHFI,vanished between 2016-04-27 and 2016-05-12 with no change record
+2016-08-22,unexplained_addition,UA-C,appeared between 2016-08-05 and 2016-08-22 with no change record
+2016-09-06,stale_list,MTD,"record dates this addition to 2016-09-06, but the list still disagreed at 2016-09-10; trusting the record"
+2016-09-06,stale_list,TYC,"record dates this removal to 2016-09-06, but the list still disagreed at 2016-09-10; trusting the record"
+2016-09-08,stale_list,CHTR,"record dates this addition to 2016-09-08, but the list still disagreed at 2016-09-10; trusting the record"
+2016-09-08,stale_list,EMC,"record dates this removal to 2016-09-08, but the list still disagreed at 2016-09-10; trusting the record"
+2016-09-22,stale_list,COO,"record dates this addition to 2016-09-22, but the list still disagreed at 2016-09-24; trusting the record"
+2016-09-22,stale_list,HOT,"record dates this removal to 2016-09-22, but the list still disagreed at 2016-09-24; trusting the record"
+2016-12-10,ambiguous_rename,UAA,"UA-C ends where UAA begins under one filer, but UA held the same filer across the boundary too; which line continued into which is not stated, so no rename is asserted"
+2016-12-10,unexplained_addition,UAA,appeared between 2016-11-26 and 2016-12-10 with no change record
+2016-12-10,unexplained_removal,UA-C,vanished between 2016-11-26 and 2016-12-10 with no change record
+2017-04-05,stale_list,DNB,"record dates this removal to 2017-04-05, but the list still disagreed at 2017-04-07; trusting the record"
+2017-04-05,stale_list,IT,"record dates this addition to 2017-04-05, but the list still disagreed at 2017-04-07; trusting the record"
+2017-07-06,unexplained_addition,BHGE,appeared between 2017-06-15 and 2017-07-06 with no change record
+2017-07-07,phantom_addition,BKR,record dated 2017-07-07 matches no transition in the snapshots
+2017-08-06,unexplained_addition,ANDV,appeared between 2017-07-22 and 2017-08-06 with no change record
+2017-08-06,unexplained_removal,TSO,vanished between 2017-07-22 and 2017-08-06 with no change record
+2017-10-13,stale_list,LVLT,"record dates this removal to 2017-10-13, but the list still disagreed at 2017-10-17; trusting the record"
+2017-10-13,stale_list,NCLH,"record dates this addition to 2017-10-13, but the list still disagreed at 2017-10-17; trusting the record"
+2017-10-31,unexplained_addition,TPR,appeared between 2017-10-17 and 2017-10-31 with no change record
+2017-10-31,unexplained_removal,COH,vanished between 2017-10-17 and 2017-10-31 with no change record
+2017-12-15,unexplained_addition,APTV,appeared between 2017-11-28 and 2017-12-15 with no change record
+2017-12-15,unexplained_removal,DLPH,vanished between 2017-11-28 and 2017-12-15 with no change record
+2018-01-03,stale_list,BCR,"record dates this removal to 2018-01-03, but the list still disagreed at 2018-01-04; trusting the record"
+2018-01-03,stale_list,HII,"record dates this addition to 2018-01-03, but the list still disagreed at 2018-01-04; trusting the record"
+2018-02-28,unexplained_addition,BKNG,appeared between 2018-02-14 and 2018-02-28 with no change record
+2018-02-28,unexplained_addition,WELL,appeared between 2018-02-14 and 2018-02-28 with no change record
+2018-02-28,unexplained_removal,HCN,vanished between 2018-02-14 and 2018-02-28 with no change record
+2018-02-28,unexplained_removal,PCLN,vanished between 2018-02-14 and 2018-02-28 with no change record
+2018-04-03,unexplained_addition,CBRE,appeared between 2018-03-16 and 2018-04-03 with no change record
+2018-04-03,unexplained_removal,CBG,vanished between 2018-03-16 and 2018-04-03 with no change record
+2018-05-31,unexplained_addition,JEF,appeared between 2018-05-16 and 2018-05-31 with no change record
+2018-05-31,unexplained_removal,LUK,vanished between 2018-05-16 and 2018-05-31 with no change record
+2018-08-28,stale_list,ANET,"record dates this addition to 2018-08-28, but the list still disagreed at 2018-08-29; trusting the record"
+2018-08-28,stale_list,GGP,"record dates this removal to 2018-08-28, but the list still disagreed at 2018-08-29; trusting the record"
+2018-11-13,issuer_changed,JKHY,"run from 2018-11-13 states several CIKs (0000779152, 0001262439); published value is the most stated"
+2018-11-13,stale_list,EQT,"record dates this removal to 2018-11-13, but the list still disagreed at 2018-11-14; trusting the record"
+2018-11-13,stale_list,JKHY,"record dates this addition to 2018-11-13, but the list still disagreed at 2018-11-14; trusting the record"
+2018-11-14,unexplained_addition,LIN,appeared between 2018-10-31 and 2018-11-14 with no change record
+2018-11-14,unexplained_removal,PX,vanished between 2018-10-31 and 2018-11-14 with no change record
+2019-01-14,unexplained_addition,CPRI,appeared between 2018-12-24 and 2019-01-14 with no change record
+2019-01-14,unexplained_removal,KORS,vanished between 2018-12-24 and 2019-01-14 with no change record
+2019-03-19,issuer_changed,FOX,"run from 2019-03-19 states several CIKs (0001308161, 0001754301); published value is the most stated"
+2019-03-19,issuer_changed,FOXA,"run from 2019-03-19 states several CIKs (0001308161, 0001754301); published value is the most stated"
+2019-03-19,issuer_split,FOX,record dated 2019-03-19 removes and adds this symbol in one day; the run is split into two issuers
+2019-03-19,issuer_split,FOXA,record dated 2019-03-19 removes and adds this symbol in one day; the run is split into two issuers
+2019-03-19,stale_list,FOX,"record dated 2019-03-19 removed this name, but the list still carried it at 2019-03-18; trusting the record"
+2019-03-19,stale_list,FOXA,"record dated 2019-03-19 removed this name, but the list still carried it at 2019-03-18; trusting the record"
+2019-06-07,phantom_addition,BMS,record dated 2019-06-07 matches no transition in the snapshots
+2019-06-07,stale_list,MAT,"record dates this removal to 2019-06-07, but the list still disagreed at 2019-06-08; trusting the record"
+2019-06-11,phantom_removal,BMS,record dated 2019-06-11 matches no transition in the snapshots
+2019-07-09,unexplained_addition,LHX,appeared between 2019-06-24 and 2019-07-09 with no change record
+2019-07-09,unexplained_removal,HRS,vanished between 2019-06-24 and 2019-07-09 with no change record
+2019-08-16,unexplained_addition,GL,appeared between 2019-08-02 and 2019-08-16 with no change record
+2019-08-16,unexplained_removal,TMK,vanished between 2019-08-02 and 2019-08-16 with no change record
+2019-10-25,unexplained_addition,BKR,appeared between 2019-09-25 and 2019-10-25 with no change record
+2019-10-25,unexplained_removal,BHGE,vanished between 2019-09-25 and 2019-10-25 with no change record
+2019-11-09,unexplained_addition,NLOK,appeared between 2019-10-25 and 2019-11-09 with no change record
+2019-11-09,unexplained_addition,PEAK,appeared between 2019-10-25 and 2019-11-09 with no change record
+2019-11-09,unexplained_removal,HCP,vanished between 2019-10-25 and 2019-11-09 with no change record
+2019-11-09,unexplained_removal,SYMC,vanished between 2019-10-25 and 2019-11-09 with no change record
+2019-12-08,issuer_changed,VIAC,"run from 2019-12-08 states several CIKs (0000813828, 0001339947); published value is the most stated"
+2019-12-08,unexplained_addition,VIAC,appeared between 2019-11-23 and 2019-12-08 with no change record
+2019-12-08,unexplained_removal,CBS,vanished between 2019-11-23 and 2019-12-08 with no change record
+2019-12-23,stale_list,AMG,"record dates this removal to 2019-12-23, but the list still disagreed at 2019-12-25; trusting the record"
+2019-12-23,stale_list,LYV,"record dates this addition to 2019-12-23, but the list still disagreed at 2019-12-25; trusting the record"
+2019-12-23,stale_list,MAC,"record dates this removal to 2019-12-23, but the list still disagreed at 2019-12-25; trusting the record"
+2019-12-23,stale_list,STE,"record dates this addition to 2019-12-23, but the list still disagreed at 2019-12-25; trusting the record"
+2019-12-23,stale_list,TRIP,"record dates this removal to 2019-12-23, but the list still disagreed at 2019-12-25; trusting the record"
+2019-12-23,stale_list,ZBRA,"record dates this addition to 2019-12-23, but the list still disagreed at 2019-12-25; trusting the record"
+2019-12-25,unexplained_addition,J,appeared between 2019-12-08 and 2019-12-25 with no change record
+2019-12-25,unexplained_addition,TFC,appeared between 2019-12-08 and 2019-12-25 with no change record
+2019-12-25,unexplained_removal,BBT,vanished between 2019-12-08 and 2019-12-25 with no change record
+2019-12-25,unexplained_removal,JEC,vanished between 2019-12-08 and 2019-12-25 with no change record
+2020-03-02,phantom_addition,IR,record dated 2020-03-02 matches no transition in the snapshots
+2020-04-01,stale_list,ARNC,"record dates this removal to 2020-04-01, but the list still disagreed at 2020-04-02; trusting the record"
+2020-04-02,unexplained_addition,TT,appeared between 2020-03-01 and 2020-04-02 with no change record
+2020-04-19,unexplained_addition,RTX,appeared between 2020-04-02 and 2020-04-19 with no change record
+2020-04-19,unexplained_removal,UTX,vanished between 2020-04-02 and 2020-04-19 with no change record
+2020-06-22,stale_list,ADS,"record dates this removal to 2020-06-22, but the list still disagreed at 2020-07-11; trusting the record"
+2020-06-22,stale_list,BIO,"record dates this addition to 2020-06-22, but the list still disagreed at 2020-07-11; trusting the record"
+2020-06-22,stale_list,HOG,"record dates this removal to 2020-06-22, but the list still disagreed at 2020-07-11; trusting the record"
+2020-06-22,stale_list,JWN,"record dates this removal to 2020-06-22, but the list still disagreed at 2020-07-11; trusting the record"
+2020-06-22,stale_list,TDY,"record dates this addition to 2020-06-22, but the list still disagreed at 2020-07-11; trusting the record"
+2020-06-22,stale_list,TYL,"record dates this addition to 2020-06-22, but the list still disagreed at 2020-07-11; trusting the record"
+2020-09-21,stale_list,COTY,"record dates this removal to 2020-09-21, but the list still disagreed at 2020-09-27; trusting the record"
+2020-09-21,stale_list,CTLT,"record dates this addition to 2020-09-21, but the list still disagreed at 2020-09-27; trusting the record"
+2020-09-21,stale_list,ETSY,"record dates this addition to 2020-09-21, but the list still disagreed at 2020-09-27; trusting the record"
+2020-09-21,stale_list,HRB,"record dates this removal to 2020-09-21, but the list still disagreed at 2020-09-27; trusting the record"
+2020-09-21,stale_list,KSS,"record dates this removal to 2020-09-21, but the list still disagreed at 2020-09-27; trusting the record"
+2020-09-21,stale_list,TER,"record dates this addition to 2020-09-21, but the list still disagreed at 2020-09-27; trusting the record"
+2020-09-27,unexplained_addition,LUMN,appeared between 2020-08-26 and 2020-09-27 with no change record
+2020-09-27,unexplained_removal,CTL,vanished between 2020-08-26 and 2020-09-27 with no change record
+2020-11-27,unexplained_addition,VTRS,appeared between 2020-11-12 and 2020-11-27 with no change record
+2020-11-27,unexplained_removal,MYL,vanished between 2020-11-12 and 2020-11-27 with no change record
+2021-05-14,stale_list,CRL,"record dates this addition to 2021-05-14, but the list still disagreed at 2021-05-17; trusting the record"
+2021-05-14,stale_list,FLIR,"record dates this removal to 2021-05-14, but the list still disagreed at 2021-05-17; trusting the record"
+2021-08-04,unexplained_addition,BBWI,appeared between 2021-07-19 and 2021-08-04 with no change record
+2021-08-04,unexplained_removal,LB,vanished between 2021-07-19 and 2021-08-04 with no change record
+2021-10-06,unexplained_addition,CTRA,appeared between 2021-09-22 and 2021-10-06 with no change record
+2021-10-06,unexplained_removal,COG,vanished between 2021-09-22 and 2021-10-06 with no change record
+2022-02-22,unexplained_addition,PARA,appeared between 2022-02-07 and 2022-02-22 with no change record
+2022-02-22,unexplained_removal,VIAC,vanished between 2022-02-07 and 2022-02-22 with no change record
+2022-06-08,unexplained_addition,BALL,appeared between 2022-05-08 and 2022-06-08 with no change record
+2022-06-08,unexplained_removal,BLL,vanished between 2022-05-08 and 2022-06-08 with no change record
+2022-06-22,unexplained_addition,META,appeared between 2022-06-08 and 2022-06-22 with no change record
+2022-06-22,unexplained_removal,FB,vanished between 2022-06-08 and 2022-06-22 with no change record
+2022-07-09,unexplained_addition,ELV,appeared between 2022-06-22 and 2022-07-09 with no change record
+2022-07-09,unexplained_removal,ANTM,vanished between 2022-06-22 and 2022-07-09 with no change record
+2022-11-09,unexplained_removal,NLOK,vanished between 2022-10-21 and 2022-11-09 with no change record
+2022-11-23,unexplained_addition,GEN,appeared between 2022-11-09 and 2022-11-23 with no change record
+2022-12-15,phantom_addition,MBC,record dated 2022-12-15 matches no transition in the snapshots
+2022-12-19,phantom_removal,MBC,record dated 2022-12-19 matches no transition in the snapshots
+2022-12-22,stale_list,STLD,"record dates this addition to 2022-12-22, but the list still disagreed at 2022-12-23; trusting the record"
+2023-03-15,issuer_changed,BG,"run from 2023-03-15 states several CIKs (0001144519, 0001996862); published value is the most stated"
+2023-05-17,unexplained_addition,RVTY,appeared between 2023-05-02 and 2023-05-17 with no change record
+2023-05-17,unexplained_removal,PKI,vanished between 2023-05-02 and 2023-05-17 with no change record
+2023-06-19,unexplained_addition,FI,appeared between 2023-06-01 and 2023-06-19 with no change record
+2023-06-19,unexplained_removal,FISV,vanished between 2023-06-01 and 2023-06-19 with no change record
+2023-07-31,unexplained_addition,EG,appeared between 2023-07-11 and 2023-07-31 with no change record
+2023-07-31,unexplained_removal,RE,vanished between 2023-07-11 and 2023-07-31 with no change record
+2023-09-08,unexplained_addition,COR,appeared between 2023-08-24 and 2023-09-08 with no change record
+2023-09-08,unexplained_removal,ABC,vanished between 2023-08-24 and 2023-09-08 with no change record
+2024-03-04,unexplained_addition,DOC,appeared between 2024-02-02 and 2024-03-04 with no change record
+2024-03-04,unexplained_removal,PEAK,vanished between 2024-02-02 and 2024-03-04 with no change record
+2024-07-30,unexplained_addition,SW,appeared between 2024-07-04 and 2024-07-30 with no change record
+2024-07-30,unexplained_removal,WRK,vanished between 2024-07-04 and 2024-07-30 with no change record
+2024-12-23,stale_list,AMTM,"record dates this removal to 2024-12-23, but the list still disagreed at 2024-12-24; trusting the record"
+2024-12-23,stale_list,APO,"record dates this addition to 2024-12-23, but the list still disagreed at 2024-12-24; trusting the record"
+2024-12-23,stale_list,QRVO,"record dates this removal to 2024-12-23, but the list still disagreed at 2024-12-24; trusting the record"
+2024-12-23,stale_list,WDAY,"record dates this addition to 2024-12-23, but the list still disagreed at 2024-12-24; trusting the record"
+2025-08-25,unexplained_addition,PSKY,appeared between 2025-08-04 and 2025-08-25 with no change record
+2025-08-25,unexplained_removal,PARA,vanished between 2025-08-04 and 2025-08-25 with no change record
+2025-11-20,unexplained_addition,FISV,appeared between 2025-11-06 and 2025-11-20 with no change record
+2025-11-20,unexplained_removal,FI,vanished between 2025-11-06 and 2025-11-20 with no change record
+2026-01-26,unexplained_addition,MRSH,appeared between 2026-01-12 and 2026-01-26 with no change record
+2026-01-26,unexplained_removal,MMC,vanished between 2026-01-12 and 2026-01-26 with no change record
+2026-05-22,unexplained_addition,BNY,appeared between 2026-05-05 and 2026-05-22 with no change record
+2026-05-22,unexplained_removal,BK,vanished between 2026-05-05 and 2026-05-22 with no change record
+2026-07-09,unexplained_addition,ECHO,appeared between 2026-06-24 and 2026-07-09 with no change record
+2026-07-09,unexplained_removal,SATS,vanished between 2026-06-24 and 2026-07-09 with no change record
+2026-09-04,unexplained_addition,VMRK,appeared between 2026-08-18 and 2026-09-04 with no change record
+2026-09-04,unexplained_removal,EQR,vanished between 2026-08-18 and 2026-09-04 with no change record
